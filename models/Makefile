@@ -1,7 +1,7 @@
 MYDIR = .
 list: $(MYDIR)/*.tar
 	for file in $^ ; do \
-		echo $${file} ; \
+		echo $${file} >> eval_mean_rho.txt ; \
 		tar -xvzf $${file} ; \
-		cat eval.json ; \
+		jq .mean_rho eval.json >> eval_mean_rho.txt ; \
 	done
