@@ -70,7 +70,7 @@ print(SGNS_similarities)
 rho_SGNS = []
 
 for i in range(len(SGNS_similarities)):
-    rho_CBOW.append(SGNS_similarities[i][1])
+    rho_SGNS.append(SGNS_similarities[i][1])
 
 window_size_SGNS = np.arange(1,len(rho_SGNS)+1,1)
 SGNS_plot, ax_SGNS = plt.subplots()
