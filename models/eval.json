@@ -1,0 +1,18 @@
+{
+    "EN-WS-353-ALL.txt": {
+        "not_found": 2, 
+        "spearmans_rho": 0.5589559752784886, 
+        "total_pairs": 353
+    }, 
+    "EN-WS-353-REL.txt": {
+        "not_found": 1, 
+        "spearmans_rho": 0.4595648787962041, 
+        "total_pairs": 252
+    }, 
+    "EN-WS-353-SIM.txt": {
+        "not_found": 1, 
+        "spearmans_rho": 0.6295483247108006, 
+        "total_pairs": 203
+    }, 
+    "mean_rho": 0.5493563929284978
+}
