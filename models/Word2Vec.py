@@ -89,16 +89,25 @@ SGNS_plot.set_size_inches(11.69,4)
 SGNS_plot.savefig("WS-353_Spearmans_rho_SGNS_plot.png")
 
 
+os.chdir(os.getcwd()+"\Gensim_word2vec_models")
 
-#new_model = gensim.models.Word2Vec.load('./Gensim_word2vec_models/...model...')
+virus_cbow = []
+virus_sgns = []
 
+
+file = writtenByFile = open("virus_word_pair_comparison.txt", "w+", encoding="utf-8")
+
+for win in range(max_window_size):
+    virus_cbow.append(('cbow_model_w'+str(win+1),gensim.models.Word2Vec.load('cbow_model_w'+str(win+1)).wv.most_similar("virus")))
+    virus_sgns.append(('SGNS_model_w'+str(win+1),gensim.models.Word2Vec.load('SGNS_model_w'+str(win+1)).wv.most_similar("virus")))
+    file.write("%s\n" % (str(virus_cbow[win])))
+    file.write("%s\n" % (str(virus_sgns[win])))
+
+file.close()
 #for similiarity score
-#model.most_similar
-#model.doesnt_match
-#model.similarity
+#model.most_similar('word')
+#model.doesnt_match('word')
+#model.similarity('word')
 
 #to get vectors of a words
 #model['word']
-
-#also vecotrs in numpy array
-#model.syn0
