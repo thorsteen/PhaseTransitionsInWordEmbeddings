@@ -5,13 +5,13 @@ McKinney-Bock and Bedrick (2019) and Hershcovich et al. (2019) found anecdotally
 
 Experiment is done using BlazingText Algortihm from AWS SageMaker.
 
-Tentative schedule: 
-   • 6 april reading 
-   • 6 may reproduce word2vec exp. 
-   • 14 may write background: word2vec 
-   • 20 may benchmark qualitative analysis 
-   • 1 june: write background benchmarks 
-   • 10 june testing characteristics hypotheses 
-   • 1 july writing results 
-   • 20 july first draft 
+# Tentative schedule:
+   • 6 april reading
+   • 6 may reproduce word2vec exp.
+   • 14 may write background: word2vec
+   • 20 may benchmark qualitative analysis
+   • 1 june: write background benchmarks
+   • 10 june testing characteristics hypotheses
+   • 1 july writing results
+   • 20 july first draft
    • 14 august submission
