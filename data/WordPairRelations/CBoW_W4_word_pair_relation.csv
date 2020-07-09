@@ -1,7 +1,7 @@
-physics,chemistry,None 
-football,basketball,co_part_holonyms 
-television,radio,None 
-rock,jazz,None 
+physics,chemistry,co_hyponyms 
+football,basketball,co_hyponyms 
+television,radio,co_hyponyms 
+rock,jazz,co_hyponyms 
 liquid,water,hyponyms 
 type,kind,hypernyms 
 seven,series,None 
@@ -10,10 +10,10 @@ king,queen,identity
 man,woman,antonyms 
 planet,moon,None 
 journal,association,None 
-money,cash,None 
+money,cash,co_hyponyms 
 food,fruit,None 
 psychology,science,hypernyms 
-planet,sun,None 
+planet,sun,co_member_meronyms 
 media,radio,indirect_hyponyms 
 century,year,indirect_part_meronyms 
 five,month,None 
@@ -25,7 +25,7 @@ image,surface,None
 train,car,member_meronyms 
 coast,hill,None 
 skin,eye,None 
-planet,star,None 
+planet,star,co_hyponyms 
 money,currency,hypernyms 
 space,chemistry,None 
 computer,news,None 
@@ -47,7 +47,7 @@ cup,food,indirect_hypernyms
 wood,forest,identity 
 energy,secretary,None 
 ministry,culture,None 
-school,center,None 
+school,center,co_hyponyms 
 drink,mother,None 
 cup,article,indirect_hypernyms 
 problem,airport,None 
@@ -61,7 +61,7 @@ professor,doctor,None
 peace,plan,None 
 development,issue,indirect_hypernyms 
 sugar,approach,None 
-media,trading,None 
+media,trading,co_hyponyms 
 attempt,peace,None 
 direction,combination,None 
 peace,atmosphere,None 
@@ -70,7 +70,7 @@ street,children,None
 stock,life,None 
 holy,sex,None 
 report,gain,None 
-start,match,None 
+start,match,co_hyponyms 
 month,hotel,None 
 money,operation,None 
 possibility,girl,None 

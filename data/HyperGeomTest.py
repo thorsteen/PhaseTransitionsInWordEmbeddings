@@ -23,7 +23,7 @@ os.chdir(home + "\Documents\BaProject\PhaseTransitionsInWordEmbeddings\Data\Word
 #os.remove("Hypergeom_relation_test_counts.txt")
 
 
-outfile = open("pvalues_relations_CBoW.csv", "w+")
+outfile = open("pvalues_relations_CBoW.csv", "w")
 outfile.write("Model")
 for relation in DIRECT_RELATIONS: outfile.write(","+str(relation))
 outfile.write("\n")
@@ -38,8 +38,8 @@ for win in range(25):
     outfile.write(infile+",")
     data = np.loadtxt(infile, dtype = str, delimiter = ",")
     num_pairs = len(data)
-    num_top = 30
-    print("Running relation hypergeom-test of relations top-30 in " + infile)
+    num_top = 90
+    print("Running relation hypergeom-test of relations top-90 in " + infile)
     print("----------------------------------------------")
 
     for relation in DIRECT_RELATIONS:

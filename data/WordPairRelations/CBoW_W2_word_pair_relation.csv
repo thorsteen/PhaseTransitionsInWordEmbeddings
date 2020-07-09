@@ -1,9 +1,9 @@
-football,basketball,co_part_holonyms 
-physics,chemistry,None 
-television,radio,None 
+football,basketball,co_hyponyms 
+physics,chemistry,co_hyponyms 
+television,radio,co_hyponyms 
 liquid,water,hyponyms 
 type,kind,hypernyms 
-rock,jazz,None 
+rock,jazz,co_hyponyms 
 glass,metal,None 
 man,woman,antonyms 
 planet,moon,None 
@@ -12,10 +12,10 @@ king,queen,identity
 seven,series,None 
 psychology,science,hypernyms 
 skin,eye,None 
-money,cash,None 
+money,cash,co_hyponyms 
 food,fruit,None 
 five,month,None 
-planet,sun,None 
+planet,sun,co_member_meronyms 
 coast,forest,None 
 coast,hill,None 
 architecture,century,None 
@@ -26,7 +26,7 @@ drink,mother,None
 consumer,energy,None 
 century,year,indirect_part_meronyms 
 wood,forest,identity 
-planet,star,None 
+planet,star,co_hyponyms 
 student,professor,None 
 plane,car,indirect_hypernyms 
 cup,substance,indirect_hypernyms 
@@ -51,7 +51,7 @@ street,block,None
 cup,article,indirect_hypernyms 
 sugar,approach,None 
 computer,news,None 
-start,match,None 
+start,match,co_hyponyms 
 energy,secretary,None 
 peace,plan,None 
 population,development,None 
@@ -59,7 +59,7 @@ holy,sex,None
 opera,performance,None 
 month,hotel,None 
 opera,industry,None 
-school,center,None 
+school,center,co_hyponyms 
 life,death,part_meronyms 
 cup,object,indirect_hypernyms 
 man,governor,None 
@@ -77,7 +77,7 @@ stock,live,None
 governor,interview,None 
 focus,life,None 
 president,medal,None 
-media,trading,None 
+media,trading,co_hyponyms 
 line,insurance,hyponyms 
 stock,life,None 
 money,operation,None 

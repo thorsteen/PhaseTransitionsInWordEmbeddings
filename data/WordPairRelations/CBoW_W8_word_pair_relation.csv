@@ -1,9 +1,9 @@
-physics,chemistry,None 
-football,basketball,co_part_holonyms 
-television,radio,None 
+physics,chemistry,co_hyponyms 
+football,basketball,co_hyponyms 
+television,radio,co_hyponyms 
 seven,series,None 
 liquid,water,hyponyms 
-rock,jazz,None 
+rock,jazz,co_hyponyms 
 man,woman,antonyms 
 king,queen,identity 
 glass,metal,None 
@@ -16,11 +16,11 @@ five,month,None
 computer,news,None 
 image,surface,None 
 media,radio,indirect_hyponyms 
-money,cash,None 
-planet,sun,None 
-planet,star,None 
+money,cash,co_hyponyms 
+planet,sun,co_member_meronyms 
+planet,star,co_hyponyms 
 music,project,None 
-school,center,None 
+school,center,co_hyponyms 
 experience,music,None 
 consumer,energy,None 
 space,chemistry,None 
@@ -50,7 +50,7 @@ energy,secretary,None
 plane,car,indirect_hypernyms 
 opera,performance,None 
 holy,sex,None 
-start,match,None 
+start,match,co_hyponyms 
 peace,plan,None 
 cup,substance,indirect_hypernyms 
 cup,object,indirect_hypernyms 
@@ -75,7 +75,7 @@ practice,institution,indirect_hyponyms
 month,hotel,None 
 report,gain,None 
 line,insurance,hyponyms 
-media,trading,None 
+media,trading,co_hyponyms 
 drink,car,None 
 investigation,effort,None 
 governor,interview,None 

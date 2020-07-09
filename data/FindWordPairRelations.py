@@ -59,10 +59,11 @@ def gen_related(word, relations=None):
     for relation in LEMMA_RELATIONS:
         if not relations or relation in relations:
             yield relation, {lemma for lemma1 in lemmas for lemma in _r(lemma1)}
-    for relation, inverse in zip(SYNSET_RELATIONS[::2], SYNSET_RELATIONS[1::2]):
-        if not relations or CO_PREFIX + relation in relations:
-            related_synsets_co = {synset2 for synset1 in related_synsets[inverse] for synset2 in _r(synset1)}
-            yield CO_PREFIX + relation, {lemma for synset2 in related_synsets_co for lemma in synset2.lemmas()}
+    for main_relation, main_inverse in zip(SYNSET_RELATIONS[::2], SYNSET_RELATIONS[1::2]):
+        for relation, inverse in (main_relation, main_inverse), (main_inverse, main_relation):
+            if not relations or CO_PREFIX + relation in relations:
+                related_synsets_co = {synset2 for synset1 in related_synsets[inverse] for synset2 in _r(synset1)}
+                yield CO_PREFIX + relation, {lemma for synset2 in related_synsets_co for lemma in synset2.lemmas()}
 
 
 def find_relations(words, by_pair=False):
@@ -101,16 +102,34 @@ def check_relations(word1, word2):
                     if lemma in lemmas:
                         return relation_name
 
+"""
+we make several csv files for qualitative analysis and hyper-geom test.
+Both with WS353 and SimLex dataset.
+"""
 
-#we want to compare to ws353 ranking
-ws_353_scores = results.sort_values("WS_similiarity_score",ascending=False, ignore_index=True)
+f = open('WordPairRelations/CBoW_word_pair_relation.csv', 'w')
+
+for win in range(25):
+    f.write("W{},".format(win+1))
     
+f.write("\n")
+    
+for i in range(len(results)):
+    for win in range(25):
+        results.sort_values('cbow_model_w{}'.format(win+1), ascending=False, ignore_index=True, inplace = True)
+        
+        f.write("{},".format(check_relations(results.iloc[i,0],results.iloc[i,1])))
+
+    f.write("\n")
+
+f.close()
+
 for win in range(25):
     #sort in decedning order for first sim score (cosine sim)
     results.sort_values('cbow_model_w{}'.format(win+1), ascending=False, ignore_index=True, inplace = True)
     #write results from wordnet to text file
     
-    f = open('WordPairRelations/CBoW_W{}_word_pair_relation.csv'.format(win+1), 'w+')
+    f = open('WordPairRelations/CBoW_W{}_word_pair_relation.csv'.format(win+1), 'w')
     
     #f.write("Word1,Word2,Relation\n")
     
@@ -121,17 +140,34 @@ for win in range(25):
 
 #we want to do the same with SimLex
 SimLex_scores = results_SimLex.sort_values("Reference_val ",ascending=False, ignore_index=True)
+
+f = open('WordPairRelationsSimLex/CBoW_word_pair_relation.csv', 'w')
+
+for win in range(25):
+    f.write("W{},".format(win+1))
     
+f.write("\n")
+    
+for i in range(len(results_SimLex)):
+    for win in range(25):
+        results_SimLex.sort_values('CBoW_Model_W{}'.format(win+1), ascending=False, ignore_index=True, inplace = True)
+        
+        f.write("{},".format(check_relations(results_SimLex.iloc[i,0],results_SimLex.iloc[i,1])))
+
+    f.write("\n")
+
+f.close()
+
 for win in range(25):
     #sort in decedning order for first sim score (cosine sim)
     results_SimLex.sort_values('CBoW_Model_W{}'.format(win+1), ascending=False, ignore_index=True, inplace = True)
     #write results from wordnet to text file
     
-    f = open('WordPairRelationsSimLex/CBoW_W{}_word_pair_relation.csv'.format(win+1), 'w+')
+    f = open('WordPairRelationsSimLex/CBoW_W{}_word_pair_relation.csv'.format(win+1), 'w')
     
     #f.write("Word1,Word2,Relation\n")
     
-    for i in range(len(results)):
-        f.write("{},{},{} \n".format(results.iloc[i,0],results.iloc[i,1],check_relations(results.iloc[i,0],results.iloc[i,1])))
+    for i in range(len(results_SimLex)):
+        f.write("{},{},{} \n".format(results_SimLex.iloc[i,0],results_SimLex.iloc[i,1],check_relations(results_SimLex.iloc[i,0],results_SimLex.iloc[i,1])))
         
     f.close()     

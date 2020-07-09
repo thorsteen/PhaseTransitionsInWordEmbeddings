@@ -1,78 +1,240 @@
- Volume in drive C is OS
- Volume Serial Number is 8672-D26F
+Running relation hypergeom-test of relations top-30 in CBoW_W1_word_pair_relation.csv
+----------------------------------------------
+synonyms
+relation top count: 2
+relation total count: 21
+p-value: 0.7124873613339997
 
- Directory of C:\Users\tsl19\Documents\BaProject\PhaseTransitionsInWordEmbeddings\Data\WordPairRelationsSimLex
+hypernyms
+relation top count: 3
+relation total count: 28
+p-value: 0.6362524416974914
 
-03/07/2020  10:27    <DIR>          .
-03/07/2020  10:27    <DIR>          ..
-09/07/2020  10:22             2,089 CBoW_W1_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W10_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W11_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W12_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W13_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W14_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W15_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W16_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W17_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W18_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W19_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W2_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W20_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W21_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W22_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W23_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W24_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W25_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W3_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W4_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W5_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W6_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W7_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W8_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W9_word_pair_relation.csv
-09/07/2020  10:24            29,241 Hypergeom_relation_test_counts.txt
-09/07/2020  10:24             4,148 pvalues_relations_CBoW.csv
-              27 File(s)         85,614 bytes
-               2 Dir(s)  39,678,382,080 bytes free
- Volume in drive C is OS
- Volume Serial Number is 8672-D26F
+hyponyms
+relation top count: 8
+relation total count: 57
+p-value: 0.2935236216296156
 
- Directory of C:\Users\tsl19\Documents\BaProject\PhaseTransitionsInWordEmbeddings\Data\WordPairRelationsSimLex
+member_holonyms
+relation top count: 0
+relation total count: 0
+p-value: 1.0
 
-03/07/2020  10:27    <DIR>          .
-03/07/2020  10:27    <DIR>          ..
-09/07/2020  10:22             2,089 CBoW_W1_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W10_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W11_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W12_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W13_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W14_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W15_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W16_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W17_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W18_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W19_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W2_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W20_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W21_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W22_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W23_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W24_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W25_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W3_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W4_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W5_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W6_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W7_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W8_word_pair_relation.csv
-09/07/2020  10:22             2,089 CBoW_W9_word_pair_relation.csv
-09/07/2020  10:24            29,241 Hypergeom_relation_test_counts.txt
-09/07/2020  10:24             4,148 pvalues_relations_CBoW.csv
-              27 File(s)         85,614 bytes
-               2 Dir(s)  39,678,382,080 bytes free
-ion top count: 1
+member_meronyms
+relation top count: 0
+relation total count: 2
+p-value: 1.0
+
+part_holonyms
+relation top count: 0
+relation total count: 5
+p-value: 1.0
+
+part_meronyms
+relation top count: 0
+relation total count: 2
+p-value: 1.0
+
+substance_holonyms
+relation top count: 0
 relation total count: 1
-p-value: 0.352941176470589
+p-value: 1.0
+
+substance_meronyms
+relation top count: 0
+relation total count: 0
+p-value: 1.0
+
+antonyms
+relation top count: 4
+relation total count: 14
+p-value: 0.058303488032466586
+
+pertainyms
+relation top count: 0
+relation total count: 0
+p-value: 1.0
+
+derivationally_related_forms
+relation top count: 0
+relation total count: 0
+p-value: 1.0
+
+Running relation hypergeom-test of relations top-30 in CBoW_W2_word_pair_relation.csv
+----------------------------------------------
+synonyms
+relation top count: 2
+relation total count: 21
+p-value: 0.7124873613339997
+
+hypernyms
+relation top count: 3
+relation total count: 28
+p-value: 0.6362524416974914
+
+hyponyms
+relation top count: 5
+relation total count: 57
+p-value: 0.8142412305099026
+
+member_holonyms
+relation top count: 0
+relation total count: 0
+p-value: 1.0
+
+member_meronyms
+relation top count: 0
+relation total count: 2
+p-value: 1.0
+
+part_holonyms
+relation top count: 0
+relation total count: 5
+p-value: 1.0
+
+part_meronyms
+relation top count: 0
+relation total count: 2
+p-value: 1.0
+
+substance_holonyms
+relation top count: 0
+relation total count: 1
+p-value: 1.0
+
+substance_meronyms
+relation top count: 0
+relation total count: 0
+p-value: 1.0
+
+antonyms
+relation top count: 4
+relation total count: 14
+p-value: 0.058303488032466586
+
+pertainyms
+relation top count: 0
+relation total count: 0
+p-value: 1.0
+
+derivationally_related_forms
+relation top count: 0
+relation total count: 0
+p-value: 1.0
+
+Running relation hypergeom-test of relations top-30 in CBoW_W3_word_pair_relation.csv
+----------------------------------------------
+synonyms
+relation top count: 2
+relation total count: 21
+p-value: 0.7124873613339997
+
+hypernyms
+relation top count: 2
+relation total count: 28
+p-value: 0.853585015639418
+
+hyponyms
+relation top count: 6
+relation total count: 57
+p-value: 0.6542226862578179
+
+member_holonyms
+relation top count: 0
+relation total count: 0
+p-value: 1.0
+
+member_meronyms
+relation top count: 1
+relation total count: 2
+p-value: 0.21246937568638968
+
+part_holonyms
+relation top count: 1
+relation total count: 5
+p-value: 0.4515948274503929
+
+part_meronyms
+relation top count: 0
+relation total count: 2
+p-value: 1.0
+
+substance_holonyms
+relation top count: 0
+relation total count: 1
+p-value: 1.0
+
+substance_meronyms
+relation top count: 0
+relation total count: 0
+p-value: 1.0
+
+antonyms
+relation top count: 2
+relation total count: 14
+p-value: 0.48177214600124846
+
+pertainyms
+relation top count: 0
+relation total count: 0
+p-value: 1.0
+
+derivationally_related_forms
+relation top count: 0
+relation total count: 0
+p-value: 1.0
+
+Running relation hypergeom-test of relations top-30 in CBoW_W4_word_pair_relation.csv
+----------------------------------------------
+synonyms
+relation top count: 2
+relation total count: 21
+p-value: 0.7124873613339997
+
+hypernyms
+relation top count: 2
+relation total count: 28
+p-value: 0.853585015639418
+
+hyponyms
+relation top count: 6
+relation total count: 57
+p-value: 0.6542226862578179
+
+member_holonyms
+relation top count: 0
+relation total count: 0
+p-value: 1.0
+
+member_meronyms
+relation top count: 1
+relation total count: 2
+p-value: 0.21246937568638968
+
+part_holonyms
+relation top count: 1
+relation total count: 5
+p-value: 0.4515948274503929
+
+part_meronyms
+relation top count: 0
+relation total count: 2
+p-value: 1.0
+
+substance_holonyms
+relation top count: 0
+relation total count: 1
+p-value: 1.0
+
+substance_meronyms
+relation top count: 0
+relation total count: 0
+p-value: 1.0
+
+antonyms
+relation top count: 2
+relation total count: 14
+p-value: 0.48177214600124846
 
 pertainyms
 relation top count: 0
@@ -87,19 +249,19 @@ p-value: 1.0
 Running relation hypergeom-test of relations top-30 in CBoW_W5_word_pair_relation.csv
 ----------------------------------------------
 synonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 2
+relation total count: 21
+p-value: 0.7124873613339997
 
 hypernyms
 relation top count: 2
-relation total count: 12
-p-value: 0.9693818763971476
+relation total count: 28
+p-value: 0.853585015639418
 
 hyponyms
-relation top count: 8
-relation total count: 13
-p-value: 0.03534744566091277
+relation top count: 6
+relation total count: 57
+p-value: 0.6542226862578179
 
 member_holonyms
 relation top count: 0
@@ -107,23 +269,23 @@ relation total count: 0
 p-value: 1.0
 
 member_meronyms
-relation top count: 2
+relation top count: 1
 relation total count: 2
-p-value: 0.12184873949579823
+p-value: 0.21246937568638968
 
 part_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 5
+p-value: 0.4515948274503929
 
 part_meronyms
-relation top count: 2
+relation top count: 0
 relation total count: 2
-p-value: 0.12184873949579823
+p-value: 1.0
 
 substance_holonyms
 relation top count: 0
-relation total count: 0
+relation total count: 1
 p-value: 1.0
 
 substance_meronyms
@@ -132,9 +294,9 @@ relation total count: 0
 p-value: 1.0
 
 antonyms
-relation top count: 1
-relation total count: 1
-p-value: 0.352941176470589
+relation top count: 2
+relation total count: 14
+p-value: 0.48177214600124846
 
 pertainyms
 relation top count: 0
@@ -149,19 +311,19 @@ p-value: 1.0
 Running relation hypergeom-test of relations top-30 in CBoW_W6_word_pair_relation.csv
 ----------------------------------------------
 synonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 2
+relation total count: 21
+p-value: 0.7124873613339997
 
 hypernyms
 relation top count: 3
-relation total count: 12
-p-value: 0.8726771097703007
+relation total count: 28
+p-value: 0.6362524416974914
 
 hyponyms
-relation top count: 7
-relation total count: 13
-p-value: 0.11522996549166607
+relation top count: 6
+relation total count: 57
+p-value: 0.6542226862578179
 
 member_holonyms
 relation top count: 0
@@ -169,23 +331,23 @@ relation total count: 0
 p-value: 1.0
 
 member_meronyms
-relation top count: 2
-relation total count: 2
-p-value: 0.12184873949579823
-
-part_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
-
-part_meronyms
 relation top count: 1
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 0.21246937568638968
+
+part_holonyms
+relation top count: 1
+relation total count: 5
+p-value: 0.4515948274503929
+
+part_meronyms
+relation top count: 0
+relation total count: 2
+p-value: 1.0
 
 substance_holonyms
 relation top count: 0
-relation total count: 0
+relation total count: 1
 p-value: 1.0
 
 substance_meronyms
@@ -194,9 +356,9 @@ relation total count: 0
 p-value: 1.0
 
 antonyms
-relation top count: 1
-relation total count: 1
-p-value: 0.352941176470589
+relation top count: 3
+relation total count: 14
+p-value: 0.19862446345407583
 
 pertainyms
 relation top count: 0
@@ -211,19 +373,19 @@ p-value: 1.0
 Running relation hypergeom-test of relations top-30 in CBoW_W7_word_pair_relation.csv
 ----------------------------------------------
 synonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 2
+relation total count: 21
+p-value: 0.7124873613339997
 
 hypernyms
 relation top count: 4
-relation total count: 12
-p-value: 0.6764645398027859
+relation total count: 28
+p-value: 0.38748182246838286
 
 hyponyms
-relation top count: 8
-relation total count: 13
-p-value: 0.03534744566091277
+relation top count: 5
+relation total count: 57
+p-value: 0.8142412305099026
 
 member_holonyms
 relation top count: 0
@@ -231,23 +393,23 @@ relation total count: 0
 p-value: 1.0
 
 member_meronyms
-relation top count: 2
+relation top count: 1
 relation total count: 2
-p-value: 0.12184873949579823
+p-value: 0.21246937568638968
 
 part_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 5
+p-value: 0.4515948274503929
 
 part_meronyms
-relation top count: 2
+relation top count: 0
 relation total count: 2
-p-value: 0.12184873949579823
+p-value: 1.0
 
 substance_holonyms
 relation top count: 0
-relation total count: 0
+relation total count: 1
 p-value: 1.0
 
 substance_meronyms
@@ -256,9 +418,9 @@ relation total count: 0
 p-value: 1.0
 
 antonyms
-relation top count: 1
-relation total count: 1
-p-value: 0.352941176470589
+relation top count: 3
+relation total count: 14
+p-value: 0.19862446345407583
 
 pertainyms
 relation top count: 0
@@ -273,19 +435,19 @@ p-value: 1.0
 Running relation hypergeom-test of relations top-30 in CBoW_W8_word_pair_relation.csv
 ----------------------------------------------
 synonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 2
+relation total count: 21
+p-value: 0.7124873613339997
 
 hypernyms
 relation top count: 2
-relation total count: 12
-p-value: 0.9693818763971476
+relation total count: 28
+p-value: 0.853585015639418
 
 hyponyms
-relation top count: 9
-relation total count: 13
-p-value: 0.007787976319302855
+relation top count: 5
+relation total count: 57
+p-value: 0.8142412305099026
 
 member_holonyms
 relation top count: 0
@@ -295,22 +457,22 @@ p-value: 1.0
 member_meronyms
 relation top count: 1
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 0.21246937568638968
 
 part_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 5
+p-value: 0.4515948274503929
 
 part_meronyms
-relation top count: 2
+relation top count: 0
 relation total count: 2
-p-value: 0.12184873949579823
+p-value: 1.0
 
 substance_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 1
+p-value: 0.11235955056180848
 
 substance_meronyms
 relation top count: 0
@@ -318,9 +480,9 @@ relation total count: 0
 p-value: 1.0
 
 antonyms
-relation top count: 1
-relation total count: 1
-p-value: 0.352941176470589
+relation top count: 2
+relation total count: 14
+p-value: 0.48177214600124846
 
 pertainyms
 relation top count: 0
@@ -335,19 +497,19 @@ p-value: 1.0
 Running relation hypergeom-test of relations top-30 in CBoW_W9_word_pair_relation.csv
 ----------------------------------------------
 synonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 21
+p-value: 0.926339737201294
 
 hypernyms
-relation top count: 5
-relation total count: 12
-p-value: 0.4228493562809445
+relation top count: 4
+relation total count: 28
+p-value: 0.38748182246838286
 
 hyponyms
-relation top count: 8
-relation total count: 13
-p-value: 0.03534744566091277
+relation top count: 4
+relation total count: 57
+p-value: 0.9216557105049692
 
 member_holonyms
 relation top count: 0
@@ -357,21 +519,21 @@ p-value: 1.0
 member_meronyms
 relation top count: 1
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 0.21246937568638968
 
 part_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 5
+p-value: 0.4515948274503929
 
 part_meronyms
-relation top count: 1
+relation top count: 0
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 1.0
 
 substance_holonyms
 relation top count: 0
-relation total count: 0
+relation total count: 1
 p-value: 1.0
 
 substance_meronyms
@@ -380,9 +542,9 @@ relation total count: 0
 p-value: 1.0
 
 antonyms
-relation top count: 1
-relation total count: 1
-p-value: 0.352941176470589
+relation top count: 2
+relation total count: 14
+p-value: 0.48177214600124846
 
 pertainyms
 relation top count: 0
@@ -397,19 +559,19 @@ p-value: 1.0
 Running relation hypergeom-test of relations top-30 in CBoW_W10_word_pair_relation.csv
 ----------------------------------------------
 synonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 21
+p-value: 0.926339737201294
 
 hypernyms
-relation top count: 3
-relation total count: 12
-p-value: 0.8726771097703007
+relation top count: 2
+relation total count: 28
+p-value: 0.853585015639418
 
 hyponyms
-relation top count: 8
-relation total count: 13
-p-value: 0.03534744566091277
+relation top count: 4
+relation total count: 57
+p-value: 0.9216557105049692
 
 member_holonyms
 relation top count: 0
@@ -419,21 +581,21 @@ p-value: 1.0
 member_meronyms
 relation top count: 1
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 0.21246937568638968
 
 part_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 5
+p-value: 0.4515948274503929
 
 part_meronyms
-relation top count: 2
+relation top count: 0
 relation total count: 2
-p-value: 0.12184873949579823
+p-value: 1.0
 
 substance_holonyms
 relation top count: 0
-relation total count: 0
+relation total count: 1
 p-value: 1.0
 
 substance_meronyms
@@ -442,9 +604,9 @@ relation total count: 0
 p-value: 1.0
 
 antonyms
-relation top count: 1
-relation total count: 1
-p-value: 0.352941176470589
+relation top count: 4
+relation total count: 14
+p-value: 0.058303488032466586
 
 pertainyms
 relation top count: 0
@@ -459,19 +621,19 @@ p-value: 1.0
 Running relation hypergeom-test of relations top-30 in CBoW_W11_word_pair_relation.csv
 ----------------------------------------------
 synonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 2
+relation total count: 21
+p-value: 0.7124873613339997
 
 hypernyms
 relation top count: 2
-relation total count: 12
-p-value: 0.9693818763971476
+relation total count: 28
+p-value: 0.853585015639418
 
 hyponyms
-relation top count: 9
-relation total count: 13
-p-value: 0.007787976319302855
+relation top count: 4
+relation total count: 57
+p-value: 0.9216557105049692
 
 member_holonyms
 relation top count: 0
@@ -481,22 +643,22 @@ p-value: 1.0
 member_meronyms
 relation top count: 1
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 0.21246937568638968
 
 part_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 5
+p-value: 0.4515948274503929
 
 part_meronyms
-relation top count: 1
+relation top count: 0
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 1.0
 
 substance_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 1
+p-value: 0.11235955056180848
 
 substance_meronyms
 relation top count: 0
@@ -504,9 +666,9 @@ relation total count: 0
 p-value: 1.0
 
 antonyms
-relation top count: 1
-relation total count: 1
-p-value: 0.352941176470589
+relation top count: 2
+relation total count: 14
+p-value: 0.48177214600124846
 
 pertainyms
 relation top count: 0
@@ -521,19 +683,19 @@ p-value: 1.0
 Running relation hypergeom-test of relations top-30 in CBoW_W12_word_pair_relation.csv
 ----------------------------------------------
 synonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 21
+p-value: 0.926339737201294
 
 hypernyms
-relation top count: 4
-relation total count: 12
-p-value: 0.6764645398027859
+relation top count: 3
+relation total count: 28
+p-value: 0.6362524416974914
 
 hyponyms
-relation top count: 9
-relation total count: 13
-p-value: 0.007787976319302855
+relation top count: 4
+relation total count: 57
+p-value: 0.9216557105049692
 
 member_holonyms
 relation top count: 0
@@ -543,12 +705,12 @@ p-value: 1.0
 member_meronyms
 relation top count: 1
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 0.21246937568638968
 
 part_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 5
+p-value: 0.4515948274503929
 
 part_meronyms
 relation top count: 0
@@ -557,7 +719,7 @@ p-value: 1.0
 
 substance_holonyms
 relation top count: 0
-relation total count: 0
+relation total count: 1
 p-value: 1.0
 
 substance_meronyms
@@ -566,9 +728,9 @@ relation total count: 0
 p-value: 1.0
 
 antonyms
-relation top count: 1
-relation total count: 1
-p-value: 0.352941176470589
+relation top count: 3
+relation total count: 14
+p-value: 0.19862446345407583
 
 pertainyms
 relation top count: 0
@@ -583,19 +745,19 @@ p-value: 1.0
 Running relation hypergeom-test of relations top-30 in CBoW_W13_word_pair_relation.csv
 ----------------------------------------------
 synonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 21
+p-value: 0.926339737201294
 
 hypernyms
-relation top count: 4
-relation total count: 12
-p-value: 0.6764645398027859
+relation top count: 2
+relation total count: 28
+p-value: 0.853585015639418
 
 hyponyms
-relation top count: 9
-relation total count: 13
-p-value: 0.007787976319302855
+relation top count: 6
+relation total count: 57
+p-value: 0.6542226862578179
 
 member_holonyms
 relation top count: 0
@@ -603,23 +765,23 @@ relation total count: 0
 p-value: 1.0
 
 member_meronyms
-relation top count: 2
-relation total count: 2
-p-value: 0.12184873949579823
-
-part_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
-
-part_meronyms
 relation top count: 1
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 0.21246937568638968
+
+part_holonyms
+relation top count: 1
+relation total count: 5
+p-value: 0.4515948274503929
+
+part_meronyms
+relation top count: 0
+relation total count: 2
+p-value: 1.0
 
 substance_holonyms
 relation top count: 0
-relation total count: 0
+relation total count: 1
 p-value: 1.0
 
 substance_meronyms
@@ -628,9 +790,9 @@ relation total count: 0
 p-value: 1.0
 
 antonyms
-relation top count: 1
-relation total count: 1
-p-value: 0.352941176470589
+relation top count: 3
+relation total count: 14
+p-value: 0.19862446345407583
 
 pertainyms
 relation top count: 0
@@ -645,19 +807,19 @@ p-value: 1.0
 Running relation hypergeom-test of relations top-30 in CBoW_W14_word_pair_relation.csv
 ----------------------------------------------
 synonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 21
+p-value: 0.926339737201294
 
 hypernyms
-relation top count: 3
-relation total count: 12
-p-value: 0.8726771097703007
+relation top count: 2
+relation total count: 28
+p-value: 0.853585015639418
 
 hyponyms
-relation top count: 9
-relation total count: 13
-p-value: 0.007787976319302855
+relation top count: 5
+relation total count: 57
+p-value: 0.8142412305099026
 
 member_holonyms
 relation top count: 0
@@ -667,12 +829,12 @@ p-value: 1.0
 member_meronyms
 relation top count: 1
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 0.21246937568638968
 
 part_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 5
+p-value: 0.4515948274503929
 
 part_meronyms
 relation top count: 0
@@ -681,7 +843,7 @@ p-value: 1.0
 
 substance_holonyms
 relation top count: 0
-relation total count: 0
+relation total count: 1
 p-value: 1.0
 
 substance_meronyms
@@ -690,9 +852,9 @@ relation total count: 0
 p-value: 1.0
 
 antonyms
-relation top count: 1
-relation total count: 1
-p-value: 0.352941176470589
+relation top count: 3
+relation total count: 14
+p-value: 0.19862446345407583
 
 pertainyms
 relation top count: 0
@@ -707,19 +869,19 @@ p-value: 1.0
 Running relation hypergeom-test of relations top-30 in CBoW_W15_word_pair_relation.csv
 ----------------------------------------------
 synonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 21
+p-value: 0.926339737201294
 
 hypernyms
-relation top count: 3
-relation total count: 12
-p-value: 0.8726771097703007
+relation top count: 2
+relation total count: 28
+p-value: 0.853585015639418
 
 hyponyms
-relation top count: 9
-relation total count: 13
-p-value: 0.007787976319302855
+relation top count: 4
+relation total count: 57
+p-value: 0.9216557105049692
 
 member_holonyms
 relation top count: 0
@@ -729,21 +891,21 @@ p-value: 1.0
 member_meronyms
 relation top count: 1
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 0.21246937568638968
 
 part_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 5
+p-value: 0.4515948274503929
 
 part_meronyms
-relation top count: 1
+relation top count: 0
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 1.0
 
 substance_holonyms
 relation top count: 0
-relation total count: 0
+relation total count: 1
 p-value: 1.0
 
 substance_meronyms
@@ -752,9 +914,9 @@ relation total count: 0
 p-value: 1.0
 
 antonyms
-relation top count: 1
-relation total count: 1
-p-value: 0.352941176470589
+relation top count: 3
+relation total count: 14
+p-value: 0.19862446345407583
 
 pertainyms
 relation top count: 0
@@ -770,18 +932,18 @@ Running relation hypergeom-test of relations top-30 in CBoW_W16_word_pair_relati
 ----------------------------------------------
 synonyms
 relation top count: 0
-relation total count: 0
+relation total count: 21
 p-value: 1.0
 
 hypernyms
-relation top count: 4
-relation total count: 12
-p-value: 0.6764645398027859
+relation top count: 3
+relation total count: 28
+p-value: 0.6362524416974914
 
 hyponyms
-relation top count: 8
-relation total count: 13
-p-value: 0.03534744566091277
+relation top count: 5
+relation total count: 57
+p-value: 0.8142412305099026
 
 member_holonyms
 relation top count: 0
@@ -789,23 +951,23 @@ relation total count: 0
 p-value: 1.0
 
 member_meronyms
-relation top count: 2
-relation total count: 2
-p-value: 0.12184873949579823
-
-part_holonyms
 relation top count: 0
-relation total count: 0
+relation total count: 2
 p-value: 1.0
 
-part_meronyms
+part_holonyms
 relation top count: 1
+relation total count: 5
+p-value: 0.4515948274503929
+
+part_meronyms
+relation top count: 0
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 1.0
 
 substance_holonyms
 relation top count: 0
-relation total count: 0
+relation total count: 1
 p-value: 1.0
 
 substance_meronyms
@@ -814,9 +976,9 @@ relation total count: 0
 p-value: 1.0
 
 antonyms
-relation top count: 1
-relation total count: 1
-p-value: 0.352941176470589
+relation top count: 3
+relation total count: 14
+p-value: 0.19862446345407583
 
 pertainyms
 relation top count: 0
@@ -831,19 +993,19 @@ p-value: 1.0
 Running relation hypergeom-test of relations top-30 in CBoW_W17_word_pair_relation.csv
 ----------------------------------------------
 synonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 21
+p-value: 0.926339737201294
 
 hypernyms
-relation top count: 3
-relation total count: 12
-p-value: 0.8726771097703007
+relation top count: 2
+relation total count: 28
+p-value: 0.853585015639418
 
 hyponyms
-relation top count: 7
-relation total count: 13
-p-value: 0.11522996549166607
+relation top count: 3
+relation total count: 57
+p-value: 0.9758786578824407
 
 member_holonyms
 relation top count: 0
@@ -853,21 +1015,21 @@ p-value: 1.0
 member_meronyms
 relation top count: 1
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 0.21246937568638968
 
 part_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 5
+p-value: 0.4515948274503929
 
 part_meronyms
-relation top count: 1
+relation top count: 0
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 1.0
 
 substance_holonyms
 relation top count: 0
-relation total count: 0
+relation total count: 1
 p-value: 1.0
 
 substance_meronyms
@@ -876,9 +1038,9 @@ relation total count: 0
 p-value: 1.0
 
 antonyms
-relation top count: 1
-relation total count: 1
-p-value: 0.352941176470589
+relation top count: 4
+relation total count: 14
+p-value: 0.058303488032466586
 
 pertainyms
 relation top count: 0
@@ -893,19 +1055,19 @@ p-value: 1.0
 Running relation hypergeom-test of relations top-30 in CBoW_W18_word_pair_relation.csv
 ----------------------------------------------
 synonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 21
+p-value: 0.926339737201294
 
 hypernyms
-relation top count: 3
-relation total count: 12
-p-value: 0.8726771097703007
+relation top count: 2
+relation total count: 28
+p-value: 0.853585015639418
 
 hyponyms
-relation top count: 8
-relation total count: 13
-p-value: 0.03534744566091277
+relation top count: 4
+relation total count: 57
+p-value: 0.9216557105049692
 
 member_holonyms
 relation top count: 0
@@ -915,22 +1077,22 @@ p-value: 1.0
 member_meronyms
 relation top count: 1
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 0.21246937568638968
 
 part_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 5
+p-value: 0.4515948274503929
 
 part_meronyms
-relation top count: 1
+relation top count: 0
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 1.0
 
 substance_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 1
+p-value: 0.11235955056180848
 
 substance_meronyms
 relation top count: 0
@@ -938,9 +1100,9 @@ relation total count: 0
 p-value: 1.0
 
 antonyms
-relation top count: 1
-relation total count: 1
-p-value: 0.352941176470589
+relation top count: 2
+relation total count: 14
+p-value: 0.48177214600124846
 
 pertainyms
 relation top count: 0
@@ -955,19 +1117,19 @@ p-value: 1.0
 Running relation hypergeom-test of relations top-30 in CBoW_W19_word_pair_relation.csv
 ----------------------------------------------
 synonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 21
+p-value: 0.926339737201294
 
 hypernyms
-relation top count: 4
-relation total count: 12
-p-value: 0.6764645398027859
+relation top count: 3
+relation total count: 28
+p-value: 0.6362524416974914
 
 hyponyms
-relation top count: 9
-relation total count: 13
-p-value: 0.007787976319302855
+relation top count: 4
+relation total count: 57
+p-value: 0.9216557105049692
 
 member_holonyms
 relation top count: 0
@@ -977,21 +1139,21 @@ p-value: 1.0
 member_meronyms
 relation top count: 1
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 0.21246937568638968
 
 part_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 5
+p-value: 0.4515948274503929
 
 part_meronyms
-relation top count: 1
+relation top count: 0
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 1.0
 
 substance_holonyms
 relation top count: 0
-relation total count: 0
+relation total count: 1
 p-value: 1.0
 
 substance_meronyms
@@ -1000,9 +1162,9 @@ relation total count: 0
 p-value: 1.0
 
 antonyms
-relation top count: 1
-relation total count: 1
-p-value: 0.352941176470589
+relation top count: 2
+relation total count: 14
+p-value: 0.48177214600124846
 
 pertainyms
 relation top count: 0
@@ -1017,19 +1179,19 @@ p-value: 1.0
 Running relation hypergeom-test of relations top-30 in CBoW_W20_word_pair_relation.csv
 ----------------------------------------------
 synonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 21
+p-value: 0.926339737201294
 
 hypernyms
-relation top count: 4
-relation total count: 12
-p-value: 0.6764645398027859
+relation top count: 2
+relation total count: 28
+p-value: 0.853585015639418
 
 hyponyms
-relation top count: 9
-relation total count: 13
-p-value: 0.007787976319302855
+relation top count: 3
+relation total count: 57
+p-value: 0.9758786578824407
 
 member_holonyms
 relation top count: 0
@@ -1039,22 +1201,22 @@ p-value: 1.0
 member_meronyms
 relation top count: 1
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 0.21246937568638968
 
 part_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 5
+p-value: 0.4515948274503929
 
 part_meronyms
-relation top count: 1
+relation top count: 0
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 1.0
 
 substance_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 1
+p-value: 0.11235955056180848
 
 substance_meronyms
 relation top count: 0
@@ -1062,9 +1224,9 @@ relation total count: 0
 p-value: 1.0
 
 antonyms
-relation top count: 1
-relation total count: 1
-p-value: 0.352941176470589
+relation top count: 4
+relation total count: 14
+p-value: 0.058303488032466586
 
 pertainyms
 relation top count: 0
@@ -1079,19 +1241,19 @@ p-value: 1.0
 Running relation hypergeom-test of relations top-30 in CBoW_W21_word_pair_relation.csv
 ----------------------------------------------
 synonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 21
+p-value: 0.926339737201294
 
 hypernyms
-relation top count: 4
-relation total count: 12
-p-value: 0.6764645398027859
+relation top count: 2
+relation total count: 28
+p-value: 0.853585015639418
 
 hyponyms
-relation top count: 9
-relation total count: 13
-p-value: 0.007787976319302855
+relation top count: 3
+relation total count: 57
+p-value: 0.9758786578824407
 
 member_holonyms
 relation top count: 0
@@ -1099,14 +1261,14 @@ relation total count: 0
 p-value: 1.0
 
 member_meronyms
-relation top count: 2
+relation top count: 0
 relation total count: 2
-p-value: 0.12184873949579823
+p-value: 1.0
 
 part_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 5
+p-value: 0.4515948274503929
 
 part_meronyms
 relation top count: 0
@@ -1115,7 +1277,7 @@ p-value: 1.0
 
 substance_holonyms
 relation top count: 0
-relation total count: 0
+relation total count: 1
 p-value: 1.0
 
 substance_meronyms
@@ -1124,9 +1286,9 @@ relation total count: 0
 p-value: 1.0
 
 antonyms
-relation top count: 1
-relation total count: 1
-p-value: 0.352941176470589
+relation top count: 5
+relation total count: 14
+p-value: 0.012405547833990277
 
 pertainyms
 relation top count: 0
@@ -1141,19 +1303,19 @@ p-value: 1.0
 Running relation hypergeom-test of relations top-30 in CBoW_W22_word_pair_relation.csv
 ----------------------------------------------
 synonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 21
+p-value: 0.926339737201294
 
 hypernyms
 relation top count: 3
-relation total count: 12
-p-value: 0.8726771097703007
+relation total count: 28
+p-value: 0.6362524416974914
 
 hyponyms
-relation top count: 8
-relation total count: 13
-p-value: 0.03534744566091277
+relation top count: 4
+relation total count: 57
+p-value: 0.9216557105049692
 
 member_holonyms
 relation top count: 0
@@ -1163,21 +1325,21 @@ p-value: 1.0
 member_meronyms
 relation top count: 1
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 0.21246937568638968
 
 part_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 5
+p-value: 0.4515948274503929
 
 part_meronyms
-relation top count: 1
+relation top count: 0
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 1.0
 
 substance_holonyms
 relation top count: 0
-relation total count: 0
+relation total count: 1
 p-value: 1.0
 
 substance_meronyms
@@ -1186,9 +1348,9 @@ relation total count: 0
 p-value: 1.0
 
 antonyms
-relation top count: 1
-relation total count: 1
-p-value: 0.352941176470589
+relation top count: 4
+relation total count: 14
+p-value: 0.058303488032466586
 
 pertainyms
 relation top count: 0
@@ -1203,19 +1365,19 @@ p-value: 1.0
 Running relation hypergeom-test of relations top-30 in CBoW_W23_word_pair_relation.csv
 ----------------------------------------------
 synonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 21
+p-value: 0.926339737201294
 
 hypernyms
-relation top count: 3
-relation total count: 12
-p-value: 0.8726771097703007
+relation top count: 2
+relation total count: 28
+p-value: 0.853585015639418
 
 hyponyms
-relation top count: 9
-relation total count: 13
-p-value: 0.007787976319302855
+relation top count: 5
+relation total count: 57
+p-value: 0.8142412305099026
 
 member_holonyms
 relation top count: 0
@@ -1223,23 +1385,23 @@ relation total count: 0
 p-value: 1.0
 
 member_meronyms
-relation top count: 1
-relation total count: 2
-p-value: 0.5840336134453773
-
-part_holonyms
 relation top count: 0
-relation total count: 0
+relation total count: 2
 p-value: 1.0
 
-part_meronyms
+part_holonyms
 relation top count: 1
+relation total count: 5
+p-value: 0.4515948274503929
+
+part_meronyms
+relation top count: 0
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 1.0
 
 substance_holonyms
 relation top count: 0
-relation total count: 0
+relation total count: 1
 p-value: 1.0
 
 substance_meronyms
@@ -1248,9 +1410,9 @@ relation total count: 0
 p-value: 1.0
 
 antonyms
-relation top count: 1
-relation total count: 1
-p-value: 0.352941176470589
+relation top count: 4
+relation total count: 14
+p-value: 0.058303488032466586
 
 pertainyms
 relation top count: 0
@@ -1265,19 +1427,19 @@ p-value: 1.0
 Running relation hypergeom-test of relations top-30 in CBoW_W24_word_pair_relation.csv
 ----------------------------------------------
 synonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 21
+p-value: 0.926339737201294
 
 hypernyms
-relation top count: 3
-relation total count: 12
-p-value: 0.8726771097703007
+relation top count: 2
+relation total count: 28
+p-value: 0.853585015639418
 
 hyponyms
-relation top count: 8
-relation total count: 13
-p-value: 0.03534744566091277
+relation top count: 3
+relation total count: 57
+p-value: 0.9758786578824407
 
 member_holonyms
 relation top count: 0
@@ -1287,22 +1449,22 @@ p-value: 1.0
 member_meronyms
 relation top count: 1
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 0.21246937568638968
 
 part_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 5
+p-value: 0.4515948274503929
 
 part_meronyms
-relation top count: 1
+relation top count: 0
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 1.0
 
 substance_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 1
+p-value: 0.11235955056180848
 
 substance_meronyms
 relation top count: 0
@@ -1310,9 +1472,9 @@ relation total count: 0
 p-value: 1.0
 
 antonyms
-relation top count: 1
-relation total count: 1
-p-value: 0.352941176470589
+relation top count: 4
+relation total count: 14
+p-value: 0.058303488032466586
 
 pertainyms
 relation top count: 0
@@ -1327,19 +1489,19 @@ p-value: 1.0
 Running relation hypergeom-test of relations top-30 in CBoW_W25_word_pair_relation.csv
 ----------------------------------------------
 synonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 21
+p-value: 0.926339737201294
 
 hypernyms
 relation top count: 2
-relation total count: 12
-p-value: 0.9693818763971476
+relation total count: 28
+p-value: 0.853585015639418
 
 hyponyms
-relation top count: 2
-relation total count: 4
-p-value: 0.44285195712137443
+relation top count: 3
+relation total count: 57
+p-value: 0.9758786578824407
 
 member_holonyms
 relation top count: 0
@@ -1348,23 +1510,23 @@ p-value: 1.0
 
 member_meronyms
 relation top count: 1
-relation total count: 1
-p-value: 0.352941176470589
+relation total count: 2
+p-value: 0.21246937568638968
 
 part_holonyms
 relation top count: 1
-relation total count: 1
-p-value: 0.352941176470589
+relation total count: 5
+p-value: 0.4515948274503929
 
 part_meronyms
-relation top count: 1
+relation top count: 0
 relation total count: 2
-p-value: 0.5840336134453773
+p-value: 1.0
 
 substance_holonyms
-relation top count: 0
-relation total count: 0
-p-value: 1.0
+relation top count: 1
+relation total count: 1
+p-value: 0.11235955056180848
 
 substance_meronyms
 relation top count: 0
@@ -1372,9 +1534,9 @@ relation total count: 0
 p-value: 1.0
 
 antonyms
-relation top count: 1
-relation total count: 1
-p-value: 0.352941176470589
+relation top count: 3
+relation total count: 14
+p-value: 0.19862446345407583
 
 pertainyms
 relation top count: 0

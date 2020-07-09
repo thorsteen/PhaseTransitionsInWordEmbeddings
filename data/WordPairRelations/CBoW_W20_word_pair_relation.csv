@@ -1,8 +1,8 @@
-television,radio,None 
+television,radio,co_hyponyms 
 seven,series,None 
-physics,chemistry,None 
-football,basketball,co_part_holonyms 
-rock,jazz,None 
+physics,chemistry,co_hyponyms 
+football,basketball,co_hyponyms 
+rock,jazz,co_hyponyms 
 man,woman,antonyms 
 liquid,water,hyponyms 
 king,queen,identity 
@@ -14,10 +14,10 @@ type,kind,hypernyms
 planet,moon,None 
 journal,association,None 
 glass,metal,None 
-planet,sun,None 
-planet,star,None 
+planet,sun,co_member_meronyms 
+planet,star,co_hyponyms 
 music,project,None 
-school,center,None 
+school,center,co_hyponyms 
 media,radio,indirect_hyponyms 
 population,development,None 
 food,fruit,None 
@@ -27,7 +27,7 @@ cup,object,indirect_hypernyms
 life,death,part_meronyms 
 experience,music,None 
 cup,article,indirect_hypernyms 
-money,cash,None 
+money,cash,co_hyponyms 
 train,car,member_meronyms 
 coast,hill,None 
 cup,food,indirect_hypernyms 
@@ -57,7 +57,7 @@ minority,peace,None
 architecture,century,None 
 focus,life,None 
 stock,life,None 
-start,match,None 
+start,match,co_hyponyms 
 opera,performance,None 
 opera,industry,None 
 peace,plan,None 
@@ -74,7 +74,7 @@ month,hotel,None
 attempt,peace,None 
 travel,activity,indirect_hypernyms 
 stock,live,None 
-media,trading,None 
+media,trading,co_hyponyms 
 drink,mother,None 
 governor,interview,None 
 line,insurance,hyponyms 

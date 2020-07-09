@@ -1,7 +1,7 @@
-football,basketball,co_part_holonyms 
-physics,chemistry,None 
-television,radio,None 
-rock,jazz,None 
+football,basketball,co_hyponyms 
+physics,chemistry,co_hyponyms 
+television,radio,co_hyponyms 
+rock,jazz,co_hyponyms 
 liquid,water,hyponyms 
 man,woman,antonyms 
 skin,eye,None 
@@ -10,15 +10,15 @@ type,kind,hypernyms
 planet,moon,None 
 king,queen,identity 
 food,fruit,None 
-money,cash,None 
-planet,sun,None 
+money,cash,co_hyponyms 
+planet,sun,co_member_meronyms 
 psychology,science,hypernyms 
 journal,association,None 
 train,car,member_meronyms 
 student,professor,None 
 coast,forest,None 
 wood,forest,identity 
-planet,star,None 
+planet,star,co_hyponyms 
 professor,doctor,None 
 media,radio,indirect_hyponyms 
 practice,institution,indirect_hyponyms 
@@ -32,7 +32,7 @@ peace,plan,None
 plane,car,indirect_hypernyms 
 street,place,indirect_hypernyms 
 car,flight,None 
-start,match,None 
+start,match,co_hyponyms 
 century,year,indirect_part_meronyms 
 month,hotel,None 
 drink,car,None 
@@ -40,7 +40,7 @@ five,month,None
 century,nation,None 
 life,death,part_meronyms 
 profit,loss,None 
-school,center,None 
+school,center,co_hyponyms 
 start,year,None 
 travel,activity,indirect_hypernyms 
 space,chemistry,None 
@@ -55,7 +55,7 @@ architecture,century,None
 experience,music,None 
 cup,food,indirect_hypernyms 
 development,issue,indirect_hypernyms 
-media,trading,None 
+media,trading,co_hyponyms 
 image,surface,None 
 cup,substance,indirect_hypernyms 
 seven,series,None 
