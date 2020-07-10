@@ -111,7 +111,7 @@ f = open('WordPairRelations/CBoW_word_pair_relation.csv', 'w')
 
 for win in range(25):
     f.write("W{},".format(win+1))
-    
+f.write("WS353")
 f.write("\n")
     
 for i in range(len(results)):
@@ -119,7 +119,9 @@ for i in range(len(results)):
         results.sort_values('cbow_model_w{}'.format(win+1), ascending=False, ignore_index=True, inplace = True)
         
         f.write("{},".format(check_relations(results.iloc[i,0],results.iloc[i,1])))
-
+    
+    results.sort_values('WS_similiarity_score', ascending=False, ignore_index=True, inplace = True)
+    f.write("{}".format(check_relations(results.iloc[i,0],results.iloc[i,1])))
     f.write("\n")
 
 f.close()
@@ -139,13 +141,12 @@ for win in range(25):
     f.close()
 
 #we want to do the same with SimLex
-SimLex_scores = results_SimLex.sort_values("Reference_val ",ascending=False, ignore_index=True)
 
 f = open('WordPairRelationsSimLex/CBoW_word_pair_relation.csv', 'w')
 
 for win in range(25):
     f.write("W{},".format(win+1))
-    
+f.write("SimLex")
 f.write("\n")
     
 for i in range(len(results_SimLex)):
@@ -153,7 +154,9 @@ for i in range(len(results_SimLex)):
         results_SimLex.sort_values('CBoW_Model_W{}'.format(win+1), ascending=False, ignore_index=True, inplace = True)
         
         f.write("{},".format(check_relations(results_SimLex.iloc[i,0],results_SimLex.iloc[i,1])))
-
+    
+    results_SimLex.sort_values('Reference_val ', ascending=False, ignore_index=True, inplace = True)
+    f.write("{}".format(check_relations(results_SimLex.iloc[i,0],results_SimLex.iloc[i,1])))
     f.write("\n")
 
 f.close()
@@ -171,3 +174,68 @@ for win in range(25):
         f.write("{},{},{} \n".format(results_SimLex.iloc[i,0],results_SimLex.iloc[i,1],check_relations(results_SimLex.iloc[i,0],results_SimLex.iloc[i,1])))
         
     f.close()     
+
+
+"""
+We also find relations for reference data sets
+And make a set only for words
+"""
+
+results.sort_values('WS_similiarity_score', ascending=False, ignore_index=True, inplace = True)
+
+f = open('WordPairRelations/WS353_topdown_ranked_relation.csv','w')
+
+for i in range(len(results)):
+    f.write("{},{},{} \n".format(results.iloc[i,0],results.iloc[i,1],check_relations(results.iloc[i,0],results.iloc[i,1])))
+    
+f.close()
+
+
+f = open('WordPairRelations/CBoW_word_pairs.csv', 'w')
+
+for win in range(25):
+    f.write("W{},".format(win+1))
+    
+f.write("WS353\n")
+    
+for i in range(len(results)):
+    for win in range(25):
+        results.sort_values('cbow_model_w{}'.format(win+1), ascending=False, ignore_index=True, inplace = True)
+        
+        f.write("({}|{}),".format(results.iloc[i,0],results.iloc[i,1]))
+        
+    results.sort_values('WS_similiarity_score', ascending=False, ignore_index=True, inplace = True)
+    f.write("({}|{})".format(results.iloc[i,0],results.iloc[i,1]))
+    f.write("\n")
+
+f.close()
+
+
+results_SimLex.sort_values('Reference_val ', ascending=False, ignore_index=True, inplace = True)
+
+f = open('WordPairRelationsSimLex/SimLex_topdown_ranked_relation.csv', 'w')
+
+for i in range(len(results_SimLex)):
+    f.write("{},{},{} \n".format(results_SimLex.iloc[i,0],results_SimLex.iloc[i,1],check_relations(results_SimLex.iloc[i,0],results_SimLex.iloc[i,1])))
+           
+f.close()
+
+f = open('WordPairRelationsSimLex/CBoW_word_pairs.csv', 'w')
+
+for win in range(25):
+    f.write("W{},".format(win+1))
+    
+f.write("SimLex\n")
+    
+for i in range(len(results_SimLex)):
+    for win in range(25):
+        results_SimLex.sort_values('CBoW_Model_W{}'.format(win+1), ascending=False, ignore_index=True, inplace = True)
+        
+        f.write("({}|{}),".format(results_SimLex.iloc[i,0],results_SimLex.iloc[i,1]))
+        
+    results_SimLex.sort_values('Reference_val ', ascending=False, ignore_index=True, inplace = True)
+    f.write("({}|{})".format(results_SimLex.iloc[i,0],results_SimLex.iloc[i,1]))
+    f.write("\n")
+
+f.close()
+

@@ -4,14 +4,14 @@ import os
 from itertools import product
 import sys
 
-
+IDENTITY = "identity"
 SYNONYMS = "synonyms"
 SYNSET_RELATIONS = ("hypernyms", "hyponyms") + \
                    tuple(map("_".join, product(("member", "part", "substance"), ("holonyms", "meronyms"))))
 LEMMA_RELATIONS = "antonyms", "pertainyms", "derivationally_related_forms"
 INDIRECT_PREFIX = "indirect_"
 CO_PREFIX = "co_"
-DIRECT_RELATIONS = (SYNONYMS,) + SYNSET_RELATIONS + LEMMA_RELATIONS
+DIRECT_RELATIONS = (SYNONYMS, IDENTITY) + SYNSET_RELATIONS + LEMMA_RELATIONS
 
 
 home = os.path.expanduser("~")
@@ -23,23 +23,19 @@ os.chdir(home + "\Documents\BaProject\PhaseTransitionsInWordEmbeddings\Data\Word
 #os.remove("Hypergeom_relation_test_counts.txt")
 
 
-outfile = open("pvalues_relations_CBoW.csv", "w")
+outfile = open("relation_count_pval.csv", "w")
 outfile.write("Model")
 for relation in DIRECT_RELATIONS: outfile.write(","+str(relation))
 outfile.write("\n")
 
-orig_stdout = sys.stdout
-
-f = open('Hypergeom_relation_test_counts.txt', 'w')
-sys.stdout = f
 
 for win in range(25):
     infile = "CBoW_W{}_word_pair_relation.csv".format(win+1)
-    outfile.write(infile+",")
+    outfile.write("W{},".format(win+1))
     data = np.loadtxt(infile, dtype = str, delimiter = ",")
     num_pairs = len(data)
     num_top = 90
-    print("Running relation hypergeom-test of relations top-90 in " + infile)
+    print("Running relation hypergeom-test of relations top-{} in ".format(num_top) + infile)
     print("----------------------------------------------")
 
     for relation in DIRECT_RELATIONS:
@@ -54,7 +50,7 @@ for win in range(25):
                     relation_top_count += 1
         #use hyper-geometric survival function to calc p-values
         #pval = hypergeom.sf(x-1, M, n, N)
-        outfile.write("{},".format(hypergeom.sf(relation_top_count - 1, num_pairs, relation_total_count, num_top)))
+        outfile.write("{} ({:.2f}),".format(relation_top_count, hypergeom.sf(relation_top_count - 1, num_pairs, relation_total_count, num_top)))
         print("relation top count: "+str(relation_top_count))
         print("relation total count: "+str(relation_total_count))
         print("p-value: "+str(hypergeom.sf(relation_top_count - 1, num_pairs, relation_total_count, num_top)))
@@ -62,9 +58,3 @@ for win in range(25):
     outfile.write("\n")
         
 outfile.close()
-
-
-sys.stdout = orig_stdout
-
-f.close()
-
