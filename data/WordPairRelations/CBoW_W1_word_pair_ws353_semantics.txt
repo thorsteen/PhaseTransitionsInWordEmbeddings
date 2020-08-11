@@ -1,0 +1,1785 @@
+Rank 1 word pair (football,basketball) w/ cosine similarity = 0.7563192 (WS353 rank = 20)
+-----------------------------------------
+Semantic relations for football
+
+Synonyms: ['football', 'football_game', 'football']
+Antonyms: []
+Hypernyms: ['contact_sport.n.01', 'field_game.n.01', 'ball.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01']
+Hyponyms: ['american_football.n.01', 'professional_football.n.01', 'rugby.n.01', 'soccer.n.01']
+Member Holonyms: []
+
+Semantic relations for basketball
+
+Synonyms: ['basketball', 'basketball_game', 'hoops', 'basketball']
+Antonyms: []
+Hypernyms: ['court_game.n.01', 'ball.n.01', 'basketball_equipment.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01']
+Hyponyms: ['professional_basketball.n.01']
+Member Holonyms: []
+
+
+Rank 2 word pair (physics,chemistry) w/ cosine similarity = 0.69892704 (WS353 rank = 17)
+-----------------------------------------
+Semantic relations for physics
+
+Synonyms: ['physics', 'natural_philosophy', 'physics', 'physical_science', 'purgative', 'cathartic', 'physic', 'aperient']
+Antonyms: []
+Hypernyms: ['natural_science.n.01', 'natural_science.n.01', 'medicine.n.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['aeronautics.n.01', 'astronomy.n.01', 'biophysics.n.01', 'cryogenics.n.01', 'crystallography.n.01', 'electromagnetism.n.02', 'electronics.n.01', 'electrostatics.n.01', 'mechanics.n.01', 'nuclear_physics.n.01', 'optics.n.01', 'particle_physics.n.01', 'plasma_physics.n.01', 'quantum_physics.n.01', 'rheology.n.01', 'solid-state_physics.n.01', 'statistical_mechanics.n.01', 'thermodynamics.n.01', 'acoustics.n.01', 'aloes.n.01', 'castor_oil.n.01', 'epsom_salts.n.02', 'laxative.n.01', 'milk_of_magnesia.n.01', 'seidlitz_powder.n.01']
+Member Holonyms: []
+
+Semantic relations for chemistry
+
+Synonyms: ['chemistry', 'chemical_science', 'chemistry', 'chemistry', 'interpersonal_chemistry', 'alchemy']
+Antonyms: []
+Hypernyms: ['natural_science.n.01', 'substance.n.01', 'social_relation.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['electrochemistry.n.01', 'femtochemistry.n.01', 'geochemistry.n.01', 'immunochemistry.n.01', 'inorganic_chemistry.n.01', 'organic_chemistry.n.01', 'photochemistry.n.01', 'physical_chemistry.n.01', 'radiochemistry.n.01', 'surface_chemistry.n.01', 'thermochemistry.n.01']
+Member Holonyms: []
+
+
+Rank 3 word pair (television,radio) w/ cosine similarity = 0.59561396 (WS353 rank = 22)
+-----------------------------------------
+Semantic relations for television
+
+Synonyms: ['television', 'telecasting', 'TV', 'video', 'television', 'television_system', 'television_receiver', 'television', 'television_set', 'tv', 'tv_set', 'idiot_box', 'boob_tube', 'telly', 'goggle_box']
+Antonyms: []
+Hypernyms: ['broadcasting.n.02', 'telecommunication_system.n.01', 'receiver.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['cable_television.n.01', 'high-definition_television.n.01', 'cable.n.06', 'closed-circuit_television.n.01', 'color_television.n.01', 'satellite_television.n.01']
+Member Holonyms: []
+
+Semantic relations for radio
+
+Synonyms: ['radio', 'radiocommunication', 'wireless', 'radio_receiver', 'receiving_set', 'radio_set', 'radio', 'tuner', 'wireless', 'radio', 'wireless', 'radio', 'radio']
+Antonyms: []
+Hypernyms: ['broadcasting.n.02', 'receiver.n.01', 'communication_system.n.01', 'communicate.v.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'act.v.01', 'radio.a.01']
+Hyponyms: ['clock_radio.n.01', 'crystal_set.n.01', 'heterodyne_receiver.n.01', 'push-button_radio.n.01', 'radiotelegraph.n.02']
+Member Holonyms: []
+
+
+Rank 4 word pair (rock,jazz) w/ cosine similarity = 0.5798768 (WS353 rank = 14)
+-----------------------------------------
+Semantic relations for rock
+
+Synonyms: ['rock', 'stone', 'rock', 'stone', 'Rock', 'John_Rock', 'rock', 'rock_candy', 'rock', "rock_'n'_roll", "rock'n'roll", 'rock-and-roll', 'rock_and_roll', 'rock', 'rock_music', 'rock', 'careen', 'sway', 'tilt', 'rock', 'sway', 'shake', 'rock', 'sway']
+Antonyms: []
+Hypernyms: ['natural_object.n.01', 'material.n.01', 'good_person.n.01', 'candy.n.01', 'popular_music.n.01', 'lurch.n.03', 'move_back_and_forth.v.01', 'move.v.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'move.v.03', 'move.v.02']
+Hyponyms: ['achondrite.n.01', 'bedrock.n.01', 'boulder.n.01', 'calculus.n.01', 'chondrite.n.01', 'clastic_rock.n.01', 'crystal.n.03', 'intrusion.n.04', 'outcrop.n.01', 'pebble.n.01', 'petrifaction.n.02', 'sill.n.02', 'stepping_stone.n.01', 'tor.n.01', 'wall_rock.n.01', 'whinstone.n.01', 'xenolith.n.01', 'aphanite.n.01', 'caliche.n.02', 'claystone.n.01', 'dolomite.n.01', 'emery_stone.n.01', 'fieldstone.n.01', 'gravel.n.01', 'greisen.n.01', 'igneous_rock.n.01', 'limestone.n.01', 'magma.n.01', 'marble.n.01', 'matrix.n.02', 'metamorphic_rock.n.01', 'pudding_stone.n.01', 'pumice.n.01', 'quartzite.n.01', 'road_metal.n.01', 'sedimentary_rock.n.01', 'shingling.n.01', 'sial.n.01', 'sima.n.01', 'tufa.n.01', 'heavy_metal.n.02', 'progressive_rock.n.01', 'psychedelic_rock.n.01', 'punk_rock.n.01', 'nutate.v.01', 'roll.v.13', 'swag.v.03', 'totter.v.01']
+Member Holonyms: []
+
+Semantic relations for jazz
+
+Synonyms: ['wind', 'malarkey', 'malarky', 'idle_words', 'jazz', 'nothingness', 'jazz', 'jazz', 'jazz', 'sleep_together', 'roll_in_the_hay', 'love', 'make_out', 'make_love', 'sleep_with', 'get_laid', 'have_sex', 'know', 'do_it', 'be_intimate', 'have_intercourse', 'have_it_away', 'have_it_off', 'screw', 'fuck', 'jazz', 'eff', 'hump', 'lie_with', 'bed', 'have_a_go_at_it', 'bang', 'get_it_on', 'bonk']
+Antonyms: []
+Hypernyms: ['talk.n.01', 'popular_music.n.01', 'dance_music.n.02', 'play.v.06', 'copulate.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'make.v.03', 'connect.v.01']
+Hyponyms: ['boogie.n.01', 'bop.n.02', 'cool_jazz.n.01', 'funk.n.03', 'hot_jazz.n.01', 'modern_jazz.n.01', 'scat.n.01', 'swing.n.05', 'trad.n.01', 'fornicate.v.01', 'take.v.35']
+Member Holonyms: []
+
+
+Rank 5 word pair (liquid,water) w/ cosine similarity = 0.55211407 (WS353 rank = 9)
+-----------------------------------------
+Semantic relations for liquid
+
+Synonyms: ['liquid', 'liquid', 'liquidness', 'liquidity', 'liquid_state', 'liquid', 'liquid', 'liquid', 'liquid', 'swimming', 'liquid', 'limpid', 'melted', 'liquid', 'liquified', 'liquid', 'fluent', 'fluid', 'liquid', 'smooth', 'fluid', 'liquid']
+Antonyms: ['gaseous', 'unmelted']
+Hypernyms: ['fluid.n.01', 'state_of_matter.n.01', 'fluid.n.02', 'consonant.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'liquid.a.01', 'liquid.s.02', 'liquid.s.03', 'melted.a.01', 'liquid.s.05', 'fluent.s.01', 'fluid.s.04']
+Hyponyms: ['alcohol.n.02', 'ammonia_water.n.01', 'antifreeze.n.01', 'beverage.n.01', 'distillate.n.01', 'grume.n.01', 'ink.n.01', 'liquor.n.02', 'medium.n.05', 'pyroligneous_acid.n.01', 'sheep_dip.n.01', 'snake_oil.n.01', 'supernatant.n.01', 'water.n.06', 'artificial_blood.n.01', 'elixir.n.01', 'extravasation.n.01', 'instillation.n.02', 'liquid_crystal.n.01', 'spill.n.01', 'tuberculin.n.01', 'water.n.01']
+Member Holonyms: []
+
+Semantic relations for water
+
+Synonyms: ['water', 'H2O', 'body_of_water', 'water', 'water', 'water_system', 'water_supply', 'water', 'urine', 'piss', 'pee', 'piddle', 'weewee', 'water', 'water', 'water', 'irrigate', 'water', 'water', 'water']
+Antonyms: []
+Hypernyms: ['binary_compound.n.01', 'liquid.n.03', 'thing.n.12', 'element.n.05', 'facility.n.01', 'body_waste.n.01', 'food.n.01', 'liquid.n.01', 'nutrient.n.02', 'wet.v.01', 'supply.v.01', 'secrete.v.01', 'fill.v.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'change.v.01', 'transfer.v.05', 'exhaust.v.05', 'change.v.02']
+Hyponyms: ['bath_water.n.01', 'bilge.n.01', 'dishwater.n.01', 'distilled_water.n.01', 'fresh_water.n.01', 'ground_water.n.01', 'hard_water.n.01', 'holy_water.n.01', 'limewater.n.01', 'meltwater.n.01', 'seawater.n.01', 'slush.n.01', 'soft_water.n.01', 'tap_water.n.01', 'water_of_crystallization.n.01', 'backwater.n.01', 'bay.n.01', 'channel.n.04', 'drink.n.04', 'estuary.n.01', 'flowage.n.02', 'ford.n.07', 'gulf.n.01', 'high_sea.n.01', 'inlet.n.01', 'lake.n.01', 'main.n.01', 'mid-water.n.01', 'ocean.n.01', 'offing.n.02', 'polynya.n.01', 'pool.n.06', 'sea.n.01', 'seven_seas.n.01', 'shoal.n.02', 'sound.n.08', 'stream.n.01', 'territorial_waters.n.01', 'waterfall.n.01', 'waterway.n.01', 'branch_water.n.01', 'drinking_water.n.01', 'spring_water.n.02', 'flush.v.07', 'hose.v.01', 'hush.v.05']
+Member Holonyms: []
+
+
+Rank 6 word pair (man,woman) w/ cosine similarity = 0.5462458 (WS353 rank = 6)
+-----------------------------------------
+Semantic relations for man
+
+Synonyms: ['man', 'adult_male', 'serviceman', 'military_man', 'man', 'military_personnel', 'man', 'homo', 'man', 'human_being', 'human', 'man', 'man', 'valet', 'valet_de_chambre', 'gentleman', "gentleman's_gentleman", 'man', 'man', 'Man', 'Isle_of_Man', 'man', 'piece', 'world', 'human_race', 'humanity', 'humankind', 'human_beings', 'humans', 'mankind', 'man', 'man', 'man']
+Antonyms: ['woman', 'civilian', 'woman']
+Hypernyms: ['adult.n.01', 'male.n.02', 'skilled_worker.n.01', 'person.n.01', 'hominid.n.01', 'subordinate.n.01', 'male.n.02', 'body_servant.n.01', 'manservant.n.01', 'lover.n.03', 'male.n.02', 'game_equipment.n.01', 'group.n.01', 'homo.n.02', 'work.v.02', 'staff.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'work.v.02', 'transfer.v.05']
+Hyponyms: ['adonis.n.01', 'babu.n.01', 'bachelor.n.01', 'bey.n.01', 'black_man.n.01', 'boy.n.02', 'boyfriend.n.01', 'bull.n.02', 'dandy.n.01', 'ejaculator.n.01', 'esquire.n.02', 'eunuch.n.01', 'ex-boyfriend.n.01', 'ex-husband.n.01', 'father-figure.n.01', 'father_figure.n.01', 'fellow.n.06', 'galoot.n.01', 'geezer.n.01', 'gentleman.n.01', 'grass_widower.n.01', 'guy.n.01', 'herr.n.01', 'hooray_henry.n.01', 'housefather.n.01', 'hunk.n.01', 'inamorato.n.01', 'iron_man.n.01', 'ironside.n.01', 'middle-aged_man.n.01', 'monsieur.n.01', 'old_boy.n.01', 'old_man.n.01', 'patriarch.n.02', 'peter_pan.n.01', 'ponce.n.01', 'posseman.n.01', 'senhor.n.01', 'shaver.n.01', 'signor.n.01', 'signore.n.01', 'sir.n.01', 'stiff.n.01', 'stud.n.01', 'tarzan.n.01', 'white_man.n.01', 'widower.n.01', 'womanizer.n.01', 'wonder_boy.n.01', 'yellow_man.n.01', 'young_buck.n.01', 'air_force_officer.n.01', 'artilleryman.n.01', 'bluejacket.n.01', 'commando.n.01', 'draftee.n.01', 'enlisted_person.n.01', 'marine.n.01', 'military_officer.n.01', 'noncombatant.n.01', 'occupier.n.02', 'striper.n.01', 'veteran.n.01', 'veteran.n.02', 'volunteer.n.01', 'homo_erectus.n.01', 'homo_habilis.n.01', 'homo_sapiens.n.01', 'homo_soloensis.n.01', 'neandertal_man.n.01', 'rhodesian_man.n.01', 'world.n.08', 'black.n.06', 'checker.n.03', 'chessman.n.01', 'tile.n.03', 'white.n.11', 'crew.v.01']
+Member Holonyms: ['military_unit.n.01', 'genus_homo.n.01']
+
+Semantic relations for woman
+
+Synonyms: ['woman', 'adult_female', 'woman', 'charwoman', 'char', 'cleaning_woman', 'cleaning_lady', 'woman', 'womanhood', 'woman', 'fair_sex']
+Antonyms: ['man', 'man']
+Hypernyms: ['adult.n.01', 'female.n.02', 'female.n.02', 'cleaner.n.03', 'class.n.03']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['amazon.n.01', 'b-girl.n.01', 'bachelor_girl.n.01', 'baggage.n.02', 'ball-buster.n.01', 'black_woman.n.01', 'bluestocking.n.01', 'bridesmaid.n.01', 'broad.n.01', 'cat.n.03', 'cinderella.n.01', 'coquette.n.01', 'dame.n.02', 'debutante.n.01', 'divorcee.n.01', 'dominatrix.n.01', 'donna.n.01', 'enchantress.n.01', 'ex-wife.n.01', 'eyeful.n.01', 'geisha.n.01', 'girl.n.01', 'girl.n.05', 'girlfriend.n.01', 'girlfriend.n.02', 'gold_digger.n.02', 'gravida.n.02', 'heroine.n.02', 'inamorata.n.01', 'jezebel.n.02', 'jilt.n.01', 'lady.n.01', 'maenad.n.01', 'maenad.n.02', 'matriarch.n.01', 'matriarch.n.02', 'matron.n.03', 'mestiza.n.01', 'mistress.n.01', 'mother_figure.n.01', 'nanny.n.01', 'nullipara.n.01', 'nymph.n.03', 'nymphet.n.01', 'old_woman.n.01', 'prostitute.n.01', 'shiksa.n.01', 'smasher.n.02', 'sylph.n.01', 'unmarried_woman.n.01', 'vestal.n.01', 'wac.n.01', 'wave.n.09', 'white_woman.n.01', 'widow.n.01', 'wife.n.01', 'wonder_woman.n.01', 'yellow_woman.n.01']
+Member Holonyms: ['womankind.n.01']
+
+
+Rank 7 word pair (skin,eye) w/ cosine similarity = 0.5374243 (WS353 rank = 27)
+-----------------------------------------
+Semantic relations for skin
+
+Synonyms: ['skin', 'tegument', 'cutis', 'skin', 'hide', 'pelt', 'skin', 'skin', 'peel', 'skin', 'skin', 'clamber', 'scramble', 'shin', 'shinny', 'skin', 'struggle', 'sputter', 'skin', 'scrape', 'bark', 'skin', 'skin', 'peel', 'pare']
+Antonyms: []
+Hypernyms: ['body_covering.n.01', 'connective_tissue.n.01', 'surface.n.01', 'body_covering.n.01', 'animation.n.01', 'rind.n.01', 'bag.n.01', 'climb.v.02', 'injure.v.01', 'strip.v.03', 'strip.v.03']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'move.v.03', 'change.v.01', 'remove.v.01', 'remove.v.01']
+Hyponyms: ['buff.n.03', 'cuticle.n.01', 'dewlap.n.01', 'hangnail.n.01', 'investment.n.04', 'prepuce.n.01', 'prepuce.n.02', 'scalp.n.01', 'skin_graft.n.01', 'thick_skin.n.01', 'banana_peel.n.01', 'jacket.n.04', 'lemon_peel.n.01', 'orange_peel.n.01', 'waterskin.n.01', 'wineskin.n.01', 'flay.v.01', 'peel_off.v.01']
+Member Holonyms: []
+
+Semantic relations for eye
+
+Synonyms: ['eye', 'oculus', 'optic', 'eye', 'eye', 'center', 'centre', 'middle', 'heart', 'eye', 'eye', 'eye', 'eyeball']
+Antonyms: []
+Hypernyms: ['sense_organ.n.01', 'sagacity.n.01', 'attention.n.01', 'area.n.01', 'hole.n.02', 'look.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'look.v.01']
+Hyponyms: ['compound_eye.n.01', 'naked_eye.n.01', 'oculus_dexter.n.01', 'oculus_sinister.n.01', 'peeper.n.02', 'simple_eye.n.01', 'center_stage.n.02', 'city_center.n.01', 'financial_center.n.01', 'hub.n.02', 'inner_city.n.01', 'medical_center.n.01', 'midfield.n.01', 'midstream.n.01', 'seat.n.05', 'storm_center.n.02']
+Member Holonyms: []
+
+
+Rank 8 word pair (glass,metal) w/ cosine similarity = 0.5289548 (WS353 rank = 29)
+-----------------------------------------
+Semantic relations for glass
+
+Synonyms: ['glass', 'glass', 'drinking_glass', 'glass', 'glassful', 'field_glass', 'glass', 'spyglass', 'methamphetamine', 'methamphetamine_hydrochloride', 'Methedrine', 'meth', 'deoxyephedrine', 'chalk', 'chicken_feed', 'crank', 'glass', 'ice', 'shabu', 'trash', 'looking_glass', 'glass', 'glass', 'glass', 'glaze', 'glass', 'glass', 'glass_in', 'glass', 'glaze', 'glass', 'glass_over', 'glaze_over']
+Antonyms: []
+Hypernyms: ['solid.n.01', 'container.n.01', 'containerful.n.01', 'refracting_telescope.n.01', 'amphetamine.n.01', 'controlled_substance.n.01', 'mirror.n.01', 'glassware.n.01', 'supply.v.01', 'scan.v.01', 'enclose.v.03', 'insert.v.02', 'change.v.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'transfer.v.05', 'examine.v.02', 'touch.v.05', 'move.v.02', 'change.v.02']
+Hyponyms: ['crown_glass.n.01', 'ground_glass.n.01', 'ground_glass.n.02', 'lead_glass.n.01', 'natural_glass.n.01', 'opal_glass.n.01', 'optical_glass.n.01', 'pyrex.n.01', 'safety_glass.n.01', 'soft_glass.n.01', 'soluble_glass.n.01', 'stained_glass.n.01', 'wire_glass.n.01', 'beer_glass.n.01', 'bumper.n.01', 'goblet.n.01', 'highball_glass.n.01', 'liqueur_glass.n.01', 'parfait_glass.n.01', 'rummer.n.01', 'schooner.n.01', 'seidel.n.01', 'shot_glass.n.01', 'snifter.n.01', 'tumbler.n.02', 'water_glass.n.02', 'wineglass.n.01', 'double-glaze.v.01']
+Member Holonyms: []
+
+Semantic relations for metal
+
+Synonyms: ['metallic_element', 'metal', 'alloy', 'metal', 'metal', 'metallic', 'metal']
+Antonyms: ['nonmetallic']
+Hypernyms: ['chemical_element.n.01', 'mixture.n.01', 'coat.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'cover.v.01', 'metallic.a.01']
+Hyponyms: ['alkali_metal.n.01', 'alkaline_earth.n.01', 'aluminum.n.01', 'americium.n.01', 'antimony.n.01', 'barium.n.01', 'base_metal.n.01', 'berkelium.n.01', 'beryllium.n.01', 'bismuth.n.01', 'cadmium.n.01', 'calcium.n.01', 'californium.n.01', 'cerium.n.01', 'cesium.n.01', 'chromium.n.01', 'cobalt.n.01', 'copper.n.01', 'curium.n.01', 'dysprosium.n.01', 'einsteinium.n.01', 'erbium.n.01', 'europium.n.01', 'fermium.n.01', 'francium.n.01', 'gadolinium.n.01', 'gallium.n.01', 'hafnium.n.01', 'heavy_metal.n.01', 'holmium.n.01', 'indium.n.01', 'iridium.n.01', 'iron.n.01', 'lanthanum.n.01', 'lead.n.02', 'lithium.n.01', 'lutetium.n.01', 'magnesium.n.01', 'manganese.n.01', 'mercury.n.01', 'molybdenum.n.01', 'neodymium.n.01', 'neptunium.n.01', 'nickel.n.01', 'niobium.n.01', 'noble_metal.n.01', 'osmium.n.01', 'palladium.n.01', 'polonium.n.01', 'potassium.n.01', 'praseodymium.n.01', 'promethium.n.01', 'protactinium.n.01', 'radium.n.01', 'rhenium.n.01', 'rhodium.n.01', 'rubidium.n.01', 'ruthenium.n.01', 'samarium.n.01', 'scandium.n.01', 'sodium.n.01', 'strontium.n.01', 'tantalum.n.01', 'technetium.n.01', 'terbium.n.01', 'thallium.n.01', 'thorium.n.01', 'thulium.n.01', 'tin.n.01', 'titanium.n.01', 'tungsten.n.01', 'uranium.n.01', 'vanadium.n.01', 'ytterbium.n.01', 'yttrium.n.01', 'zinc.n.01', 'zirconium.n.01', '18-karat_gold.n.01', '22-karat_gold.n.01', 'alnico.n.01', 'amalgam.n.01', 'babbitt_metal.n.01', 'britannia_metal.n.01', 'carboloy.n.01', 'cheoplastic_metal.n.01', 'copper-base_alloy.n.01', 'dental_gold.n.01', 'duralumin.n.01', 'electrum.n.01', 'fusible_metal.n.01', 'heavy_metal.n.01', 'inconel.n.01', 'invar.n.01', 'nickel-base_alloy.n.01', 'nickel_silver.n.01', 'oroide.n.01', 'pewter.n.01', 'pinchbeck.n.01', 'pot_metal.n.02', 'pyrophoric_alloy.n.01', 'shot_metal.n.01', 'solder.n.01', 'steel.n.01', 'stellite.n.01', 'sterling_silver.n.01', 'tombac.n.01', 'type_metal.n.01', 'white_gold.n.01', 'white_metal.n.01', "wood's_metal.n.01"]
+Member Holonyms: []
+
+
+Rank 9 word pair (type,kind) w/ cosine similarity = 0.52751154 (WS353 rank = 2)
+-----------------------------------------
+Semantic relations for type
+
+Synonyms: ['type', 'character', 'eccentric', 'type', 'case', 'type', 'type', 'type', 'type', 'type', 'typewrite', 'type', 'typecast']
+Antonyms: ['antitype']
+Hypernyms: ['kind.n.01', 'adult.n.01', 'taxonomic_group.n.01', 'character.n.08', 'symbol.n.01', 'block.n.01', 'write.v.02', 'identify.v.06']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'act.v.01', 'remember.v.01']
+Hyponyms: ['breed.n.02', 'nature.n.05', 'version.n.02', 'font.n.01', 'type_family.n.01', 'kern.n.02', 'quad.n.03', 'backspace.v.01', 'double-space.v.01', 'shift.v.10', 'touch-type.v.01', 'triple-space.v.01']
+Member Holonyms: []
+
+Semantic relations for kind
+
+Synonyms: ['kind', 'sort', 'form', 'variety', 'kind', 'kind', 'genial', 'kind', 'tolerant']
+Antonyms: ['unkind']
+Hypernyms: ['category.n.02']
+Root Hypernyms: ['entity.n.01', 'kind.a.01', 'kind.s.02', 'kind.s.03']
+Hyponyms: ['antitype.n.02', 'art_form.n.01', 'brand.n.02', 'color.n.07', 'description.n.03', 'flavor.n.03', 'genre.n.01', 'genus.n.01', 'like.n.01', 'like.n.02', 'manner.n.03', 'model.n.02', 'species.n.02', 'stripe.n.04', 'style.n.03', 'type.n.01']
+Member Holonyms: []
+
+
+Rank 10 word pair (planet,moon) w/ cosine similarity = 0.5161626 (WS353 rank = 4)
+-----------------------------------------
+Semantic relations for planet
+
+Synonyms: ['planet', 'major_planet', 'satellite', 'planet', 'planet']
+Antonyms: []
+Hypernyms: ['celestial_body.n.01', 'follower.n.01', 'celestial_body.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['inferior_planet.n.01', 'jovian_planet.n.01', 'morning_star.n.01', 'outer_planet.n.01', 'superior_planet.n.01', 'terrestrial_planet.n.01']
+Member Holonyms: ['solar_system.n.01']
+
+Semantic relations for moon
+
+Synonyms: ['Moon', 'moon', 'moon', 'lunar_month', 'moon', 'lunation', 'synodic_month', 'moonlight', 'moonshine', 'Moon', 'Moon', 'Sun_Myung_Moon', 'moon', 'daydream', 'moon', 'moon', 'moon_around', 'moon_on', 'moon']
+Antonyms: []
+Hypernyms: ['object.n.01', 'month.n.02', 'light.n.01', 'satellite.n.03', 'idle.v.02', 'idle.v.02', 'expose.v.03']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'idle.v.02', 'idle.v.02', 'show.v.04']
+Hyponyms: []
+Member Holonyms: []
+
+
+Rank 11 word pair (king,queen) w/ cosine similarity = 0.49311453 (WS353 rank = 3)
+-----------------------------------------
+Semantic relations for king
+
+Synonyms: ['king', 'male_monarch', 'Rex', 'king', 'queen', 'world-beater', 'baron', 'big_businessman', 'business_leader', 'king', 'magnate', 'mogul', 'power', 'top_executive', 'tycoon', 'king', 'King', 'Billie_Jean_King', 'Billie_Jean_Moffitt_King', 'King', 'B._B._King', 'Riley_B_King', 'King', 'Martin_Luther_King', 'Martin_Luther_King_Jr.', 'king', 'king', 'king']
+Antonyms: ['queen', 'female_monarch']
+Hypernyms: ['sovereign.n.01', 'rival.n.01', 'businessman.n.01', 'eminence.n.01', 'checker.n.03', 'face_card.n.01', 'chessman.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['king_of_england.n.01', 'king_of_france.n.01', 'king_of_the_germans.n.01', 'oil_tycoon.n.01']
+Member Holonyms: ['royalty.n.02']
+
+Semantic relations for queen
+
+Synonyms: ['queen', 'queen', 'queen_regnant', 'female_monarch', 'queen', 'queen', 'king', 'queen', 'world-beater', 'fagot', 'faggot', 'fag', 'fairy', 'nance', 'pansy', 'queen', 'queer', 'poof', 'poove', 'pouf', 'queen', 'queen', 'queen', 'queen_mole_rat', 'tabby', 'queen', 'queen', 'queen']
+Antonyms: ['king', 'male_monarch']
+Hypernyms: ['insect.n.01', 'female_aristocrat.n.01', 'female_aristocrat.n.01', 'personification.n.01', 'rival.n.01', 'gay_man.n.01', 'face_card.n.01', 'chessman.n.01', 'naked_mole_rat.n.01', 'domestic_cat.n.01', 'promote.v.05', 'promote.v.04']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'use.v.01', 'change.v.02']
+Hyponyms: ['queen_bee.n.01', 'queen_of_england.n.01', 'queen_consort.n.01', 'queen_dowager.n.01', 'queen_regent.n.01']
+Member Holonyms: ['royalty.n.02', 'royalty.n.02', 'pack_of_cards.n.01']
+
+
+Rank 12 word pair (food,fruit) w/ cosine similarity = 0.48096037 (WS353 rank = 15)
+-----------------------------------------
+Semantic relations for food
+
+Synonyms: ['food', 'nutrient', 'food', 'solid_food', 'food', 'food_for_thought', 'intellectual_nourishment']
+Antonyms: []
+Hypernyms: ['substance.n.07', 'solid.n.01', 'content.n.05']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['beverage.n.01', 'chyme.n.01', 'comestible.n.01', 'comfort_food.n.01', 'commissariat.n.01', 'culture_medium.n.01', 'fare.n.04', 'feed.n.01', 'foodstuff.n.02', 'micronutrient.n.01', 'miraculous_food.n.01', 'nutriment.n.01', 'soul_food.n.01', 'water.n.06', 'yolk.n.02', 'baked_goods.n.01', 'breakfast_food.n.01', 'butter.n.01', 'cheese.n.01', 'chocolate.n.02', 'coconut.n.01', 'convenience_food.n.01', 'dika_bread.n.01', 'fish.n.02', 'fresh_food.n.01', 'health_food.n.01', 'junk_food.n.01', 'leftovers.n.01', 'loaf.n.02', 'meat.n.01', 'pasta.n.02', 'produce.n.01', 'seafood.n.01', 'slop.n.04', 'yogurt.n.01', 'pabulum.n.02']
+Member Holonyms: []
+
+Semantic relations for fruit
+
+Synonyms: ['fruit', 'yield', 'fruit', 'fruit', 'fruit', 'fruit']
+Antonyms: []
+Hypernyms: ['reproductive_structure.n.01', 'product.n.02', 'consequence.n.02', 'bear.v.05']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'fruit.v.01', 'make.v.03']
+Hyponyms: ['accessory_fruit.n.01', 'achene.n.01', 'acorn.n.01', 'aggregate_fruit.n.01', 'berry.n.02', 'buckthorn_berry.n.01', 'buffalo_nut.n.01', 'chokecherry.n.01', 'cubeb.n.01', 'drupe.n.01', 'ear.n.05', 'edible_fruit.n.01', 'fruitlet.n.01', 'gourd.n.02', 'hagberry.n.01', 'hip.n.05', 'juniper_berry.n.01', 'marasca.n.01', 'may_apple.n.01', 'olive.n.01', 'pod.n.02', 'pome.n.01', 'prairie_gourd.n.01', 'pyxidium.n.01', 'quandong.n.02', 'rowanberry.n.01', 'schizocarp.n.01', 'seed.n.01', 'wild_cherry.n.01']
+Member Holonyms: []
+
+
+Rank 13 word pair (money,cash) w/ cosine similarity = 0.46565172 (WS353 rank = 0)
+-----------------------------------------
+Semantic relations for money
+
+Synonyms: ['money', 'money', 'money']
+Antonyms: []
+Hypernyms: ['medium_of_exchange.n.01', 'wealth.n.04', 'currency.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['appropriation.n.01', 'boodle.n.01', 'fund.n.01', 'shinplaster.n.01', 'subsidization.n.01', 'token_money.n.01', 'pile.n.03', 'sterling.n.01']
+Member Holonyms: []
+
+Semantic relations for cash
+
+Synonyms: ['cash', 'hard_cash', 'hard_currency', 'cash', 'immediate_payment', 'Cash', 'Johnny_Cash', 'John_Cash', 'cash', 'cash_in']
+Antonyms: ['credit']
+Hypernyms: ['currency.n.01', 'payment.n.01', 'exchange.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'transfer.v.05']
+Hyponyms: ['change.n.05', 'change.n.09', 'pocket_money.n.01', 'ready_cash.n.01', 'small_change.n.01', 'liquidate.v.03', 'redeem.v.06']
+Member Holonyms: []
+
+
+Rank 14 word pair (planet,sun) w/ cosine similarity = 0.45517647 (WS353 rank = 4)
+-----------------------------------------
+Semantic relations for planet
+
+Synonyms: ['planet', 'major_planet', 'satellite', 'planet', 'planet']
+Antonyms: []
+Hypernyms: ['celestial_body.n.01', 'follower.n.01', 'celestial_body.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['inferior_planet.n.01', 'jovian_planet.n.01', 'morning_star.n.01', 'outer_planet.n.01', 'superior_planet.n.01', 'terrestrial_planet.n.01']
+Member Holonyms: ['solar_system.n.01']
+
+Semantic relations for sun
+
+Synonyms: ['sun', 'Sun', 'sunlight', 'sunshine', 'sun', 'sun', 'sun', 'Sunday', "Lord's_Day", 'Dominicus', 'Sun', 'sun', 'sunbathe', 'sun', 'insolate', 'solarize', 'solarise']
+Antonyms: []
+Hypernyms: ['light.n.01', 'important_person.n.01', 'star.n.01', 'rest_day.n.01', 'lie.v.02', 'expose.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'lie.v.02', 'change.v.01']
+Hyponyms: ['sunburst.n.01']
+Member Holonyms: ['solar_system.n.01']
+
+
+Rank 15 word pair (psychology,science) w/ cosine similarity = 0.451894 (WS353 rank = 23)
+-----------------------------------------
+Semantic relations for psychology
+
+Synonyms: ['psychology', 'psychological_science']
+Antonyms: []
+Hypernyms: ['science.n.01']
+Root Hypernyms: ['entity.n.01']
+Hyponyms: ['abnormal_psychology.n.01', 'applied_psychology.n.01', 'cognitive_psychology.n.01', 'comparative_psychology.n.01', 'developmental_psychology.n.01', 'differential_psychology.n.01', 'experimental_psychology.n.01', 'physiological_psychology.n.01', 'psychometry.n.01', 'social_psychology.n.01']
+Member Holonyms: []
+
+Semantic relations for science
+
+Synonyms: ['science', 'scientific_discipline', 'skill', 'science']
+Antonyms: []
+Hypernyms: ['discipline.n.01', 'ability.n.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01']
+Hyponyms: ['agrobiology.n.01', 'agrology.n.01', 'agronomy.n.01', 'architectonics.n.01', 'cognitive_science.n.01', 'cryptanalysis.n.01', 'information_science.n.01', 'linguistics.n.01', 'mathematics.n.01', 'metallurgy.n.01', 'metrology.n.01', 'natural_history.n.01', 'natural_science.n.01', 'nutrition.n.03', 'psychology.n.01', 'social_science.n.01', 'strategics.n.01', 'systematics.n.01', 'thanatology.n.01', 'nose.n.07', 'virtuosity.n.01']
+Member Holonyms: []
+
+
+Rank 16 word pair (journal,association) w/ cosine similarity = 0.44482 (WS353 rank = 33)
+-----------------------------------------
+Semantic relations for journal
+
+Synonyms: ['diary', 'journal', 'journal', 'daybook', 'journal', 'journal', 'journal']
+Antonyms: []
+Hypernyms: ['writing.n.02', 'periodical.n.01', 'ledger.n.01', 'book.n.02', 'axle.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['web_log.n.01', 'annals.n.01', 'daybook.n.02', 'diary.n.02']
+Member Holonyms: []
+
+Semantic relations for association
+
+Synonyms: ['association', 'association', 'association', 'association', 'connection', 'connexion', 'affiliation', 'association', 'tie', 'tie-up', 'association', 'association', 'association']
+Antonyms: ['disassociation']
+Hypernyms: ['organization.n.01', 'social_activity.n.01', 'union.n.04', 'memory.n.02', 'relationship.n.03', 'relation.n.01', 'chemical_process.n.01', 'group.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['american_baptist_convention.n.01', 'american_legion.n.01', 'association_for_the_advancement_of_retired_persons.n.01', 'association_of_southeast_asian_nations.n.01', 'chamber_of_commerce.n.01', 'club.n.02', 'consortium.n.01', 'cooperative.n.02', 'fabian_society.n.01', 'family.n.08', 'gang.n.01', 'institute.n.01', 'league.n.01', 'legion.n.02', 'national_association_of_realtors.n.01', 'professional_association.n.01', 'secret_society.n.01', 'sisterhood.n.02', 'southern_baptist_convention.n.01', 'veterans_of_foreign_wars.n.01', 'affiliation.n.02', 'fraternization.n.01', 'colligation.n.02', 'hydration.n.01', 'solvation.n.01', 'antibiosis.n.01']
+Member Holonyms: []
+
+
+Rank 17 word pair (train,car) w/ cosine similarity = 0.39910144 (WS353 rank = 26)
+-----------------------------------------
+Semantic relations for train
+
+Synonyms: ['train', 'railroad_train', 'string', 'train', 'caravan', 'train', 'wagon_train', 'train', 'train', 'gearing', 'gear', 'geartrain', 'power_train', 'train', 'train', 'develop', 'prepare', 'educate', 'train', 'prepare', 'discipline', 'train', 'check', 'condition', 'prepare', 'groom', 'train', 'educate', 'school', 'train', 'cultivate', 'civilize', 'civilise', 'aim', 'take', 'train', 'take_aim', 'direct', 'coach', 'train', 'train', 'train', 'train', 'rail', 'trail', 'train']
+Antonyms: []
+Hypernyms: ['public_transport.n.01', 'series.n.01', 'procession.n.02', 'consequence.n.02', 'piece_of_cloth.n.01', 'wheelwork.n.01', 'teach.v.01', 'learn.v.04', 'develop.v.12', 'educate.v.01', 'polish.v.02', 'position.v.01', 'teach.v.01', 'exercise.v.04', 'control.v.02', 'ride.v.02', 'drag.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'act.v.01', 'learn.v.04', 'change.v.01', 'change.v.01', 'change.v.01', 'move.v.02', 'act.v.01', 'exercise.v.04', 'forget.v.01', 'travel.v.01', 'move.v.02']
+Hyponyms: ['boat_train.n.01', 'car_train.n.01', 'freight_train.n.01', 'hospital_train.n.01', 'mail_train.n.01', 'passenger_train.n.01', 'streamliner.n.01', 'subway_train.n.01', 'epicyclic_train.n.01', 'reduction_gear.n.01', 'drill.v.02', 'housebreak.v.01', 'retrain.v.01', 'toilet-train.v.01', 'apprentice.v.01', 'drill.v.05', 'retrain.v.02', 'mortify.v.01', 'qualify.v.04', 'sophisticate.v.01', 'charge.v.17', 'draw_a_bead_on.v.01', 'hold.v.33', 'level.v.01', 'sight.v.02', 'swing.v.07', 'target.v.01', 'turn.v.23', 'trellis.v.01']
+Member Holonyms: []
+
+Semantic relations for car
+
+Synonyms: ['car', 'auto', 'automobile', 'machine', 'motorcar', 'car', 'railcar', 'railway_car', 'railroad_car', 'car', 'gondola', 'car', 'elevator_car', 'cable_car', 'car']
+Antonyms: []
+Hypernyms: ['motor_vehicle.n.01', 'wheeled_vehicle.n.01', 'compartment.n.02', 'compartment.n.02', 'compartment.n.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['ambulance.n.01', 'beach_wagon.n.01', 'bus.n.04', 'cab.n.03', 'compact.n.03', 'convertible.n.01', 'coupe.n.01', 'cruiser.n.01', 'electric.n.01', 'gas_guzzler.n.01', 'hardtop.n.01', 'hatchback.n.01', 'horseless_carriage.n.01', 'hot_rod.n.01', 'jeep.n.01', 'limousine.n.01', 'loaner.n.02', 'minicar.n.01', 'minivan.n.01', 'model_t.n.01', 'pace_car.n.01', 'racer.n.02', 'roadster.n.01', 'sedan.n.01', 'sport_utility.n.01', 'sports_car.n.01', 'stanley_steamer.n.01', 'stock_car.n.01', 'subcompact.n.01', 'touring_car.n.01', 'used-car.n.01', 'baggage_car.n.01', 'cabin_car.n.01', 'club_car.n.01', 'freight_car.n.01', "guard's_van.n.01", 'handcar.n.01', 'mail_car.n.01', 'passenger_car.n.01', 'slip_coach.n.01', 'tender.n.04', 'van.n.03']
+Member Holonyms: ['train.n.01']
+
+
+Rank 18 word pair (student,professor) w/ cosine similarity = 0.3961511 (WS353 rank = 21)
+-----------------------------------------
+Semantic relations for student
+
+Synonyms: ['student', 'pupil', 'educatee', 'scholar', 'scholarly_person', 'bookman', 'student']
+Antonyms: []
+Hypernyms: ['enrollee.n.01', 'intellectual.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01']
+Hyponyms: ['art_student.n.01', 'auditor.n.02', 'catechumen.n.01', 'collegian.n.01', 'crammer.n.01', 'etonian.n.01', 'ivy_leaguer.n.01', 'law_student.n.01', 'major.n.03', 'medical_student.n.01', 'nonreader.n.01', 'overachiever.n.01', 'passer.n.03', 'scholar.n.03', 'seminarian.n.01', 'sixth-former.n.01', 'skipper.n.01', 'underachiever.n.01', 'withdrawer.n.05', 'wykehamist.n.01', 'academician.n.02', 'alumnus.n.01', 'arabist.n.01', 'bibliographer.n.01', 'bibliophile.n.01', 'cabalist.n.03', 'doctor.n.04', 'goliard.n.01', 'historian.n.01', 'humanist.n.01', 'initiate.n.02', 'islamist.n.01', 'licentiate.n.01', 'masorete.n.01', 'master.n.08', 'mujtihad.n.01', 'musicologist.n.01', 'pedant.n.01', 'philomath.n.01', 'philosopher.n.01', 'postdoc.n.02', 'reader.n.01', 'renaissance_man.n.01', 'renaissance_man.n.02', 'salutatorian.n.01', 'scholiast.n.01', 'schoolman.n.01', 'shakespearian.n.01', 'sinologist.n.01', 'theologian.n.01', 'valedictorian.n.01', 'vedist.n.01']
+Member Holonyms: ['teacher-student_relation.n.01']
+
+Semantic relations for professor
+
+Synonyms: ['professor', 'prof']
+Antonyms: []
+Hypernyms: ['academician.n.03']
+Root Hypernyms: ['entity.n.01']
+Hyponyms: ['assistant_professor.n.01', 'associate_professor.n.01', 'full_professor.n.01', 'regius_professor.n.01', 'visiting_professor.n.01']
+Member Holonyms: ['staff.n.03']
+
+
+Rank 19 word pair (coast,forest) w/ cosine similarity = 0.38394037 (WS353 rank = 45)
+-----------------------------------------
+Semantic relations for coast
+
+Synonyms: ['seashore', 'coast', 'seacoast', 'sea-coast', 'coast', 'coast', 'slide', 'glide', 'coast', 'coast']
+Antonyms: []
+Hypernyms: ['shore.n.01', 'slope.n.01', 'view.n.02', 'motion.n.06', 'glide.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'travel.v.01']
+Hyponyms: ['landfall.n.01', 'littoral.n.01', 'seaside.n.01', 'tideland.n.01', 'skid.n.03', 'snowboarding.n.01', 'freewheel.v.02']
+Member Holonyms: []
+
+Semantic relations for forest
+
+Synonyms: ['forest', 'wood', 'woods', 'forest', 'woodland', 'timberland', 'timber', 'afforest', 'forest']
+Antonyms: []
+Hypernyms: ['vegetation.n.01', 'biome.n.01', 'land.n.04', 'plant.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'move.v.02']
+Hyponyms: ['bosk.n.01', 'grove.n.01', 'jungle.n.03', 'old_growth.n.01', 'rain_forest.n.01', 'second_growth.n.01', 'greenwood.n.01', 'riparian_forest.n.01', 'silva.n.01', 'tree_farm.n.01', 're-afforest.v.01', 'reforest.v.01']
+Member Holonyms: []
+
+
+Rank 20 word pair (wood,forest) w/ cosine similarity = 0.36987823 (WS353 rank = 11)
+-----------------------------------------
+Semantic relations for wood
+
+Synonyms: ['wood', 'forest', 'wood', 'woods', 'Wood', 'Natalie_Wood', 'Wood', 'Sir_Henry_Wood', 'Sir_Henry_Joseph_Wood', 'Wood', 'Mrs._Henry_Wood', 'Ellen_Price_Wood', 'Wood', 'Grant_Wood', 'woodwind', 'woodwind_instrument', 'wood', 'wood']
+Antonyms: []
+Hypernyms: ['plant_material.n.01', 'vegetation.n.01', 'wind_instrument.n.01', 'golf_club.n.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['alder.n.01', 'ash.n.03', 'balsa.n.01', 'bamboo.n.01', 'basswood.n.01', 'beech.n.02', 'beefwood.n.02', 'bentwood.n.01', 'birch.n.01', 'black_locust.n.01', 'blackwood.n.01', 'boxwood.n.01', 'brazilwood.n.01', 'briarwood.n.01', 'brushwood.n.01', 'burl.n.01', 'cabinet_wood.n.01', 'cedar.n.02', 'cherry.n.01', 'chestnut.n.01', 'citronwood.n.01', 'cocuswood.n.01', 'cypress.n.01', 'dogwood.n.02', 'driftwood.n.01', 'dyewood.n.01', 'ebony.n.02', 'elm.n.02', 'eucalyptus.n.01', 'fir.n.01', 'fruitwood.n.01', 'granadilla_wood.n.01', 'guaiac_wood.n.01', 'gumwood.n.01', 'hardwood.n.01', 'hazel.n.02', 'heartwood.n.01', 'hemlock.n.03', 'hickory.n.01', 'incense_wood.n.01', 'ironwood.n.02', 'kauri.n.03', 'kingwood.n.01', 'knot.n.03', 'lancewood.n.01', 'larch.n.01', 'lemonwood.n.01', 'lignum_vitae.n.01', 'locust.n.02', 'log.n.01', 'logwood.n.01', 'mahogany.n.01', 'maple.n.01', 'matchwood.n.01', 'matchwood.n.02', 'oak.n.01', 'obeche.n.01', 'olive.n.03', 'orangewood.n.01', 'panama_redwood.n.01', 'pecan.n.01', 'pine.n.02', 'poon.n.01', 'poplar.n.01', 'pyinma.n.01', 'raw_wood.n.01', 'red_lauan.n.01', 'redwood.n.01', 'rosewood.n.01', 'ruby_wood.n.01', 'sabicu.n.01', 'sandalwood.n.01', 'sandarac.n.01', 'sapwood.n.01', 'satinwood.n.02', 'sawdust.n.01', 'shittimwood.n.03', 'silver_quandong.n.01', 'softwood.n.01', 'spruce.n.01', 'sumac.n.01', 'sycamore.n.01', 'teak.n.01', 'tulipwood.n.01', 'tulipwood.n.02', 'tupelo.n.01', 'walnut.n.02', 'wicker.n.01', 'yellowwood.n.01', 'yew.n.01', 'zebrawood.n.01', 'bosk.n.01', 'grove.n.01', 'jungle.n.03', 'old_growth.n.01', 'rain_forest.n.01', 'second_growth.n.01', 'beating-reed_instrument.n.01', 'flute.n.01', 'brassie.n.01', 'driver.n.05', 'metal_wood.n.01', 'spoon.n.03']
+Member Holonyms: []
+
+Semantic relations for forest
+
+Synonyms: ['forest', 'wood', 'woods', 'forest', 'woodland', 'timberland', 'timber', 'afforest', 'forest']
+Antonyms: []
+Hypernyms: ['vegetation.n.01', 'biome.n.01', 'land.n.04', 'plant.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'move.v.02']
+Hyponyms: ['bosk.n.01', 'grove.n.01', 'jungle.n.03', 'old_growth.n.01', 'rain_forest.n.01', 'second_growth.n.01', 'greenwood.n.01', 'riparian_forest.n.01', 'silva.n.01', 'tree_farm.n.01', 're-afforest.v.01', 'reforest.v.01']
+Member Holonyms: []
+
+
+Rank 21 word pair (planet,star) w/ cosine similarity = 0.36975294 (WS353 rank = 4)
+-----------------------------------------
+Semantic relations for planet
+
+Synonyms: ['planet', 'major_planet', 'satellite', 'planet', 'planet']
+Antonyms: []
+Hypernyms: ['celestial_body.n.01', 'follower.n.01', 'celestial_body.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['inferior_planet.n.01', 'jovian_planet.n.01', 'morning_star.n.01', 'outer_planet.n.01', 'superior_planet.n.01', 'terrestrial_planet.n.01']
+Member Holonyms: ['solar_system.n.01']
+
+Semantic relations for star
+
+Synonyms: ['star', 'ace', 'adept', 'champion', 'sensation', 'maven', 'mavin', 'virtuoso', 'genius', 'hotshot', 'star', 'superstar', 'whiz', 'whizz', 'wizard', 'wiz', 'star', 'star', 'principal', 'lead', 'star', 'headliner', 'star', 'asterisk', 'star', 'star_topology', 'star', 'star', 'star', 'star', 'asterisk', 'leading', 'prima', 'star', 'starring', 'stellar']
+Antonyms: []
+Hypernyms: ['celestial_body.n.01', 'expert.n.01', 'celestial_body.n.01', 'actor.n.01', 'plane_figure.n.01', 'performer.n.01', 'character.n.08', 'topology.n.04', 'have.v.02', 'perform.v.01', 'mark.v.05']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'have.v.02', 'perform.v.01', 'change.v.01', 'leading.s.01']
+Hyponyms: ['binary_star.n.01', 'fixed_star.n.01', 'giant_star.n.01', 'lodestar.n.01', 'multiple_star.n.01', 'neutron_star.n.01', 'nova.n.01', 'red_dwarf.n.01', 'red_giant.n.01', 'sun.n.04', 'supergiant.n.01', 'supernova.n.01', 'variable_star.n.01', 'white_dwarf.n.01', 'track_star.n.01', 'starlet.n.02', 'co-star.n.01', 'film_star.n.01', 'idol.n.02', 'television_star.n.01', 'asterism.n.01', 'hexagram.n.01', 'pentacle.n.01', 'co-star.v.01', 'co-star.v.02']
+Member Holonyms: ['constellation.n.02', 'galaxy.n.03']
+
+
+Rank 22 word pair (professor,doctor) w/ cosine similarity = 0.36399725 (WS353 rank = 24)
+-----------------------------------------
+Semantic relations for professor
+
+Synonyms: ['professor', 'prof']
+Antonyms: []
+Hypernyms: ['academician.n.03']
+Root Hypernyms: ['entity.n.01']
+Hyponyms: ['assistant_professor.n.01', 'associate_professor.n.01', 'full_professor.n.01', 'regius_professor.n.01', 'visiting_professor.n.01']
+Member Holonyms: ['staff.n.03']
+
+Semantic relations for doctor
+
+Synonyms: ['doctor', 'doc', 'physician', 'MD', 'Dr.', 'medico', 'Doctor_of_the_Church', 'Doctor', 'doctor', 'doctor', 'Dr.', 'sophisticate', 'doctor', 'doctor_up', 'doctor', 'repair', 'mend', 'fix', 'bushel', 'doctor', 'furbish_up', 'restore', 'touch_on']
+Antonyms: ['break']
+Hypernyms: ['medical_practitioner.n.01', 'theologian.n.01', 'play.n.08', 'scholar.n.01', 'load.v.05', 'treat.v.03', 'better.v.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'change.v.02', 'treat.v.03', 'change.v.01']
+Hyponyms: ['abortionist.n.01', 'allergist.n.01', 'angiologist.n.01', 'extern.n.01', 'gastroenterologist.n.01', 'general_practitioner.n.01', 'hakim.n.02', 'house_physician.n.01', 'intern.n.01', 'primary_care_physician.n.01', 'quack.n.01', 'specialist.n.02', 'surgeon.n.01', 'veterinarian.n.01', 'vet.v.04', 'cobble.v.02', 'darn.v.01', 'fill.v.09', 'heel.v.05', 'patch.v.03', 'piece.v.05', 'point.v.14', 'sole.v.01', 'tinker.v.03', 'trouble-shoot.v.01', 'vamp.v.04']
+Member Holonyms: ['doctor-patient_relation.n.01']
+
+
+Rank 23 word pair (media,radio) w/ cosine similarity = 0.33737606 (WS353 rank = 16)
+-----------------------------------------
+Semantic relations for media
+
+Synonyms: ['medium', 'medium', 'medium', 'culture_medium', 'medium', 'medium', 'medium', 'medium', 'medium', 'medium', 'spiritualist', 'sensitive', 'medium', 'mass_medium', 'metier', 'medium']
+Antonyms: []
+Hypernyms: ['instrumentality.n.03', 'environment.n.02', 'communication.n.01', 'food.n.01', 'liquid.n.01', 'substance.n.01', 'substance.n.01', 'state.n.02', 'psychic.n.01', 'transmission.n.02', 'occupation.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['album.n.01', 'film.n.02', 'paper.n.04', 'print_media.n.01', 'storage_medium.n.01', 'telecommunication.n.01', 'vehicle.n.02', 'air.n.08', 'ether.n.03', 'agar.n.01', 'megilp.n.01', 'contrast_medium.n.01', 'solvent.n.01', 'broadcast_medium.n.01']
+Member Holonyms: []
+
+Semantic relations for radio
+
+Synonyms: ['radio', 'radiocommunication', 'wireless', 'radio_receiver', 'receiving_set', 'radio_set', 'radio', 'tuner', 'wireless', 'radio', 'wireless', 'radio', 'radio']
+Antonyms: []
+Hypernyms: ['broadcasting.n.02', 'receiver.n.01', 'communication_system.n.01', 'communicate.v.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'act.v.01', 'radio.a.01']
+Hyponyms: ['clock_radio.n.01', 'crystal_set.n.01', 'heterodyne_receiver.n.01', 'push-button_radio.n.01', 'radiotelegraph.n.02']
+Member Holonyms: []
+
+
+Rank 24 word pair (practice,institution) w/ cosine similarity = 0.3359441 (WS353 rank = 65)
+-----------------------------------------
+Semantic relations for practice
+
+Synonyms: ['practice', 'pattern', 'exercise', 'practice', 'drill', 'practice_session', 'recitation', 'practice', 'praxis', 'practice', 'practice', 'practice', 'practise', 'exercise', 'do', 'drill', 'exercise', 'practice', 'practise', 'rehearse', 'practise', 'practice', 'practice', 'apply', 'use', 'commit', 'practice']
+Antonyms: []
+Hypernyms: ['activity.n.01', 'training.n.01', 'implementation.n.02', 'use.n.01', 'cognition.n.01', 'learn.v.04', 'perform.v.01', 'prosecute.v.03']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'practice.v.01', 'learn.v.04', 'perform.v.01', 'practice.v.04', 'act.v.01']
+Hyponyms: ['biologism.n.01', 'calisthenics.n.01', 'cannibalism.n.01', 'careerism.n.01', 'cooperation.n.02', 'custom.n.01', 'fashion.n.02', 'featherbedding.n.01', 'formalism.n.03', 'habitude.n.01', 'lobbyism.n.01', 'lynch_law.n.01', 'mistreatment.n.01', 'modernism.n.03', 'nonconformism.n.02', 'nudism.n.01', 'occult.n.02', 'one-upmanship.n.01', 'ornamentalism.n.01', 'peonage.n.02', 'pluralism.n.03', 'popery.n.01', 'quotation.n.04', 'ritual.n.02', 'ritualism.n.02', 'slavery.n.02', 'symbolism.n.02', 'systematism.n.01', 'transvestism.n.01', 'unwritten_law.n.01', 'fire_drill.n.01', 'manual_of_arms.n.01', 'military_drill.n.01', 'rehearsal.n.01', 'rehearsal.n.02', 'review.n.09', 'scrimmage.n.01', 'shadowboxing.n.01', 'target_practice.n.01', 'consultancy.n.01', 'cosmetology.n.01', 'dental_practice.n.01', 'law_practice.n.01', 'medical_practice.n.01', 'optometry.n.01', 'private_practice.n.01', 'witching.n.01', 'convention.n.02', 'custom.n.02', 'heritage.n.01', 'shamanize.v.01', 'scrimmage.v.01', 'walk_through.v.01', 'follow.v.19']
+Member Holonyms: []
+
+Semantic relations for institution
+
+Synonyms: ['institution', 'establishment', 'institution', 'institution', 'initiation', 'founding', 'foundation', 'institution', 'origination', 'creation', 'innovation', 'introduction', 'instauration', 'mental_hospital', 'psychiatric_hospital', 'mental_institution', 'institution', 'mental_home', 'insane_asylum', 'asylum']
+Antonyms: []
+Hypernyms: ['organization.n.01', 'establishment.n.04', 'custom.n.02', 'beginning.n.05', 'hospital.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['academy.n.02', 'charity.n.05', 'company.n.01', 'educational_institution.n.01', 'financial_institution.n.01', 'issuer.n.01', 'medical_institution.n.01', 'religion.n.02', 'vicariate.n.01', 'home.n.09', 'orphanage.n.02', 'penal_institution.n.01', 'levirate.n.01', 'authorship.n.02', 'bedlam.n.02']
+Member Holonyms: []
+
+
+Rank 25 word pair (money,currency) w/ cosine similarity = 0.32721063 (WS353 rank = 0)
+-----------------------------------------
+Semantic relations for money
+
+Synonyms: ['money', 'money', 'money']
+Antonyms: []
+Hypernyms: ['medium_of_exchange.n.01', 'wealth.n.04', 'currency.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['appropriation.n.01', 'boodle.n.01', 'fund.n.01', 'shinplaster.n.01', 'subsidization.n.01', 'token_money.n.01', 'pile.n.03', 'sterling.n.01']
+Member Holonyms: []
+
+Semantic relations for currency
+
+Synonyms: ['currency', 'currency', 'currentness', 'currency', 'up-to-dateness']
+Antonyms: []
+Hypernyms: ['medium_of_exchange.n.01', 'prevalence.n.01', 'presentness.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['cash.n.01', 'coinage.n.01', 'eurocurrency.n.01', 'hard_currency.n.01', 'money.n.03', 'paper_money.n.01', 'modernity.n.01']
+Member Holonyms: []
+
+
+Rank 26 word pair (money,dollar) w/ cosine similarity = 0.31065315 (WS353 rank = 0)
+-----------------------------------------
+Semantic relations for money
+
+Synonyms: ['money', 'money', 'money']
+Antonyms: []
+Hypernyms: ['medium_of_exchange.n.01', 'wealth.n.04', 'currency.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['appropriation.n.01', 'boodle.n.01', 'fund.n.01', 'shinplaster.n.01', 'subsidization.n.01', 'token_money.n.01', 'pile.n.03', 'sterling.n.01']
+Member Holonyms: []
+
+Semantic relations for dollar
+
+Synonyms: ['dollar', 'dollar', 'dollar_bill', 'one_dollar_bill', 'buck', 'clam', 'dollar', 'dollar', 'dollar_mark', 'dollar_sign']
+Antonyms: []
+Hypernyms: ['monetary_unit.n.01', 'bill.n.03', 'coin.n.01', 'symbol.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['australian_dollar.n.01', 'bahamian_dollar.n.01', 'barbados_dollar.n.01', 'belize_dollar.n.01', 'bermuda_dollar.n.01', 'brunei_dollar.n.01', 'canadian_dollar.n.01', 'cayman_islands_dollar.n.01', 'dominican_dollar.n.01', 'fiji_dollar.n.01', 'grenada_dollar.n.01', 'guyana_dollar.n.01', 'hong_kong_dollar.n.01', 'jamaican_dollar.n.01', 'kiribati_dollar.n.01', 'liberian_dollar.n.01', 'new_zealand_dollar.n.01', 'singapore_dollar.n.01', 'taiwan_dollar.n.01', 'trinidad_and_tobago_dollar.n.01', 'tuvalu_dollar.n.01', 'united_states_dollar.n.01', 'zimbabwean_dollar.n.01', 'silver_dollar.n.01', 'susan_b_anthony_dollar.n.01']
+Member Holonyms: []
+
+
+Rank 27 word pair (investigation,effort) w/ cosine similarity = 0.30533534 (WS353 rank = 40)
+-----------------------------------------
+Semantic relations for investigation
+
+Synonyms: ['probe', 'investigation', 'investigation', 'investigating']
+Antonyms: []
+Hypernyms: ['inquiry.n.01', 'work.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01']
+Hyponyms: ['fishing_expedition.n.01', 'analysis.n.01', 'count.n.02', 'empiricism.n.02', 'examination.n.01', 'examination.n.05', 'inquiry.n.03', 'police_work.n.01', 'research.n.01', 'search.n.02', 'tabulation.n.02', 'wiretap.n.01']
+Member Holonyms: []
+
+Semantic relations for effort
+
+Synonyms: ['attempt', 'effort', 'endeavor', 'endeavour', 'try', 'effort', 'elbow_grease', 'exertion', 'travail', 'sweat', 'feat', 'effort', 'exploit', 'campaign', 'cause', 'crusade', 'drive', 'movement', 'effort']
+Antonyms: []
+Hypernyms: ['activity.n.01', 'labor.n.02', 'accomplishment.n.01', 'venture.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['batting.n.01', 'best.n.01', 'bid.n.02', 'contribution.n.01', 'crack.n.09', 'essay.n.02', 'foray.n.02', 'liberation.n.02', "mug's_game.n.01", 'power_play.n.01', 'seeking.n.02', 'shot.n.15', 'shot.n.16', 'striving.n.01', 'struggle.n.01', 'takeover_attempt.n.01', 'test.n.04', 'test.n.05', 'worst.n.03', 'application.n.06', 'exercise.n.01', 'friction.n.03', 'least_effort.n.01', 'overexertion.n.01', 'overkill.n.02', 'pull.n.07', 'strain.n.10', 'struggle.n.03', 'supererogation.n.01', 'trouble.n.04', 'derring-do.n.01', 'hit.n.01', 'rally.n.02', 'stunt.n.01', 'tour_de_force.n.01', 'advertising_campaign.n.01', 'anti-war_movement.n.01', 'campaigning.n.01', 'charm_campaign.n.01', 'consumerism.n.02', 'feminist_movement.n.01', 'fund-raising_campaign.n.01', 'gay_liberation_movement.n.01', 'lost_cause.n.01', 'reform.n.02', 'war.n.04', 'youth_movement.n.01']
+Member Holonyms: []
+
+
+Rank 28 word pair (drink,mother) w/ cosine similarity = 0.28792444 (WS353 rank = 68)
+-----------------------------------------
+Semantic relations for drink
+
+Synonyms: ['drink', 'drink', 'drinking', 'boozing', 'drunkenness', 'crapulence', 'beverage', 'drink', 'drinkable', 'potable', 'drink', 'swallow', 'drink', 'deglutition', 'drink', 'imbibe', 'drink', 'booze', 'fuddle', 'toast', 'drink', 'pledge', 'salute', 'wassail', 'drink_in', 'drink', 'drink', 'tope']
+Antonyms: []
+Hypernyms: ['helping.n.01', 'intemperance.n.02', 'food.n.01', 'liquid.n.01', 'body_of_water.n.01', 'consumption.n.01', 'consume.v.02', 'consume.v.02', 'honor.v.01', 'steep.v.01', 'use.v.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'consume.v.02', 'consume.v.02', 'think.v.03', 'think.v.03', 'consume.v.02']
+Hyponyms: ['chaser.n.02', 'draft.n.04', 'eye_opener.n.01', 'frappe.n.01', 'hair_of_the_dog.n.01', 'ice-cream_soda.n.01', 'libation.n.01', 'milkshake.n.01', 'nightcap.n.01', 'pledge.n.03', 'posset.n.01', 'sangaree.n.01', 'shandygaff.n.01', 'stirrup_cup.n.01', 'sundowner.n.02', 'syllabub.n.01', 'whiskey_neat.n.01', 'whiskey_on_the_rocks.n.01', 'drinking_bout.n.01', 'alcohol.n.01', 'cider.n.01', 'cocoa.n.01', 'coffee.n.01', 'cooler.n.02', 'drinking_water.n.01', 'fizz.n.01', 'fruit_drink.n.01', 'fruit_juice.n.01', 'ginger_beer.n.01', 'hydromel.n.01', 'mate.n.09', 'milk.n.01', 'mixer.n.02', 'near_beer.n.01', 'oenomel.n.01', 'potion.n.01', 'refresher.n.02', 'smoothie.n.02', 'soft_drink.n.01', 'tea-like_drink.n.01', 'tea.n.01', 'wish-wash.n.01', 'aerophagia.n.01', 'gulp.n.01', 'sip.n.01', 'drain_the_cup.v.01', 'guggle.v.03', 'gulp.v.01', 'guzzle.v.01', 'lap.v.04', 'sip.v.01', 'suck.v.01', 'swill.v.02', 'toss_off.v.02', 'carry.v.33', 'claret.v.01', 'port.v.07', 'pub-crawl.v.01', 'souse.v.03', 'tank.v.02', 'tipple.v.01', 'wine.v.01', 'give.v.34']
+Member Holonyms: []
+
+Semantic relations for mother
+
+Synonyms: ['mother', 'female_parent', 'mother', 'mother', 'mother', 'mother', 'mother', 'fuss', 'overprotect', 'beget', 'get', 'engender', 'father', 'mother', 'sire', 'generate', 'bring_forth']
+Antonyms: ['father', 'male_parent']
+Hypernyms: ['parent.n.01', 'yeast.n.01', 'old_woman.n.01', 'abbess.n.01', 'inspiration.n.01', 'care.v.02', 'make.v.03']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'support.v.01', 'make.v.03']
+Hyponyms: ['ma.n.01', 'mater.n.01', 'mother-in-law.n.01', 'primipara.n.01', 'puerpera.n.01', 'quadripara.n.01', 'quintipara.n.01', 'supermom.n.01', 'surrogate_mother.n.01']
+Member Holonyms: []
+
+
+Rank 29 word pair (coast,hill) w/ cosine similarity = 0.28699365 (WS353 rank = 45)
+-----------------------------------------
+Semantic relations for coast
+
+Synonyms: ['seashore', 'coast', 'seacoast', 'sea-coast', 'coast', 'coast', 'slide', 'glide', 'coast', 'coast']
+Antonyms: []
+Hypernyms: ['shore.n.01', 'slope.n.01', 'view.n.02', 'motion.n.06', 'glide.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'travel.v.01']
+Hyponyms: ['landfall.n.01', 'littoral.n.01', 'seaside.n.01', 'tideland.n.01', 'skid.n.03', 'snowboarding.n.01', 'freewheel.v.02']
+Member Holonyms: []
+
+Semantic relations for hill
+
+Synonyms: ['hill', 'mound', 'hill', 'Hill', 'J._J._Hill', 'James_Jerome_Hill', 'Hill', 'Benny_Hill', 'Alfred_Hawthorne', 'mound', 'hill', "pitcher's_mound", 'hill']
+Antonyms: []
+Hypernyms: ['natural_elevation.n.01', 'structure.n.01', 'baseball_equipment.n.01', 'shape.v.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'make.v.03']
+Hyponyms: ['butte.n.01', 'foothill.n.01', 'knoll.n.01', 'tor.n.02', 'barbette.n.01', 'burial_mound.n.01', 'embankment.n.01', 'snowbank.n.01']
+Member Holonyms: []
+
+
+Rank 30 word pair (consumer,energy) w/ cosine similarity = 0.27758783 (WS353 rank = 37)
+-----------------------------------------
+Semantic relations for consumer
+
+Synonyms: ['consumer']
+Antonyms: []
+Hypernyms: ['user.n.01']
+Root Hypernyms: ['entity.n.01']
+Hyponyms: ['chewer.n.01', 'concert-goer.n.01', 'customer.n.01', 'drinker.n.01', 'drinker.n.02', 'eater.n.01', 'prodigal.n.01', 'smoker.n.01', 'snuffer.n.03']
+Member Holonyms: []
+
+Semantic relations for energy
+
+Synonyms: ['energy', 'free_energy', 'energy', 'vigor', 'vigour', 'zip', 'energy', 'push', 'get-up-and-go', 'energy', 'muscularity', 'vigor', 'vigour', 'vim', 'energy', 'vim', 'vitality', 'energy', 'Department_of_Energy', 'Energy_Department', 'Energy', 'DOE']
+Antonyms: []
+Hypernyms: ['physical_phenomenon.n.01', 'force.n.03', 'drive.n.05', 'liveliness.n.02', 'good_health.n.01', 'physical_phenomenon.n.01', 'executive_department.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['activation_energy.n.01', 'alternative_energy.n.01', 'atomic_energy.n.01', 'binding_energy.n.01', 'chemical_energy.n.01', 'electricity.n.02', 'energy_level.n.01', 'heat.n.01', 'mechanical_energy.n.01', 'radiant_energy.n.01', 'radiation.n.01', 'rest_energy.n.01', 'work.n.05', 'athleticism.n.01', 'second_wind.n.01', 'vitality.n.01', 'juice.n.02', 'qi.n.01']
+Member Holonyms: []
+
+
+Rank 31 word pair (peace,plan) w/ cosine similarity = 0.27212116 (WS353 rank = 38)
+-----------------------------------------
+Semantic relations for peace
+
+Synonyms: ['peace', 'peace', 'peace', 'peacefulness', 'peace_of_mind', 'repose', 'serenity', 'heartsease', 'ataraxis', 'peace', 'public_security', 'peace', 'peace_treaty', 'pacification']
+Antonyms: ['war']
+Hypernyms: ['order.n.03', 'harmony.n.03', 'tranquillity.n.02', 'security.n.01', 'treaty.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['amity.n.02', 'armistice.n.01', 'collective_security.n.01', 'conciliation.n.01', 'pax_romana.n.01']
+Member Holonyms: []
+
+Semantic relations for plan
+
+Synonyms: ['plan', 'program', 'programme', 'design', 'plan', 'plan', 'architectural_plan', 'plan', 'be_after', 'plan', 'plan', 'project', 'contrive', 'design', 'design', 'plan']
+Antonyms: []
+Hypernyms: ['idea.n.01', 'arrangement.n.03', 'drawing.n.02', 'intend.v.01', 'think.v.03', 'create_by_mental_act.v.01', 'create_by_mental_act.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'intend.v.01', 'think.v.03', 'make.v.03', 'make.v.03']
+Hyponyms: ['agenda.n.01', 'audit_program.n.01', 'blueprint.n.01', 'budget.n.02', 'employee_savings_plan.n.01', 'master_plan.n.01', 'outline.n.03', 'pension_plan.n.01', 'plan_of_action.n.01', 'project.n.02', 'regimen.n.01', 'road_map.n.01', 'stock_purchase_plan.n.01', 'configuration.n.01', 'hotel_plan.n.01', 'layout.n.01', 'trap.n.03', 'elevation.n.07', 'floor_plan.n.01', 'draw_a_bead_on.v.02', 'hope.v.03', 'think_out.v.01', 'chart.v.02', 'frame.v.05', 'intend.v.02', 'lay_out.v.05', 'mastermind.v.01', 'plot.v.01', 'project.v.08', 'schedule.v.01', 'schedule.v.02', 'scheme.v.02', 'concert.v.01', 'map.v.04', 'plot.v.04', 'blueprint.v.01', 'engineer.v.01', 'redesign.v.01']
+Member Holonyms: []
+
+
+Rank 32 word pair (plane,car) w/ cosine similarity = 0.26724958 (WS353 rank = 28)
+-----------------------------------------
+Semantic relations for plane
+
+Synonyms: ['airplane', 'aeroplane', 'plane', 'plane', 'sheet', 'plane', 'plane', 'planer', 'planing_machine', 'plane', "carpenter's_plane", 'woodworking_plane', 'plane', 'shave', 'plane', 'skim', 'plane', 'flat', 'level', 'plane']
+Antonyms: []
+Hypernyms: ['heavier-than-air_craft.n.01', 'shape.n.02', 'degree.n.02', 'power_tool.n.01', 'edge_tool.n.01', 'hand_tool.n.01', 'cut.v.01', 'glide.v.01', 'smooth.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'move.v.02', 'travel.v.01', 'change.v.02', 'flat.s.01']
+Hyponyms: ['airliner.n.01', 'amphibian.n.02', 'biplane.n.01', 'bomber.n.01', 'delta_wing.n.01', 'fighter.n.02', 'hangar_queen.n.01', 'jet.n.01', 'monoplane.n.01', 'multiengine_airplane.n.01', 'propeller_plane.n.01', 'reconnaissance_plane.n.01', 'seaplane.n.01', 'ski-plane.n.01', 'tanker_plane.n.01', 'cartesian_plane.n.01', 'facet_plane.n.01', 'midplane.n.01', 'orbital_plane.n.01', 'picture_plane.n.01', 'tangent_plane.n.01', 'beading_plane.n.01', 'block_plane.n.01', 'bullnose.n.01', 'chamfer_plane.n.01', 'circular_plane.n.01', 'combination_plane.n.01', 'dovetail_plane.n.01', 'fore_plane.n.01', 'jack_plane.n.01', 'jointer.n.01', 'match_plane.n.01', 'openside_plane.n.01', 'router_plane.n.01', 'scrub_plane.n.01', 'smooth_plane.n.01', 'spokeshave.n.01', 'aquaplane.v.01', 'aquaplane.v.02']
+Member Holonyms: []
+
+Semantic relations for car
+
+Synonyms: ['car', 'auto', 'automobile', 'machine', 'motorcar', 'car', 'railcar', 'railway_car', 'railroad_car', 'car', 'gondola', 'car', 'elevator_car', 'cable_car', 'car']
+Antonyms: []
+Hypernyms: ['motor_vehicle.n.01', 'wheeled_vehicle.n.01', 'compartment.n.02', 'compartment.n.02', 'compartment.n.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['ambulance.n.01', 'beach_wagon.n.01', 'bus.n.04', 'cab.n.03', 'compact.n.03', 'convertible.n.01', 'coupe.n.01', 'cruiser.n.01', 'electric.n.01', 'gas_guzzler.n.01', 'hardtop.n.01', 'hatchback.n.01', 'horseless_carriage.n.01', 'hot_rod.n.01', 'jeep.n.01', 'limousine.n.01', 'loaner.n.02', 'minicar.n.01', 'minivan.n.01', 'model_t.n.01', 'pace_car.n.01', 'racer.n.02', 'roadster.n.01', 'sedan.n.01', 'sport_utility.n.01', 'sports_car.n.01', 'stanley_steamer.n.01', 'stock_car.n.01', 'subcompact.n.01', 'touring_car.n.01', 'used-car.n.01', 'baggage_car.n.01', 'cabin_car.n.01', 'club_car.n.01', 'freight_car.n.01', "guard's_van.n.01", 'handcar.n.01', 'mail_car.n.01', 'passenger_car.n.01', 'slip_coach.n.01', 'tender.n.04', 'van.n.03']
+Member Holonyms: ['train.n.01']
+
+
+Rank 33 word pair (street,place) w/ cosine similarity = 0.2504563 (WS353 rank = 19)
+-----------------------------------------
+Semantic relations for street
+
+Synonyms: ['street', 'street', 'street', 'street', 'street']
+Antonyms: []
+Hypernyms: ['thoroughfare.n.01', 'thoroughfare.n.01', 'environment.n.01', 'opportunity.n.01', 'neighborhood.n.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['alley.n.01', 'avenue.n.02', 'cross_street.n.01', 'local_road.n.01', 'main_street.n.01', 'mews.n.01', 'rue.n.04', 'side_street.n.01', 'one-way_street.n.02', 'two-way_street.n.01']
+Member Holonyms: []
+
+Semantic relations for place
+
+Synonyms: ['topographic_point', 'place', 'spot', 'place', 'property', 'place', 'place', 'stead', 'position', 'place', 'lieu', 'place', 'shoes', 'home', 'place', 'position', 'post', 'berth', 'office', 'spot', 'billet', 'place', 'situation', 'position', 'place', 'place', 'station', 'seat', 'place', 'place', 'place', 'plaza', 'place', 'piazza', 'place', 'position', 'space', 'blank_space', 'place', 'put', 'set', 'place', 'pose', 'position', 'lay', 'place', 'rate', 'rank', 'range', 'order', 'grade', 'place', 'locate', 'place', 'site', 'place', 'place', 'come_in', 'come_out', 'target', 'aim', 'place', 'direct', 'point', 'identify', 'place', 'place', 'set', 'localize', 'localise', 'place', 'place', 'put', 'set', 'place', 'localize', 'localise', 'invest', 'put', 'commit', 'place', 'station', 'post', 'send', 'place', 'place', 'place']
+Antonyms: ['divest']
+Hypernyms: ['point.n.02', 'geographical_area.n.01', 'cognition.n.01', 'vicinity.n.01', 'function.n.03', 'situation.n.02', 'residence.n.01', 'occupation.n.01', 'point.n.02', 'social_station.n.01', 'space.n.03', 'passage.n.02', 'condition.n.01', 'public_square.n.01', 'item.n.01', 'area.n.06', 'move.v.02', 'delegate.v.02', 'evaluate.v.02', 'station.v.01', 'order.v.02', 'rank.v.01', 'aim.v.01', 'determine.v.03', 'delegate.v.02', 'stage.v.01', 'estimate.v.01', 'situate.v.01', 'spend.v.02', 'move.v.02', 'race.v.02', 'sing.v.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'move.v.02', 'appoint.v.02', 'think.v.03', 'move.v.02', 'move.v.02', 'be.v.01', 'move.v.02', 'determine.v.03', 'appoint.v.02', 'make.v.03', 'think.v.03', 'determine.v.01', 'transfer.v.05', 'move.v.02', 'compete.v.01', 'act.v.01']
+Hyponyms: ['birthplace.n.01', 'end.n.10', 'grave.n.02', 'hiding_place.n.01', 'high.n.05', 'hole-in-the-wall.n.01', 'holy_place.n.01', 'junction.n.01', 'mecca.n.02', 'nesting_place.n.01', 'overlook.n.01', 'peak.n.04', 'polling_place.n.01', 'pool.n.08', 'rendezvous.n.02', 'scour.n.01', 'service_area.n.01', 'showplace.n.01', 'solitude.n.03', 'stop.n.05', 'target.n.03', 'zone.n.01', 'boatyard.n.01', 'center.n.11', 'colony.n.04', 'hatchery.n.01', 'sanctuary.n.01', 'level.n.07', 'behalf.n.01', 'home_away_from_home.n.01', 'academicianship.n.01', 'accountantship.n.01', 'admiralty.n.02', 'ambassadorship.n.01', 'apostleship.n.01', 'apprenticeship.n.01', 'associateship.n.01', 'attorneyship.n.01', 'bailiffship.n.01', 'baronetage.n.02', 'bishopry.n.01', 'cadetship.n.01', 'caliphate.n.03', 'captainship.n.01', 'cardinalship.n.01', 'chairmanship.n.01', 'chancellorship.n.01', 'chaplaincy.n.01', 'chieftaincy.n.01', 'clerkship.n.01', 'commandership.n.01', 'comptrollership.n.01', 'consulship.n.01', 'controllership.n.01', 'councillorship.n.01', 'counselorship.n.01', 'curacy.n.01', 'curatorship.n.01', 'custodianship.n.01', 'deanship.n.01', 'directorship.n.01', 'discipleship.n.01', 'editorship.n.01', 'eldership.n.01', 'emirate.n.02', 'fatherhood.n.03', 'fatherhood.n.04', 'foremanship.n.01', 'generalship.n.02', 'governorship.n.01', 'headship.n.01', 'headship.n.02', 'hot_seat.n.02', 'incumbency.n.03', 'inspectorship.n.01', 'instructorship.n.01', 'internship.n.01', 'judgeship.n.01', 'khanate.n.02', 'lectureship.n.01', 'legation.n.01', 'legislatorship.n.01', 'librarianship.n.01', 'lieutenancy.n.01', 'magistracy.n.01', 'managership.n.01', 'manhood.n.03', 'marshalship.n.01', 'mastership.n.02', 'mayoralty.n.01', 'messiahship.n.01', 'moderatorship.n.01', 'overlordship.n.01', 'pastorship.n.01', 'peasanthood.n.01', 'plum.n.03', 'praetorship.n.01', 'precentorship.n.01', 'preceptorship.n.01', 'prefecture.n.02', 'prelacy.n.02', 'premiership.n.01', 'presidency.n.02', 'primateship.n.01', 'principalship.n.01', 'priorship.n.01', 'proconsulship.n.01', 'proctorship.n.01', 'professorship.n.01', 'protectorship.n.01', 'public_office.n.01', 'rabbinate.n.02', 'receivership.n.03', 'rectorship.n.01', 'regency.n.03', 'residency.n.02', 'rulership.n.01', 'sainthood.n.02', 'secretaryship.n.01', 'seigniory.n.02', 'senatorship.n.01', 'sinecure.n.02', 'solicitorship.n.01', 'speakership.n.01', 'stewardship.n.01', 'studentship.n.01', 'teachership.n.01', 'thaneship.n.01', 'throne.n.03', 'treasurership.n.01', 'tribuneship.n.01', 'trusteeship.n.02', 'vice-presidency.n.02', 'viceroyship.n.01', 'viziership.n.01', 'wardenship.n.01', 'wardership.n.01', 'womanhood.n.03', 'anomaly.n.03', 'back.n.03', 'front.n.09', 'half-mast.n.01', 'juxtaposition.n.02', 'landmark.n.01', 'lead.n.09', 'left.n.01', 'lie.n.03', 'pitch.n.03', 'pole_position.n.01', 'polls.n.01', 'post.n.01', 'pride_of_place.n.01', 'right.n.02', 'setting.n.05', 'site.n.02', 'stand.n.02', 'station.n.03', 'vantage.n.01', 'wing.n.07', 'niche.n.01', 'perch.n.04', 'postposition.n.01', 'preposition.n.02', 'indentation.n.03', 'margin.n.05', 'appose.v.01', 'arrange.v.01', 'barrel.v.01', 'bed.v.03', 'bottle.v.02', 'bucket.v.01', 'butt.v.03', 'clap.v.01', 'cock.v.02', 'coffin.v.01', 'cram.v.02', 'dispose.v.04', 'docket.v.01', 'emplace.v.01', 'emplace.v.02', 'ensconce.v.01', 'glycerolize.v.01', 'ground.v.03', 'imbricate.v.01', 'insert.v.02', 'install.v.01', 'intersperse.v.01', 'jar.v.05', 'juxtapose.v.01', 'ladle.v.01', 'lay.v.02', 'lean.v.02', 'load.v.04', 'marshal.v.01', 'middle.v.01', 'misplace.v.01', 'misplace.v.02', 'nestle.v.03', 'parallelize.v.01', 'park.v.01', 'perch.v.03', 'pigeonhole.v.01', 'pile.v.03', 'pillow.v.01', 'plant.v.01', 'plant.v.05', 'poise.v.03', 'position.v.01', 'postpose.v.01', 'prepose.v.01', 'rack_up.v.02', 'recess.v.01', 'recline.v.02', 'replace.v.03', 'repose.v.06', 'reposition.v.02', 'rest.v.08', 'seat.v.01', 'seat.v.06', 'seat.v.07', 'set.v.16', 'set_down.v.03', 'set_down.v.04', 'settle.v.01', 'shelve.v.02', 'ship.v.05', 'sign.v.06', 'siphon.v.02', 'situate.v.02', 'sow.v.01', 'space.v.01', 'stand.v.10', 'step.v.08', 'stratify.v.04', 'superimpose.v.01', 'superpose.v.01', 'tee.v.01', 'throw.v.04', 'throw.v.08', 'trench.v.04', 'underlay.v.02', 'upend.v.02', 'downgrade.v.01', 'prioritize.v.01', 'reorder.v.01', 'seed.v.05', 'sequence.v.01', 'shortlist.v.01', 'subordinate.v.01', 'superordinate.v.01', 'upgrade.v.01', 'address.v.04', 'range_in.v.01', 'distinguish.v.01', 'buy_into.v.01', 'fund.v.04', 'roll_over.v.03', 'shelter.v.02', 'speculate.v.04', 'tie_up.v.02', 'fort.v.03', 'garrison.v.01', 'locate.v.03']
+Member Holonyms: []
+
+
+Rank 34 word pair (car,flight) w/ cosine similarity = 0.23237467 (WS353 rank = 35)
+-----------------------------------------
+Semantic relations for car
+
+Synonyms: ['car', 'auto', 'automobile', 'machine', 'motorcar', 'car', 'railcar', 'railway_car', 'railroad_car', 'car', 'gondola', 'car', 'elevator_car', 'cable_car', 'car']
+Antonyms: []
+Hypernyms: ['motor_vehicle.n.01', 'wheeled_vehicle.n.01', 'compartment.n.02', 'compartment.n.02', 'compartment.n.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['ambulance.n.01', 'beach_wagon.n.01', 'bus.n.04', 'cab.n.03', 'compact.n.03', 'convertible.n.01', 'coupe.n.01', 'cruiser.n.01', 'electric.n.01', 'gas_guzzler.n.01', 'hardtop.n.01', 'hatchback.n.01', 'horseless_carriage.n.01', 'hot_rod.n.01', 'jeep.n.01', 'limousine.n.01', 'loaner.n.02', 'minicar.n.01', 'minivan.n.01', 'model_t.n.01', 'pace_car.n.01', 'racer.n.02', 'roadster.n.01', 'sedan.n.01', 'sport_utility.n.01', 'sports_car.n.01', 'stanley_steamer.n.01', 'stock_car.n.01', 'subcompact.n.01', 'touring_car.n.01', 'used-car.n.01', 'baggage_car.n.01', 'cabin_car.n.01', 'club_car.n.01', 'freight_car.n.01', "guard's_van.n.01", 'handcar.n.01', 'mail_car.n.01', 'passenger_car.n.01', 'slip_coach.n.01', 'tender.n.04', 'van.n.03']
+Member Holonyms: ['train.n.01']
+
+Semantic relations for flight
+
+Synonyms: ['flight', 'flight', 'flying', 'flight', 'flight_of_stairs', 'flight_of_steps', 'escape', 'flight', 'flight', 'flight', 'trajectory', 'flight', 'flight', 'flight', 'flight', 'flight', 'fledge', 'flight']
+Antonyms: []
+Hypernyms: ['formation.n.01', 'air_travel.n.01', 'stairway.n.01', 'running_away.n.01', 'air_unit.n.01', 'creativity.n.01', 'mechanical_phenomenon.n.01', 'flock.n.02', 'trip.n.01', 'shoot.v.02', 'fly.v.01', 'decorate.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'kill.v.01', 'travel.v.01', 'change.v.01']
+Hyponyms: ['acrobatics.n.02', 'ballooning.n.01', 'blind_flying.n.01', 'flyover.n.02', 'glide.n.03', 'maiden_flight.n.01', 'overflight.n.01', 'pass.n.07', 'solo.n.03', 'sortie.n.02', 'terrain_flight.n.01', 'break.n.16', 'evasion.n.04', 'exodus.n.01', 'getaway.n.02', 'skedaddle.n.01', 'ballistics.n.01', 'gravity-assist.n.01', 'connecting_flight.n.01', 'direct_flight.n.01', 'domestic_flight.n.01', 'international_flight.n.01', 'nonstop_flight.n.01', 'redeye.n.01']
+Member Holonyms: []
+
+
+Rank 35 word pair (start,match) w/ cosine similarity = 0.22903499 (WS353 rank = 44)
+-----------------------------------------
+Semantic relations for start
+
+Synonyms: ['start', 'beginning', 'commencement', 'first', 'outset', 'get-go', 'start', 'kickoff', 'starting_time', 'showtime', 'offset', 'start', 'starting', 'startle', 'jump', 'start', 'beginning', 'start', 'commencement', 'start', 'starting_line', 'scratch', 'scratch_line', 'starting_signal', 'start', 'start', 'head_start', 'get_down', 'begin', 'get', 'start_out', 'start', 'set_about', 'set_out', 'commence', 'begin', 'lead_off', 'start', 'commence', 'depart', 'part', 'start', 'start_out', 'set_forth', 'set_off', 'set_out', 'take_off', 'begin', 'start', 'originate', 'initiate', 'start', 'start', 'start_up', 'embark_on', 'commence', 'startle', 'jump', 'start', 'start', 'start_up', 'start', 'go', 'get_going', 'start', 'take_up', 'start', 'begin', 'start', 'begin', 'start', 'start', 'protrude', 'pop', 'pop_out', 'bulge', 'bulge_out', 'bug_out', 'come_out']
+Antonyms: ['middle', 'finish', 'end', 'end', 'end', 'stop', 'stop']
+Hypernyms: ['beginning.n.01', 'point.n.06', 'turn.n.03', 'reflex.n.01', 'change_of_state.n.01', 'line.n.20', 'signal.n.01', 'advantage.n.01', 'leave.v.01', 'make.v.03', 'begin.v.03', 'move.v.03', 'play.v.01', 'be.v.01', 'act.v.01', 'change_shape.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'get_down.v.07', 'begin.v.03', 'leave.v.01', 'begin.v.02', 'make.v.03', 'begin.v.03', 'move.v.03', 'start.v.08', 'start.v.09', 'start.v.10', 'compete.v.01', 'be.v.01', 'act.v.01', 'change.v.02']
+Hyponyms: ['adrenarche.n.01', 'alpha.n.02', 'dawn.n.02', 'flying_start.n.02', 'kickoff.n.03', 'menarche.n.01', 'onset.n.01', 'opener.n.01', 'opening.n.04', 'racing_start.n.01', 'thelarche.n.01', 'birth.n.01', 'incipiency.n.01', 'terminus_a_quo.n.01', 'threshold.n.01', 'startle_reflex.n.01', 'startle_response.n.01', 'wince.n.02', 'activation.n.03', 'attack.n.06', 'constitution.n.02', 'face-off.n.02', 'first_step.n.01', 'groundbreaking.n.01', 'housing_start.n.01', 'icebreaker.n.02', 'inauguration.n.01', 'initiation.n.02', 'installation.n.01', 'introduction.n.01', 'jump_ball.n.01', 'kickoff.n.01', 'resumption.n.01', 'scrum.n.01', 'springboard.n.02', 'startup.n.01', 'attack.v.05', 'auspicate.v.02', 'break_in.v.03', 'come_on.v.05', 'embark.v.02', 'fall.v.30', 'get_cracking.v.01', 'get_to.v.02', 'jump_off.v.01', 'plunge.v.04', 'recommence.v.02', 'strike_out.v.06', 'inaugurate.v.03', 'jumpstart.v.02', 'recommence.v.01', 'set_off.v.06', 'start.v.06', 'blaze.v.04', 'roar_off.v.01', 'sally_forth.v.01', 'take_off.v.03', 'break_out.v.02', 'bud.v.02', 'dawn.v.02', 'erupt.v.01', 'originate.v.03', 'set_in.v.01', 'go_back.v.01', 'lead_up.v.01', 'set.v.13', 'inaugurate.v.01', 'open.v.04', 'boggle.v.01', 'jackrabbit.v.01', 'rear_back.v.02', 'shy.v.01', 'crank.v.02', 'hot-wire.v.01', 'jumpstart.v.01', 'kick-start.v.01', 'restart.v.01', 'get_off_the_ground.v.01', 'go_on.v.05', 'take_office.v.01']
+Member Holonyms: []
+
+Semantic relations for match
+
+Synonyms: ['match', 'lucifer', 'friction_match', 'match', 'match', 'match', 'mate', 'match', 'catch', 'match', 'peer', 'equal', 'match', 'compeer', 'couple', 'mates', 'match', 'match', 'match', 'fit', 'correspond', 'check', 'jibe', 'gibe', 'tally', 'agree', 'match', 'match', 'mate', 'couple', 'pair', 'twin', 'equal', 'touch', 'rival', 'match', 'match', 'fit', 'meet', 'match', 'cope_with', 'match', 'pit', 'oppose', 'match', 'play_off', 'match', 'equal', 'match', 'equalize', 'equalise', 'equate']
+Antonyms: ['disagree']
+Hypernyms: ['lighter.n.02', 'contest.n.01', 'lighter.n.02', 'duplicate.n.02', 'score.n.03', 'adult.n.01', 'person.n.01', 'family.n.02', 'counterpart.n.01', 'equal.v.01', 'supply.v.01', 'join.v.02', 'compete.v.01', 'adjust.v.01', 'cope.v.01', 'join.v.02', 'confront.v.01', 'adjust.v.03', 'change.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'equal.v.01', 'transfer.v.05', 'connect.v.01', 'compete.v.01', 'change.v.01', 'act.v.01', 'connect.v.01', 'meet.v.10', 'change.v.02', 'change.v.01']
+Hyponyms: ['fusee.n.03', 'kitchen_match.n.01', 'safety_match.n.01', 'slow_match.n.01', 'boxing_match.n.01', 'chess_match.n.01', 'cockfight.n.01', 'cricket_match.n.01', 'diving.n.01', 'field_event.n.01', 'final.n.01', 'quarterfinal.n.01', 'semifinal.n.01', 'swimming_event.n.01', 'tennis_match.n.01', 'test_match.n.01', 'wrestling_match.n.01', 'associate.n.01', 'contemporary.n.01', 'gangsta.n.01', 'stand-in.n.01', 'successor.n.01', 'townsman.n.01', 'dink.n.01', 'power_couple.n.01', 'adhere.v.01', 'align.v.02', 'answer.v.08', 'befit.v.01', 'coincide.v.03', 'consist.v.03', 'correlate.v.01', 'corroborate.v.03', 'harmonize.v.01', 'homologize.v.01', 'look.v.09', 'meet.v.05', 'parallel.v.01', 'pattern.v.02', 'resemble.v.01', 'rhyme.v.02', 'square.v.05', 'twin.v.01', 'mismatch.v.01', 'mismate.v.01', 'balance.v.01', 'homogenize.v.01', 'homologize.v.02', 'tie.v.02']
+Member Holonyms: ['peer_group.n.01']
+
+
+Rank 36 word pair (century,year) w/ cosine similarity = 0.2074649 (WS353 rank = 13)
+-----------------------------------------
+Semantic relations for century
+
+Synonyms: ['century', 'hundred', '100', 'C', 'century', 'one_C']
+Antonyms: []
+Hypernyms: ['time_period.n.01', 'large_integer.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01']
+Hyponyms: ['quattrocento.n.01', 'twentieth_century.n.01']
+Member Holonyms: []
+
+Semantic relations for year
+
+Synonyms: ['year', 'twelvemonth', 'yr', 'year', 'year', 'class', 'year']
+Antonyms: []
+Hypernyms: ['time_period.n.01', 'time_period.n.01', 'time_period.n.01', 'gathering.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['annum.n.01', 'calendar_year.n.01', 'church_year.n.01', 'common_year.n.01', 'fiscal_year.n.01', 'holy_year.n.01', 'leap_year.n.01', 'new_year.n.01', 'off_year.n.01', 'off_year.n.02', 'y2k.n.01', 'year_of_grace.n.01', 'school_year.n.01', 'anomalistic_year.n.01', 'lunar_year.n.01', 'sidereal_year.n.01', 'solar_year.n.01', 'freshman_class.n.01', 'graduating_class.n.01', 'junior_class.n.01', 'senior_class.n.01', 'sophomore_class.n.01']
+Member Holonyms: []
+
+
+Rank 37 word pair (month,hotel) w/ cosine similarity = 0.20590848 (WS353 rank = 80)
+-----------------------------------------
+Semantic relations for month
+
+Synonyms: ['calendar_month', 'month', 'month']
+Antonyms: []
+Hypernyms: ['time_period.n.01', 'time_unit.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01']
+Hyponyms: ['date.n.06', 'gregorian_calendar_month.n.01', 'hindu_calendar_month.n.01', 'islamic_calendar_month.n.01', 'jewish_calendar_month.n.01', 'revolutionary_calendar_month.n.01', 'anomalistic_month.n.01', 'lunar_month.n.01', 'sidereal_month.n.01', 'solar_month.n.01']
+Member Holonyms: []
+
+Semantic relations for hotel
+
+Synonyms: ['hotel']
+Antonyms: []
+Hypernyms: ['building.n.01']
+Root Hypernyms: ['entity.n.01']
+Hyponyms: ['fleabag.n.01', 'hostel.n.01', 'motor_hotel.n.01', 'resort.n.01', 'resort_hotel.n.02', 'ritz.n.03', 'ski_lodge.n.01']
+Member Holonyms: []
+
+
+Rank 38 word pair (drink,car) w/ cosine similarity = 0.20549637 (WS353 rank = 68)
+-----------------------------------------
+Semantic relations for drink
+
+Synonyms: ['drink', 'drink', 'drinking', 'boozing', 'drunkenness', 'crapulence', 'beverage', 'drink', 'drinkable', 'potable', 'drink', 'swallow', 'drink', 'deglutition', 'drink', 'imbibe', 'drink', 'booze', 'fuddle', 'toast', 'drink', 'pledge', 'salute', 'wassail', 'drink_in', 'drink', 'drink', 'tope']
+Antonyms: []
+Hypernyms: ['helping.n.01', 'intemperance.n.02', 'food.n.01', 'liquid.n.01', 'body_of_water.n.01', 'consumption.n.01', 'consume.v.02', 'consume.v.02', 'honor.v.01', 'steep.v.01', 'use.v.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'consume.v.02', 'consume.v.02', 'think.v.03', 'think.v.03', 'consume.v.02']
+Hyponyms: ['chaser.n.02', 'draft.n.04', 'eye_opener.n.01', 'frappe.n.01', 'hair_of_the_dog.n.01', 'ice-cream_soda.n.01', 'libation.n.01', 'milkshake.n.01', 'nightcap.n.01', 'pledge.n.03', 'posset.n.01', 'sangaree.n.01', 'shandygaff.n.01', 'stirrup_cup.n.01', 'sundowner.n.02', 'syllabub.n.01', 'whiskey_neat.n.01', 'whiskey_on_the_rocks.n.01', 'drinking_bout.n.01', 'alcohol.n.01', 'cider.n.01', 'cocoa.n.01', 'coffee.n.01', 'cooler.n.02', 'drinking_water.n.01', 'fizz.n.01', 'fruit_drink.n.01', 'fruit_juice.n.01', 'ginger_beer.n.01', 'hydromel.n.01', 'mate.n.09', 'milk.n.01', 'mixer.n.02', 'near_beer.n.01', 'oenomel.n.01', 'potion.n.01', 'refresher.n.02', 'smoothie.n.02', 'soft_drink.n.01', 'tea-like_drink.n.01', 'tea.n.01', 'wish-wash.n.01', 'aerophagia.n.01', 'gulp.n.01', 'sip.n.01', 'drain_the_cup.v.01', 'guggle.v.03', 'gulp.v.01', 'guzzle.v.01', 'lap.v.04', 'sip.v.01', 'suck.v.01', 'swill.v.02', 'toss_off.v.02', 'carry.v.33', 'claret.v.01', 'port.v.07', 'pub-crawl.v.01', 'souse.v.03', 'tank.v.02', 'tipple.v.01', 'wine.v.01', 'give.v.34']
+Member Holonyms: []
+
+Semantic relations for car
+
+Synonyms: ['car', 'auto', 'automobile', 'machine', 'motorcar', 'car', 'railcar', 'railway_car', 'railroad_car', 'car', 'gondola', 'car', 'elevator_car', 'cable_car', 'car']
+Antonyms: []
+Hypernyms: ['motor_vehicle.n.01', 'wheeled_vehicle.n.01', 'compartment.n.02', 'compartment.n.02', 'compartment.n.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['ambulance.n.01', 'beach_wagon.n.01', 'bus.n.04', 'cab.n.03', 'compact.n.03', 'convertible.n.01', 'coupe.n.01', 'cruiser.n.01', 'electric.n.01', 'gas_guzzler.n.01', 'hardtop.n.01', 'hatchback.n.01', 'horseless_carriage.n.01', 'hot_rod.n.01', 'jeep.n.01', 'limousine.n.01', 'loaner.n.02', 'minicar.n.01', 'minivan.n.01', 'model_t.n.01', 'pace_car.n.01', 'racer.n.02', 'roadster.n.01', 'sedan.n.01', 'sport_utility.n.01', 'sports_car.n.01', 'stanley_steamer.n.01', 'stock_car.n.01', 'subcompact.n.01', 'touring_car.n.01', 'used-car.n.01', 'baggage_car.n.01', 'cabin_car.n.01', 'club_car.n.01', 'freight_car.n.01', "guard's_van.n.01", 'handcar.n.01', 'mail_car.n.01', 'passenger_car.n.01', 'slip_coach.n.01', 'tender.n.04', 'van.n.03']
+Member Holonyms: ['train.n.01']
+
+
+Rank 39 word pair (five,month) w/ cosine similarity = 0.20095819 (WS353 rank = 62)
+-----------------------------------------
+Semantic relations for five
+
+Synonyms: ['five', '5', 'V', 'cinque', 'quint', 'quintet', 'fivesome', 'quintuplet', 'pentad', 'fin', 'Phoebe', 'Little_Phoebe', 'basketball_team', 'five', 'five-spot', 'five', 'five', '5', 'v']
+Antonyms: []
+Hypernyms: ['digit.n.01', 'team.n.01', 'die.n.01', 'domino.n.04', 'spot.n.13']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'five.s.01']
+Hyponyms: []
+Member Holonyms: ['basketball_league.n.01']
+
+Semantic relations for month
+
+Synonyms: ['calendar_month', 'month', 'month']
+Antonyms: []
+Hypernyms: ['time_period.n.01', 'time_unit.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01']
+Hyponyms: ['date.n.06', 'gregorian_calendar_month.n.01', 'hindu_calendar_month.n.01', 'islamic_calendar_month.n.01', 'jewish_calendar_month.n.01', 'revolutionary_calendar_month.n.01', 'anomalistic_month.n.01', 'lunar_month.n.01', 'sidereal_month.n.01', 'solar_month.n.01']
+Member Holonyms: []
+
+
+Rank 40 word pair (century,nation) w/ cosine similarity = 0.19484058 (WS353 rank = 13)
+-----------------------------------------
+Semantic relations for century
+
+Synonyms: ['century', 'hundred', '100', 'C', 'century', 'one_C']
+Antonyms: []
+Hypernyms: ['time_period.n.01', 'large_integer.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01']
+Hyponyms: ['quattrocento.n.01', 'twentieth_century.n.01']
+Member Holonyms: []
+
+Semantic relations for nation
+
+Synonyms: ['state', 'nation', 'country', 'land', 'commonwealth', 'res_publica', 'body_politic', 'nation', 'land', 'country', 'Nation', 'Carry_Nation', 'Carry_Amelia_Moore_Nation', 'nation']
+Antonyms: []
+Hypernyms: ['political_unit.n.01', 'people.n.01', 'confederation.n.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['ally.n.01', 'city_state.n.01', 'commonwealth_country.n.01', 'developing_country.n.01', 'dominion.n.03', 'foreign_country.n.01', 'reich.n.01', 'rogue_state.n.01', 'sea_power.n.02', 'suzerain.n.01', 'world_power.n.01', 'british.n.01', 'dutch.n.01', 'english.n.02', 'french.n.02', 'irish.n.01', 'spanish.n.02', 'swiss.n.01', 'tribe.n.02']
+Member Holonyms: []
+
+
+Rank 41 word pair (life,death) w/ cosine similarity = 0.19234881 (WS353 rank = 10)
+-----------------------------------------
+Semantic relations for life
+
+Synonyms: ['life', 'life', 'living', 'life', 'animation', 'life', 'living', 'aliveness', 'life', 'lifetime', 'life-time', 'lifespan', 'life', 'life', 'life', 'liveliness', 'life', 'spirit', 'sprightliness', 'life', 'life', 'biography', 'life', 'life_story', 'life_history', 'life', 'life_sentence', 'life']
+Antonyms: []
+Hypernyms: ['being.n.01', 'experience.n.02', 'being.n.01', 'being.n.01', 'time_period.n.01', 'time_period.n.01', 'time_period.n.01', 'person.n.01', 'animation.n.03', 'living_thing.n.01', 'organic_phenomenon.n.01', 'history.n.02', 'motivation.n.01', 'prison_term.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['ghetto.n.02', 'eternal_life.n.01', 'skin.n.04', 'survival.n.01', 'afterlife.n.01', 'days.n.01', 'airiness.n.03', 'alacrity.n.01', 'breeziness.n.02', 'elan.n.03', 'energy.n.04', 'esprit.n.01', 'exuberance.n.02', 'high-spiritedness.n.01', 'irrepressibility.n.01', 'pep.n.01', 'pertness.n.02', 'wildlife.n.01', 'aerobiosis.n.01', 'biology.n.02', 'autobiography.n.01', 'hagiography.n.01', 'profile.n.03']
+Member Holonyms: []
+
+Semantic relations for death
+
+Synonyms: ['death', 'decease', 'expiry', 'death', 'death', 'death', 'dying', 'demise', 'death', 'last', 'Death', 'end', 'destruction', 'death', 'death']
+Antonyms: ['birth', 'birth']
+Hypernyms: ['change.n.01', 'organic_phenomenon.n.01', 'state.n.02', 'end.n.02', 'end.n.02', 'state.n.02', 'killing.n.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['fatality.n.01', 'martyrdom.n.01', 'megadeath.n.01', 'passing.n.02', 'wrongful_death.n.01', 'brain_death.n.01', 'necrobiosis.n.01', 'necrosis.n.01', 'extinction.n.02', 'neonatal_death.n.01', 'rest.n.05', 'sudden_infant_death_syndrome.n.01', 'grave.n.01']
+Member Holonyms: []
+
+
+Rank 42 word pair (profit,loss) w/ cosine similarity = 0.18996006 (WS353 rank = 12)
+-----------------------------------------
+Semantic relations for profit
+
+Synonyms: ['net_income', 'net', 'net_profit', 'lucre', 'profit', 'profits', 'earnings', 'profit', 'gain', 'profit', 'gain', 'benefit', 'profit', 'turn_a_profit']
+Antonyms: ['lose']
+Hypernyms: ['income.n.01', 'advantage.n.01', 'get.v.01', 'gain.v.08']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'get.v.01', 'get.v.01']
+Hyponyms: ['accumulation.n.04', 'dividend.n.01', 'earning_per_share.n.01', 'fast_buck.n.01', 'filthy_lucre.n.01', 'gross_profit.n.01', 'killing.n.03', 'markup.n.01', 'windfall_profit.n.01', 'account.n.10', 'profitableness.n.02', 'capitalize.v.01', 'cash_in_on.v.01', 'net.v.01', 'profiteer.v.01', 'pyramid.v.01', 'clean_up.v.02', "line_one's_pockets.v.01", 'turn_a_nice_dime.v.01']
+Member Holonyms: []
+
+Semantic relations for loss
+
+Synonyms: ['loss', 'loss', 'loss', 'loss', 'deprivation', 'loss', 'loss', 'red_ink', 'red', 'personnel_casualty', 'loss', 'passing', 'loss', 'departure', 'exit', 'expiration', 'going', 'release']
+Antonyms: ['gain']
+Hypernyms: ['transferred_property.n.01', 'decline.n.01', 'failure.n.01', 'disadvantage.n.01', 'experience.n.03', 'sum.n.01', 'casualty.n.04', 'death.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['financial_loss.n.01', 'forfeit.n.01', 'sacrifice.n.03', 'wastage.n.02', 'epilation.n.01', 'reducing.n.02', 'capitulation.n.03', 'default.n.01', 'paper_loss.n.01', 'squeeze.n.03', 'sacrifice.n.02', 'wound.n.02']
+Member Holonyms: []
+
+
+Rank 43 word pair (school,center) w/ cosine similarity = 0.18118379 (WS353 rank = 61)
+-----------------------------------------
+Semantic relations for school
+
+Synonyms: ['school', 'school', 'schoolhouse', 'school', 'schooling', 'school', 'school', 'schooltime', 'school_day', 'school', 'school', 'shoal', 'school', 'educate', 'school', 'train', 'cultivate', 'civilize', 'civilise', 'school']
+Antonyms: []
+Hypernyms: ['educational_institution.n.01', 'building.n.01', 'education.n.03', 'body.n.02', 'time_period.n.01', 'educational_institution.n.01', 'animal_group.n.01', 'educate.v.01', 'polish.v.02', 'swim.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'change.v.01', 'change.v.01', 'travel.v.01']
+Hyponyms: ['academy.n.03', 'alma_mater.n.01', 'conservatory.n.01', 'correspondence_school.n.01', 'crammer.n.03', 'dance_school.n.01', 'dancing_school.n.01', 'day_school.n.02', 'direct-grant_school.n.01', 'driving_school.n.01', 'finishing_school.n.01', 'flying_school.n.01', 'grade_school.n.01', 'graduate_school.n.01', 'language_school.n.01', 'night_school.n.01', 'nursing_school.n.01', 'private_school.n.01', 'public_school.n.01', 'religious_school.n.01', 'riding_school.n.01', 'secondary_school.n.01', 'secretarial_school.n.01', 'sunday_school.n.01', 'technical_school.n.01', 'training_school.n.01', 'veterinary_school.n.01', 'conservatory.n.02', 'day_school.n.03', 'art_nouveau.n.01', 'ashcan_school.n.01', 'deconstructivism.n.01', 'historical_school.n.01', 'lake_poets.n.01', 'pointillism.n.01', 'secession.n.01', 'home-school.v.01', 'sophisticate.v.01']
+Member Holonyms: []
+
+Semantic relations for center
+
+Synonyms: ['center', 'centre', 'middle', 'heart', 'eye', 'center_field', 'centerfield', 'center', 'center', 'centre', 'center', 'centre', 'midpoint', 'kernel', 'substance', 'core', 'center', 'centre', 'essence', 'gist', 'heart', 'heart_and_soul', 'inwardness', 'marrow', 'meat', 'nub', 'pith', 'sum', 'nitty-gritty', 'center', 'centre', 'center_of_attention', 'centre_of_attention', 'center', 'centre', 'nerve_center', 'nerve_centre', 'center', 'center', 'center', 'snapper', 'center', 'centre', 'center', 'center', 'center', 'centre', 'plaza', 'mall', 'center', 'shopping_mall', 'shopping_center', 'shopping_centre', 'center', 'center', 'center', 'focus_on', 'center_on', 'revolve_around', 'revolve_about', 'concentrate_on', 'center', 'concentrate', 'focus', 'center', 'centre', 'pore', 'rivet', 'center', 'centre', 'center', 'halfway', 'middle', 'midway', 'center']
+Antonyms: ['right']
+Hypernyms: ['area.n.01', 'tract.n.01', 'building.n.01', 'point.n.02', 'content.n.05', 'object.n.04', 'neural_structure.n.01', 'formation.n.01', 'basketball_player.n.01', 'lineman.n.01', 'place.n.02', 'class.n.03', 'hockey_player.n.01', 'sweet.n.03', 'mercantile_establishment.n.01', 'position.n.09', 'lineman.n.04', 'position.n.09', 'refer.v.02', 'think.v.03', 'move.v.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'refer.v.02', 'think.v.03', 'move.v.02', 'center.s.01', 'center.a.02']
+Hyponyms: ['center_stage.n.02', 'city_center.n.01', 'financial_center.n.01', 'hub.n.02', 'inner_city.n.01', 'medical_center.n.01', 'midfield.n.01', 'midstream.n.01', 'seat.n.05', 'storm_center.n.02', 'burn_center.n.01', 'call_center.n.01', 'community_center.n.01', 'conference_center.n.01', 'control_center.n.01', 'research_center.n.01', 'service_club.n.02', 'settlement_house.n.01', 'student_center.n.01', 'bight.n.04', 'bowels.n.01', "bull's_eye.n.02", 'center_of_curvature.n.01', 'center_of_gravity.n.01', 'center_of_mass.n.01', 'core.n.02', 'core.n.03', 'navel.n.02', 'nombril.n.01', 'nucleus.n.02', 'nucleus.n.04', 'bare_bones.n.01', 'hypostasis.n.04', 'quiddity.n.02', 'quintessence.n.02', 'stuff.n.07', 'conversation_piece.n.01', 'crosshairs.n.01', 'cynosure.n.02', 'eye-catcher.n.01', 'auditory_center.n.01', "broca's_area.n.01", 'inferior_colliculus.n.01', 'respiratory_center.n.01', 'rhinencephalon.n.01', 'superior_colliculus.n.01', "wernicke's_area.n.01", 'capital.n.05', 'nerve_center.n.01', 'listen.v.02', 'recall.v.05', 'steep.v.01', 'think.v.06', 'zoom_in.v.01']
+Member Holonyms: ['hockey_team.n.01', 'football_team.n.01', 'basketball_team.n.01']
+
+
+Rank 44 word pair (start,year) w/ cosine similarity = 0.17188774 (WS353 rank = 44)
+-----------------------------------------
+Semantic relations for start
+
+Synonyms: ['start', 'beginning', 'commencement', 'first', 'outset', 'get-go', 'start', 'kickoff', 'starting_time', 'showtime', 'offset', 'start', 'starting', 'startle', 'jump', 'start', 'beginning', 'start', 'commencement', 'start', 'starting_line', 'scratch', 'scratch_line', 'starting_signal', 'start', 'start', 'head_start', 'get_down', 'begin', 'get', 'start_out', 'start', 'set_about', 'set_out', 'commence', 'begin', 'lead_off', 'start', 'commence', 'depart', 'part', 'start', 'start_out', 'set_forth', 'set_off', 'set_out', 'take_off', 'begin', 'start', 'originate', 'initiate', 'start', 'start', 'start_up', 'embark_on', 'commence', 'startle', 'jump', 'start', 'start', 'start_up', 'start', 'go', 'get_going', 'start', 'take_up', 'start', 'begin', 'start', 'begin', 'start', 'start', 'protrude', 'pop', 'pop_out', 'bulge', 'bulge_out', 'bug_out', 'come_out']
+Antonyms: ['middle', 'finish', 'end', 'end', 'end', 'stop', 'stop']
+Hypernyms: ['beginning.n.01', 'point.n.06', 'turn.n.03', 'reflex.n.01', 'change_of_state.n.01', 'line.n.20', 'signal.n.01', 'advantage.n.01', 'leave.v.01', 'make.v.03', 'begin.v.03', 'move.v.03', 'play.v.01', 'be.v.01', 'act.v.01', 'change_shape.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'get_down.v.07', 'begin.v.03', 'leave.v.01', 'begin.v.02', 'make.v.03', 'begin.v.03', 'move.v.03', 'start.v.08', 'start.v.09', 'start.v.10', 'compete.v.01', 'be.v.01', 'act.v.01', 'change.v.02']
+Hyponyms: ['adrenarche.n.01', 'alpha.n.02', 'dawn.n.02', 'flying_start.n.02', 'kickoff.n.03', 'menarche.n.01', 'onset.n.01', 'opener.n.01', 'opening.n.04', 'racing_start.n.01', 'thelarche.n.01', 'birth.n.01', 'incipiency.n.01', 'terminus_a_quo.n.01', 'threshold.n.01', 'startle_reflex.n.01', 'startle_response.n.01', 'wince.n.02', 'activation.n.03', 'attack.n.06', 'constitution.n.02', 'face-off.n.02', 'first_step.n.01', 'groundbreaking.n.01', 'housing_start.n.01', 'icebreaker.n.02', 'inauguration.n.01', 'initiation.n.02', 'installation.n.01', 'introduction.n.01', 'jump_ball.n.01', 'kickoff.n.01', 'resumption.n.01', 'scrum.n.01', 'springboard.n.02', 'startup.n.01', 'attack.v.05', 'auspicate.v.02', 'break_in.v.03', 'come_on.v.05', 'embark.v.02', 'fall.v.30', 'get_cracking.v.01', 'get_to.v.02', 'jump_off.v.01', 'plunge.v.04', 'recommence.v.02', 'strike_out.v.06', 'inaugurate.v.03', 'jumpstart.v.02', 'recommence.v.01', 'set_off.v.06', 'start.v.06', 'blaze.v.04', 'roar_off.v.01', 'sally_forth.v.01', 'take_off.v.03', 'break_out.v.02', 'bud.v.02', 'dawn.v.02', 'erupt.v.01', 'originate.v.03', 'set_in.v.01', 'go_back.v.01', 'lead_up.v.01', 'set.v.13', 'inaugurate.v.01', 'open.v.04', 'boggle.v.01', 'jackrabbit.v.01', 'rear_back.v.02', 'shy.v.01', 'crank.v.02', 'hot-wire.v.01', 'jumpstart.v.01', 'kick-start.v.01', 'restart.v.01', 'get_off_the_ground.v.01', 'go_on.v.05', 'take_office.v.01']
+Member Holonyms: []
+
+Semantic relations for year
+
+Synonyms: ['year', 'twelvemonth', 'yr', 'year', 'year', 'class', 'year']
+Antonyms: []
+Hypernyms: ['time_period.n.01', 'time_period.n.01', 'time_period.n.01', 'gathering.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['annum.n.01', 'calendar_year.n.01', 'church_year.n.01', 'common_year.n.01', 'fiscal_year.n.01', 'holy_year.n.01', 'leap_year.n.01', 'new_year.n.01', 'off_year.n.01', 'off_year.n.02', 'y2k.n.01', 'year_of_grace.n.01', 'school_year.n.01', 'anomalistic_year.n.01', 'lunar_year.n.01', 'sidereal_year.n.01', 'solar_year.n.01', 'freshman_class.n.01', 'graduating_class.n.01', 'junior_class.n.01', 'senior_class.n.01', 'sophomore_class.n.01']
+Member Holonyms: []
+
+
+Rank 45 word pair (travel,activity) w/ cosine similarity = 0.17071018 (WS353 rank = 31)
+-----------------------------------------
+Semantic relations for travel
+
+Synonyms: ['travel', 'traveling', 'travelling', 'change_of_location', 'travel', 'locomotion', 'travel', 'travel', 'go', 'move', 'locomote', 'travel', 'journey', 'travel', 'trip', 'jaunt', 'travel', 'journey', 'travel', 'travel', 'move_around']
+Antonyms: ['stay_in_place']
+Hypernyms: ['motion.n.06', 'movement.n.03', 'motion.n.06', 'travel.v.03', 'travel.v.01', 'travel.v.01', 'travel.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'travel.v.01', 'travel.v.03', 'travel.v.03', 'travel.v.01', 'travel.v.01', 'travel.v.01']
+Hyponyms: ['air_travel.n.01', 'circumnavigation.n.01', 'commutation.n.01', 'crossing.n.01', 'driving.n.02', 'journey.n.01', 'junketing.n.01', 'on_the_road.n.01', 'peregrination.n.01', 'riding.n.02', 'stage.n.06', 'staging.n.03', 'traversal.n.02', 'walk.n.04', 'wandering.n.01', 'water_travel.n.01', 'wayfaring.n.01', 'ascension.n.04', 'circulation.n.05', 'creep.n.02', 'descent.n.01', 'entrance.n.02', 'fall.n.07', 'flow.n.01', 'gravitation.n.02', 'levitation.n.02', 'progress.n.03', 'rise.n.04', 'spread.n.01', 'stampede.n.02', 'translation.n.02', 'brachiation.n.01', 'crawl.n.03', 'dance_step.n.01', 'gait.n.02', 'jog.n.02', 'lap.n.05', 'run.n.07', 'step.n.03', 'stroke.n.11', 'walk.n.01', 'accompany.v.02', 'advance.v.01', 'angle.v.01', 'ascend.v.01', 'automobile.v.01', 'back.v.02', 'bang.v.04', 'beetle.v.02', 'betake_oneself.v.01', 'billow.v.02', 'bounce.v.03', 'breeze.v.02', 'caravan.v.01', 'career.v.01', 'carry.v.36', 'circle.v.01', 'circle.v.02', 'circuit.v.01', 'circulate.v.07', 'come.v.01', 'come.v.11', 'crawl.v.01', 'cruise.v.02', 'derail.v.02', 'descend.v.01', 'do.v.13', 'drag.v.04', 'draw.v.12', 'drive.v.02', 'drive.v.14', 'ease.v.01', 'fall.v.01', 'fall.v.15', 'ferry.v.03', 'float.v.01', 'float.v.02', 'float.v.05', 'flock.v.01', 'fly.v.01', 'fly.v.06', 'follow.v.01', 'follow.v.04', 'forge.v.05', 'get_around.v.04', 'ghost.v.01', 'glide.v.01', 'go_around.v.02', 'hiss.v.02', 'hurtle.v.01', 'island_hop.v.01', 'lance.v.01', 'lurch.v.03', 'outflank.v.01', 'pace.v.02', 'pan.v.01', 'pass.v.01', 'pass_over.v.04', 'play.v.09', 'plow.v.03', 'prance.v.02', 'precede.v.04', 'precess.v.01', 'proceed.v.02', 'propagate.v.02', 'pursue.v.02', 'push.v.09', 'raft.v.02', 'repair.v.03', 'retreat.v.02', 'retrograde.v.02', 'return.v.01', 'ride.v.01', 'ride.v.04', 'ride.v.10', 'rise.v.01', 'roll.v.12', 'round.v.01', 'run.v.11', 'run.v.34', 'rush.v.01', 'scramble.v.01', 'seek.v.04', 'shuttle.v.01', 'sift.v.01', 'ski.v.01', 'slice_into.v.01', 'slither.v.01', 'snowshoe.v.01', 'speed.v.04', 'steamer.v.01', 'step.v.01', 'step.v.02', 'step.v.06', 'stray.v.02', 'swap.v.02', 'swash.v.01', 'swim.v.01', 'swim.v.05', 'swing.v.03', 'taxi.v.01', 'trail.v.03', 'tram.v.01', 'transfer.v.06', 'travel.v.04', 'travel.v.05', 'travel.v.06', 'travel_by.v.01', 'travel_purposefully.v.01', 'travel_rapidly.v.01', 'trundle.v.01', 'turn.v.06', 'walk.v.01', 'walk.v.10', 'weave.v.04', 'wend.v.01', 'wheel.v.03', 'whine.v.01', 'whish.v.02', 'whisk.v.02', 'whistle.v.02', 'withdraw.v.01', 'zigzag.v.01', 'zoom.v.02', 'globe-trot.v.01', 'sledge.v.02', 'tour.v.01', 'trek.v.01', 'trek.v.02', 'voyage.v.01', 'commute.v.02', 'junketeer.v.01', 'peregrinate.v.01', 'ply.v.03', 'travel.v.02', 'travel_to.v.01', 'cruise.v.01', 'fly.v.12', 'ride.v.12', 'sail.v.01', 'ship.v.04', 'fly.v.09', 'hop.v.03', 'ride.v.02', 'itinerate.v.01']
+Member Holonyms: []
+
+Semantic relations for activity
+
+Synonyms: ['activity', 'action', 'activity', 'activeness', 'bodily_process', 'body_process', 'bodily_function', 'activity', 'activity', 'natural_process', 'natural_action', 'action', 'activity', 'activeness', 'activity']
+Antonyms: ['inactivity', 'inaction', 'inactivity', 'inactiveness', 'inactiveness']
+Hypernyms: ['act.n.02', 'state.n.02', 'organic_process.n.01', 'capability.n.02', 'process.n.06', 'trait.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['acting.n.01', 'aid.n.02', 'attempt.n.01', 'behavior.n.01', 'behavior.n.04', 'burst.n.03', 'buzz.n.02', 'calibration.n.01', 'ceremony.n.02', 'ceremony.n.03', 'concealment.n.03', 'continuance.n.01', 'control.n.05', 'creation.n.01', 'cup_of_tea.n.01', 'demand.n.04', 'dismantling.n.01', 'diversion.n.01', 'domesticity.n.02', 'education.n.01', 'energizing.n.01', 'enjoyment.n.02', 'follow-up.n.02', 'fun.n.03', 'game.n.01', 'grouping.n.02', 'lamentation.n.02', 'last.n.03', 'laughter.n.02', 'leadership.n.01', 'liveliness.n.01', 'market.n.01', 'measurement.n.01', 'music.n.03', 'mystification.n.03', 'negotiation.n.02', 'occupation.n.01', 'occupation.n.03', 'operation.n.03', 'operation.n.05', 'operation.n.11', 'organization.n.06', 'perturbation.n.03', 'placement.n.03', 'pleasure.n.04', 'politics.n.05', 'practice.n.01', 'precession.n.02', 'preparation.n.01', 'procedure.n.01', 'protection.n.01', 'provision.n.02', 'puncture.n.03', 'release.n.09', 'representation.n.10', 'role.n.04', 'search.n.01', 'sensory_activity.n.01', 'service.n.11', 'sin.n.06', 'solo.n.01', 'space_walk.n.01', 'support.n.01', 'support.n.08', 'timekeeping.n.01', 'training.n.01', 'turn.n.03', 'use.n.01', 'variation.n.02', 'verbalization.n.02', 'waste.n.02', 'work.n.01', 'works.n.03', 'worship.n.01', 'writing.n.05', 'wrongdoing.n.02', 'agency.n.03', 'behavior.n.02', 'busyness.n.01', 'eruption.n.03', 'operation.n.01', 'overdrive.n.01', 'play.n.05', 'swing.n.01', 'ablactation.n.01', 'anastalsis.n.01', 'breath.n.01', 'breathing.n.01', 'consumption.n.01', 'control.n.03', 'crying.n.01', 'discharge.n.04', 'expectoration.n.01', 'festering.n.01', 'healing.n.01', 'hypostasis.n.02', 'insemination.n.02', 'lacrimation.n.01', 'lactation.n.02', 'opsonization.n.01', 'overactivity.n.01', 'peristalsis.n.01', 'perspiration.n.02', 'phagocytosis.n.01', 'pinocytosis.n.01', 'placentation.n.01', 'psilosis.n.02', 'reaction.n.03', 'respiration.n.02', 'sexual_activity.n.01', 'sleeping.n.03', 'tanning.n.01', 'transpiration.n.02', 'absorption.n.02', 'acidification.n.01', 'adiabatic_process.n.01', 'aeration.n.01', 'antiredeposition.n.01', 'capture.n.02', 'capture.n.03', 'centrifugation.n.01', 'chemical_process.n.01', 'chromatography.n.01', 'concretion.n.01', 'condensation.n.02', 'convection.n.02', 'curdling.n.01', 'decay.n.01', 'demagnetization.n.01', 'desorption.n.01', 'diffusion.n.01', 'dissolution.n.01', 'distillation.n.01', 'drift.n.02', 'effervescence.n.01', 'electrophoresis.n.01', 'establishment.n.06', 'extinction.n.03', 'extraction.n.01', 'feedback.n.01', 'filtration.n.01', 'flocculation.n.01', 'flow.n.04', 'formation.n.06', 'fossilization.n.01', 'geological_process.n.01', 'hardening.n.02', 'inactivation.n.01', 'ion_exchange.n.01', 'ionization.n.02', 'leach.n.01', 'magnetization.n.02', 'materialization.n.01', 'nuclear_reaction.n.01', 'opacification.n.01', 'oscillation.n.01', 'oxygenation.n.01', 'pair_production.n.01', 'phase_change.n.01', 'precession_of_the_equinoxes.n.01', 'radiation.n.05', 'release.n.03', 'saltation.n.01', 'scattering.n.02', 'sericulture.n.01', 'sink.n.02', 'soak.n.01', 'softening.n.01', 'sorption.n.01', 'source.n.07', 'stiffening.n.02', 'stimulation.n.03', 'succession.n.04', 'survival.n.02', 'synergy.n.01', 'temperature_change.n.01', 'transduction.n.02', 'transpiration.n.01', 'vitrification.n.02', 'animation.n.03', 'dynamism.n.03']
+Member Holonyms: []
+
+
+Rank 46 word pair (space,chemistry) w/ cosine similarity = 0.16990511 (WS353 rank = 36)
+-----------------------------------------
+Semantic relations for space
+
+Synonyms: ['space', 'infinite', 'space', 'space', 'outer_space', 'space', 'space', 'blank', 'distance', 'space', 'space', 'blank_space', 'place', 'space', 'quad', 'space', 'space']
+Antonyms: []
+Hypernyms: ['attribute.n.02', 'amorphous_shape.n.01', 'location.n.01', 'area.n.01', 'location.n.01', 'space.n.01', 'character.n.08', 'time_interval.n.01', 'area.n.06', 'area.n.06', 'type.n.06', 'put.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'move.v.02']
+Hyponyms: ['absolute_space.n.01', 'mathematical_space.n.01', 'outer_space.n.01', 'phase_space.n.01', 'angle.n.01', 'cavity.n.02', 'compartment.n.01', 'crenel.n.02', 'enclosure.n.03', 'expanse.n.03', 'hole.n.04', 'opening.n.01', 'pleural_space.n.01', 'pocket.n.04', 'subarachnoid_space.n.01', 'swath.n.01', 'void.n.02', 'airspace.n.01', 'crawlspace.n.01', 'disk_space.n.01', 'flies.n.01', 'key.n.09', 'no-parking_zone.n.01', 'parking_space.n.01', 'seat.n.01', 'separation.n.06', 'terreplein.n.01', 'workspace.n.01', 'indentation.n.03', 'margin.n.05', 'hair_space.n.01']
+Member Holonyms: []
+
+Semantic relations for chemistry
+
+Synonyms: ['chemistry', 'chemical_science', 'chemistry', 'chemistry', 'interpersonal_chemistry', 'alchemy']
+Antonyms: []
+Hypernyms: ['natural_science.n.01', 'substance.n.01', 'social_relation.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['electrochemistry.n.01', 'femtochemistry.n.01', 'geochemistry.n.01', 'immunochemistry.n.01', 'inorganic_chemistry.n.01', 'organic_chemistry.n.01', 'photochemistry.n.01', 'physical_chemistry.n.01', 'radiochemistry.n.01', 'surface_chemistry.n.01', 'thermochemistry.n.01']
+Member Holonyms: []
+
+
+Rank 47 word pair (ministry,culture) w/ cosine similarity = 0.16420388 (WS353 rank = 39)
+-----------------------------------------
+Semantic relations for ministry
+
+Synonyms: ['ministry', 'ministry', 'ministry', 'ministry']
+Antonyms: []
+Hypernyms: ['priesthood.n.01', 'building.n.01', 'government_department.n.01', 'employment.n.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['foreign_office.n.01', 'home_office.n.01']
+Member Holonyms: []
+
+Semantic relations for culture
+
+Synonyms: ['culture', 'civilization', 'civilisation', 'culture', 'acculturation', 'culture', 'culture', 'polish', 'refinement', 'culture', 'cultivation', 'finish', 'culture', 'culture', 'culture']
+Antonyms: []
+Hypernyms: ['society.n.01', 'taste.n.03', 'content.n.05', 'growth.n.01', 'perfection.n.01', 'attitude.n.01', 'cultivation.n.02', 'grow.v.04']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'change.v.01']
+Hyponyms: ['aegean_civilization.n.01', 'helladic_civilization.n.01', 'indus_civilization.n.01', 'minoan_civilization.n.01', 'mycenaean_civilization.n.01', 'paleo-american_culture.n.01', 'western_culture.n.01', 'counterculture.n.01', 'letters.n.01', 'mass_culture.n.01', 'meme.n.01', 'starter.n.07', 'cyberculture.n.01', 'kalashnikov_culture.n.01', 'mosaic_culture.n.01', 'cranberry_culture.n.01', 'monoculture.n.01', 'tillage.n.02', 'viticulture.n.01']
+Member Holonyms: []
+
+
+Rank 48 word pair (opera,performance) w/ cosine similarity = 0.16250375 (WS353 rank = 18)
+-----------------------------------------
+Semantic relations for opera
+
+Synonyms: ['opera', 'Opera', 'opera', 'opera_house']
+Antonyms: []
+Hypernyms: ['classical_music.n.01', 'theater.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['comic_opera.n.01', 'grand_opera.n.01', 'musical_drama.n.01']
+Member Holonyms: []
+
+Semantic relations for performance
+
+Synonyms: ['performance', 'public_presentation', 'performance', 'performance', 'execution', 'carrying_out', 'carrying_into_action', 'performance', 'operation', 'functioning', 'performance']
+Antonyms: []
+Hypernyms: ['show.n.03', 'presentation.n.02', 'action.n.01', 'accomplishment.n.01', 'process.n.06']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['act.n.04', 'benefit.n.03', 'concert.n.01', 'pianism.n.01', 'play_reading.n.01', 'premiere.n.01', 'recital.n.02', 'rendition.n.01', 'song_and_dance.n.01', 'spectacular.n.01', 'theatrical_performance.n.01', 'world_premiere.n.01', 'dramatic_production.n.01', 'encore.n.01', 'extemporization.n.01', 'juggle.n.02', 'magic_trick.n.01', 'musical_performance.n.01', 'one-night_stand.n.02', 'program.n.08', 'rendition.n.04', 'swan_song.n.01', 'linguistic_performance.n.01', 'mechanism.n.02', 'officiation.n.02', 'specific_performance.n.01', 'overachievement.n.01', 'underachievement.n.01']
+Member Holonyms: []
+
+
+Rank 49 word pair (attempt,peace) w/ cosine similarity = 0.16153814 (WS353 rank = 46)
+-----------------------------------------
+Semantic relations for attempt
+
+Synonyms: ['attempt', 'effort', 'endeavor', 'endeavour', 'try', 'attack', 'attempt', 'try', 'seek', 'attempt', 'essay', 'assay', 'undertake', 'set_about', 'attempt']
+Antonyms: []
+Hypernyms: ['activity.n.01', 'crime.n.01', 'act.v.01', 'initiate.v.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'act.v.01', 'make.v.03']
+Hyponyms: ['batting.n.01', 'best.n.01', 'bid.n.02', 'contribution.n.01', 'crack.n.09', 'essay.n.02', 'foray.n.02', 'liberation.n.02', "mug's_game.n.01", 'power_play.n.01', 'seeking.n.02', 'shot.n.15', 'shot.n.16', 'striving.n.01', 'struggle.n.01', 'takeover_attempt.n.01', 'test.n.04', 'test.n.05', 'worst.n.03', 'assault.n.02', 'endeavor.v.01', 'fight.v.03', 'gamble.v.01', 'give_it_a_whirl.v.01', 'grope.v.02', 'have_a_go.v.01', 'risk.v.01', 'take_a_dare.v.02']
+Member Holonyms: []
+
+Semantic relations for peace
+
+Synonyms: ['peace', 'peace', 'peace', 'peacefulness', 'peace_of_mind', 'repose', 'serenity', 'heartsease', 'ataraxis', 'peace', 'public_security', 'peace', 'peace_treaty', 'pacification']
+Antonyms: ['war']
+Hypernyms: ['order.n.03', 'harmony.n.03', 'tranquillity.n.02', 'security.n.01', 'treaty.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['amity.n.02', 'armistice.n.01', 'collective_security.n.01', 'conciliation.n.01', 'pax_romana.n.01']
+Member Holonyms: []
+
+
+Rank 50 word pair (opera,industry) w/ cosine similarity = 0.1572392 (WS353 rank = 18)
+-----------------------------------------
+Semantic relations for opera
+
+Synonyms: ['opera', 'Opera', 'opera', 'opera_house']
+Antonyms: []
+Hypernyms: ['classical_music.n.01', 'theater.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['comic_opera.n.01', 'grand_opera.n.01', 'musical_drama.n.01']
+Member Holonyms: []
+
+Semantic relations for industry
+
+Synonyms: ['industry', 'industry', 'manufacture', 'diligence', 'industriousness', 'industry']
+Antonyms: []
+Hypernyms: ['commercial_enterprise.n.01', 'commercial_enterprise.n.02', 'determination.n.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['aluminum_business.n.01', 'apparel_industry.n.01', 'automobile_industry.n.01', 'aviation.n.02', 'banking_industry.n.01', 'chemical_industry.n.01', 'coal_industry.n.01', 'computer_industry.n.01', 'construction_industry.n.01', 'electronics_industry.n.01', 'entertainment_industry.n.01', 'film_industry.n.01', 'growth_industry.n.01', 'lighting_industry.n.01', 'market.n.04', 'munitions_industry.n.01', 'oil_industry.n.01', 'plastics_industry.n.01', 'service_industry.n.01', 'shipbuilding_industry.n.01', 'shoe_industry.n.01', 'sign_industry.n.01', 'steel_industry.n.01', 'sunrise_industry.n.01', 'tobacco_industry.n.01', 'toy_industry.n.01', 'trucking_industry.n.01', 'cottage_industry.n.01', 'industrialization.n.01', 'production.n.07', 'assiduity.n.01', 'sedulity.n.01', 'studiousness.n.01']
+Member Holonyms: []
+
+
+Rank 51 word pair (life,term) w/ cosine similarity = 0.15261212 (WS353 rank = 10)
+-----------------------------------------
+Semantic relations for life
+
+Synonyms: ['life', 'life', 'living', 'life', 'animation', 'life', 'living', 'aliveness', 'life', 'lifetime', 'life-time', 'lifespan', 'life', 'life', 'life', 'liveliness', 'life', 'spirit', 'sprightliness', 'life', 'life', 'biography', 'life', 'life_story', 'life_history', 'life', 'life_sentence', 'life']
+Antonyms: []
+Hypernyms: ['being.n.01', 'experience.n.02', 'being.n.01', 'being.n.01', 'time_period.n.01', 'time_period.n.01', 'time_period.n.01', 'person.n.01', 'animation.n.03', 'living_thing.n.01', 'organic_phenomenon.n.01', 'history.n.02', 'motivation.n.01', 'prison_term.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['ghetto.n.02', 'eternal_life.n.01', 'skin.n.04', 'survival.n.01', 'afterlife.n.01', 'days.n.01', 'airiness.n.03', 'alacrity.n.01', 'breeziness.n.02', 'elan.n.03', 'energy.n.04', 'esprit.n.01', 'exuberance.n.02', 'high-spiritedness.n.01', 'irrepressibility.n.01', 'pep.n.01', 'pertness.n.02', 'wildlife.n.01', 'aerobiosis.n.01', 'biology.n.02', 'autobiography.n.01', 'hagiography.n.01', 'profile.n.03']
+Member Holonyms: []
+
+Semantic relations for term
+
+Synonyms: ['term', 'term', 'condition', 'term', 'term', 'term', 'term', 'full_term', 'terminus', 'terminal_figure', 'term', 'term']
+Antonyms: []
+Hypernyms: ['word.n.01', 'time_period.n.01', 'statement.n.01', 'quantity.n.03', 'constituent.n.04', 'point.n.06', 'statue.n.01', 'name.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'designate.v.01']
+Hyponyms: ['referent.n.03', 'prison_term.n.01', 'school_term.n.01', 'tenure.n.01', 'categorem.n.01', 'major_term.n.01', 'middle_term.n.01', 'minor_term.n.01', 'predicate.n.01', 'referent.n.02', 'relatum.n.01', 'subject.n.08']
+Member Holonyms: []
+
+
+Rank 52 word pair (energy,secretary) w/ cosine similarity = 0.14919567 (WS353 rank = 81)
+-----------------------------------------
+Semantic relations for energy
+
+Synonyms: ['energy', 'free_energy', 'energy', 'vigor', 'vigour', 'zip', 'energy', 'push', 'get-up-and-go', 'energy', 'muscularity', 'vigor', 'vigour', 'vim', 'energy', 'vim', 'vitality', 'energy', 'Department_of_Energy', 'Energy_Department', 'Energy', 'DOE']
+Antonyms: []
+Hypernyms: ['physical_phenomenon.n.01', 'force.n.03', 'drive.n.05', 'liveliness.n.02', 'good_health.n.01', 'physical_phenomenon.n.01', 'executive_department.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['activation_energy.n.01', 'alternative_energy.n.01', 'atomic_energy.n.01', 'binding_energy.n.01', 'chemical_energy.n.01', 'electricity.n.02', 'energy_level.n.01', 'heat.n.01', 'mechanical_energy.n.01', 'radiant_energy.n.01', 'radiation.n.01', 'rest_energy.n.01', 'work.n.05', 'athleticism.n.01', 'second_wind.n.01', 'vitality.n.01', 'juice.n.02', 'qi.n.01']
+Member Holonyms: []
+
+Semantic relations for secretary
+
+Synonyms: ['secretary', 'secretary', 'secretarial_assistant', 'repository', 'secretary', 'secretary', 'writing_table', 'escritoire', 'secretaire']
+Antonyms: []
+Hypernyms: ['head.n.04', 'assistant.n.01', 'confidant.n.01', 'desk.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['attorney_general.n.02', 'secretary_of_agriculture.n.01', 'secretary_of_commerce.n.01', 'secretary_of_defense.n.01', 'secretary_of_education.n.01', 'secretary_of_energy.n.01', 'secretary_of_health_and_human_services.n.01', 'secretary_of_housing_and_urban_development.n.01', 'secretary_of_labor.n.01', 'secretary_of_state.n.01', 'secretary_of_the_interior.n.02', 'secretary_of_the_treasury.n.01', 'secretary_of_transportation.n.01', 'secretary_of_veterans_affairs.n.01', 'undersecretary.n.01', 'executive_secretary.n.01', 'receptionist.n.01', 'social_secretary.n.01', 'stenographer.n.01']
+Member Holonyms: []
+
+
+Rank 53 word pair (direction,combination) w/ cosine similarity = 0.14683652 (WS353 rank = 77)
+-----------------------------------------
+Semantic relations for direction
+
+Synonyms: ['direction', 'way', 'direction', 'direction', 'guidance', 'counsel', 'counseling', 'counselling', 'direction', 'management', 'direction', 'direction', 'instruction', 'steering', 'guidance', 'direction', 'commission', 'charge', 'direction', 'focus', 'focusing', 'focussing', 'focal_point', 'direction', 'centering']
+Antonyms: []
+Hypernyms: ['path.n.03', 'position.n.07', 'inclination.n.01', 'message.n.02', 'social_control.n.01', 'message.n.02', 'control.n.05', 'command.n.01', 'concentration.n.05']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['bearing.n.02', 'course.n.03', 'east-west_direction.n.01', 'north-south_direction.n.01', 'qibla.n.01', 'tendency.n.04', 'compass_point.n.01', 'east.n.04', 'frontage.n.02', 'leeward.n.01', 'north.n.05', 'north.n.06', 'northeast.n.03', 'northwest.n.02', 'opposition.n.06', 'orientation.n.03', 'seaward.n.01', 'south.n.05', 'southeast.n.03', 'southwest.n.03', 'west.n.04', 'windward.n.01', 'tenor.n.04', 'career_counseling.n.01', 'cynosure.n.01', 'genetic_counseling.n.01', 'marriage_counseling.n.01', 'road_map.n.01', 'tip.n.03', 'administration.n.01', 'authorization.n.04', 'channelization.n.01', 'conducting.n.02', 'database_management.n.01', 'disenfranchisement.n.01', 'finance.n.03', 'guidance.n.02', 'homemaking.n.01', 'misconduct.n.01', 'mismanagement.n.01', 'supervision.n.01', 'treatment.n.02', 'address.n.06', 'markup.n.02', 'misdirection.n.02', 'prescription.n.01', 'recipe.n.01', 'rubric.n.03', 'rule.n.03', 'rule.n.08', 'rule.n.09', 'stage_direction.n.01', 'style.n.06', 'system_command.n.01', 'aim.n.03', 'celestial_guidance.n.01', 'command_guidance.n.01', 'driving.n.02', 'inertial_guidance.n.01', 'navigation.n.01', 'terrestrial_guidance.n.01', 'misdirection.n.01', 'particularism.n.01']
+Member Holonyms: []
+
+Semantic relations for combination
+
+Synonyms: ['combination', 'combination', 'combination', 'combination', 'combination', 'combination', 'combination', 'combining', 'compounding']
+Antonyms: []
+Hypernyms: ['collection.n.01', 'sequence.n.01', 'sequence.n.01', 'unit.n.03', 'alliance.n.03', 'mathematical_process.n.01', 'change_of_integrity.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['amalgam.n.02', 'color_scheme.n.01', 'complexion.n.02', 'haplotype.n.01', 'combination_in_restraint_of_trade.n.01', 'attachment.n.06', 'blend.n.03', 'confusion.n.04', 'consolidation.n.02', 'fusion.n.07', 'interspersion.n.01', 'mix.n.03', 'temperance.n.03', 'union.n.11']
+Member Holonyms: []
+
+
+Rank 54 word pair (architecture,century) w/ cosine similarity = 0.14425433 (WS353 rank = 51)
+-----------------------------------------
+Semantic relations for architecture
+
+Synonyms: ['architecture', 'architecture', 'architecture', 'computer_architecture', 'architecture']
+Antonyms: []
+Hypernyms: ['building.n.01', 'discipline.n.01', 'fine_arts.n.01', 'profession.n.02', 'structure.n.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['interior_design.n.02', 'landscape_architecture.n.01', 'urban_planning.n.01', 'complex_instruction_set_computing.n.01', 'reduced_instruction_set_computing.n.01']
+Member Holonyms: []
+
+Semantic relations for century
+
+Synonyms: ['century', 'hundred', '100', 'C', 'century', 'one_C']
+Antonyms: []
+Hypernyms: ['time_period.n.01', 'large_integer.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01']
+Hyponyms: ['quattrocento.n.01', 'twentieth_century.n.01']
+Member Holonyms: []
+
+
+Rank 55 word pair (experience,music) w/ cosine similarity = 0.14188725 (WS353 rank = 60)
+-----------------------------------------
+Semantic relations for experience
+
+Synonyms: ['experience', 'experience', 'experience', 'experience', 'see', 'go_through', 'know', 'experience', 'live', 'experience', 'receive', 'have', 'get', 'feel', 'experience', 'have', 'experience']
+Antonyms: ['inexperience']
+Hypernyms: ['education.n.02', 'content.n.05', 'happening.n.01', 'undergo.v.01', 'experience.v.01', 'undergo.v.01', 'change.v.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'change.v.02', 'change.v.02', 'change.v.02', 'feel.v.01', 'change.v.02']
+Hyponyms: ['familiarization.n.01', 'woodcraft.n.01', 'life.n.02', 'reliving.n.01', 'reminder.n.02', 'world.n.03', 'appalling.n.01', 'augury.n.01', 'flash.n.03', 'good_time.n.01', 'loss.n.05', 'near-death_experience.n.01', 'ordeal.n.01', 'out-of-body_experience.n.01', 'taste.n.04', 'time.n.06', 'trip.n.04', 'vision.n.05', 'come.v.20', 'enjoy.v.04', 'feel.v.06', 'know.v.05', 'suffer.v.01', 'suffer.v.10', 'witness.v.02', 'relive.v.01', 'taste.v.06', 'horripilate.v.01', 'suffer.v.02', 'take.v.15', 'anger.v.02', 'burn.v.06', 'chafe.v.02', 'cool_off.v.03', 'die.v.05', 'fly_high.v.01', 'fume.v.01', 'glow.v.04', 'glow.v.05', 'harbor.v.01', 'incline.v.05', 'pride.v.01', 'recapture.v.01', 'rejoice.v.01', 'repent.v.02', 'sadden.v.02', 'smolder.v.02', 'suffer.v.03', 'sympathize.v.01', 'take_pride.v.01', 'meet.v.11']
+Member Holonyms: []
+
+Semantic relations for music
+
+Synonyms: ['music', 'music', 'euphony', 'music', 'music', 'music', 'medicine']
+Antonyms: []
+Hypernyms: ['auditory_communication.n.01', 'sound.n.02', 'activity.n.01', 'sound.n.02', 'punishment.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['antiphony.n.01', 'bach.n.02', 'ballet.n.02', 'beethoven.n.02', 'brahms.n.02', 'chopin.n.01', 'dance_music.n.02', 'gilbert_and_sullivan.n.01', 'handel.n.02', 'harmony.n.02', 'haydn.n.02', 'instrumental_music.n.01', 'monophony.n.01', 'mozart.n.02', 'music_genre.n.01', 'musical_composition.n.01', 'overture.n.01', 'part_music.n.01', 'pizzicato.n.01', 'polyphony.n.01', 'polytonality.n.01', 'popularism.n.01', 'prelude.n.02', 'refrain.n.01', 'section.n.01', 'serialism.n.01', 'stravinsky.n.02', 'syncopation.n.03', "ta'ziyeh.n.01", 'tune.n.01', 'vocal_music.n.01', 'wagner.n.03', 'music_of_the_spheres.n.01', 'bell_ringing.n.03', 'instrumental_music.n.02', 'intonation.n.04', 'percussion.n.01', 'vocal_music.n.02', 'whistling.n.02', 'piano_music.n.02']
+Member Holonyms: []
+
+
+Rank 56 word pair (cup,food) w/ cosine similarity = 0.14149521 (WS353 rank = 32)
+-----------------------------------------
+Semantic relations for cup
+
+Synonyms: ['cup', 'cup', 'cupful', 'cup', 'cup', 'cup', 'cup', 'cup', 'cup', 'loving_cup', 'cup', 'cup', 'cup', 'transfuse']
+Antonyms: []
+Hypernyms: ['container.n.01', 'crockery.n.01', 'containerful.n.01', 'concave_shape.n.01', 'united_states_liquid_unit.n.01', 'plant_organ.n.01', 'punch.n.02', 'hole.n.02', 'trophy.n.02', 'shape.v.03', 'insert.v.02', 'treat.v.03']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'change.v.01', 'move.v.02', 'treat.v.03']
+Hyponyms: ['beaker.n.02', 'chalice.n.01', 'coffee_cup.n.01', 'dixie_cup.n.01', 'grace_cup.n.01', 'kylix.n.01', 'mustache_cup.n.01', 'scyphus.n.01', 'teacup.n.02', 'cupule.n.01', 'champagne_cup.n.01', 'claret_cup.n.01', 'davis_cup.n.01']
+Member Holonyms: []
+
+Semantic relations for food
+
+Synonyms: ['food', 'nutrient', 'food', 'solid_food', 'food', 'food_for_thought', 'intellectual_nourishment']
+Antonyms: []
+Hypernyms: ['substance.n.07', 'solid.n.01', 'content.n.05']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['beverage.n.01', 'chyme.n.01', 'comestible.n.01', 'comfort_food.n.01', 'commissariat.n.01', 'culture_medium.n.01', 'fare.n.04', 'feed.n.01', 'foodstuff.n.02', 'micronutrient.n.01', 'miraculous_food.n.01', 'nutriment.n.01', 'soul_food.n.01', 'water.n.06', 'yolk.n.02', 'baked_goods.n.01', 'breakfast_food.n.01', 'butter.n.01', 'cheese.n.01', 'chocolate.n.02', 'coconut.n.01', 'convenience_food.n.01', 'dika_bread.n.01', 'fish.n.02', 'fresh_food.n.01', 'health_food.n.01', 'junk_food.n.01', 'leftovers.n.01', 'loaf.n.02', 'meat.n.01', 'pasta.n.02', 'produce.n.01', 'seafood.n.01', 'slop.n.04', 'yogurt.n.01', 'pabulum.n.02']
+Member Holonyms: []
+
+
+Rank 57 word pair (development,issue) w/ cosine similarity = 0.14047274 (WS353 rank = 49)
+-----------------------------------------
+Semantic relations for development
+
+Synonyms: ['development', 'development', 'evolution', 'growth', 'growing', 'maturation', 'development', 'ontogeny', 'ontogenesis', 'development', 'exploitation', 'development', 'development', 'development', 'development', 'developing', 'development']
+Antonyms: ['devolution', 'nondevelopment']
+Hypernyms: ['improvement.n.02', 'process.n.06', 'organic_process.n.01', 'change.n.01', 'use.n.01', 'district.n.01', 'improvement.n.03', 'processing.n.01', 'section.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['advancement.n.03', 'broadening.n.02', 'elaboration.n.05', 'product_development.n.01', 'assibilation.n.01', 'deepening.n.01', 'growth.n.02', 'unfolding.n.01', 'amelogenesis.n.01', 'angiogenesis.n.01', 'apposition.n.02', 'auxesis.n.01', 'blossoming.n.01', 'cenogenesis.n.01', 'cohesion.n.02', 'cultivation.n.04', 'culture.n.04', 'cytogenesis.n.01', 'foliation.n.01', 'fructification.n.01', 'gametogenesis.n.01', 'germination.n.01', 'habit.n.04', 'infructescence.n.01', 'intussusception.n.02', 'juvenescence.n.01', 'life_cycle.n.02', 'masculinization.n.01', 'morphogenesis.n.01', 'myelinization.n.01', 'neurogenesis.n.01', 'palingenesis.n.01', 'proliferation.n.01', 'psychogenesis.n.01', 'psychogenesis.n.02', 'psychomotor_development.n.01', 'psychosexual_development.n.01', 'rooting.n.01', 'suppression.n.01', 'teething.n.01', 'teratogenesis.n.01', 'vegetation.n.02', 'complication.n.04', 'phenomenon.n.02', 'turn.n.04', 'capitalization.n.03', 'commercialization.n.01', 'electrification.n.02', 'land_development.n.01', 'overexploitation.n.01', 'unitization.n.04', 'water_development.n.01', 'housing_development.n.01', 'housing_estate.n.01', 'underdevelopment.n.01', 'underdevelopment.n.02']
+Member Holonyms: []
+
+Semantic relations for issue
+
+Synonyms: ['issue', 'issue', 'number', 'topic', 'subject', 'issue', 'matter', 'issue', 'issuing', 'issuance', 'issue', 'military_issue', 'government_issue', 'return', 'issue', 'take', 'takings', 'proceeds', 'yield', 'payoff', 'consequence', 'effect', 'outcome', 'result', 'event', 'issue', 'upshot', 'offspring', 'progeny', 'issue', 'emergence', 'egress', 'issue', 'exit', 'issue', 'outlet', 'way_out', 'issue', 'publication', 'publish', 'bring_out', 'put_out', 'issue', 'release', 'issue', 'supply', 'issue', 'issue', 'emerge', 'come_out', 'come_forth', 'go_forth', 'egress', 'write_out', 'issue', 'make_out', 'cut']
+Antonyms: ['recall']
+Hypernyms: ['content.n.05', 'periodical.n.01', 'content.n.05', 'provision.n.02', 'store.n.02', 'income.n.01', 'phenomenon.n.01', 'relative.n.01', 'beginning.n.01', 'opening.n.10', 'printing.n.02', 'publicize.v.01', 'distribute.v.03', 'communicate.v.02', 'write.v.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'act.v.01', 'transfer.v.05', 'act.v.01', 'issue.v.04', 'act.v.01']
+Hyponyms: ['gut_issue.n.01', 'paramount_issue.n.01', 'pocketbook_issue.n.01', 'quodlibet.n.01', 'edition.n.03', 'area.n.02', 'blind_spot.n.01', 'remit.n.01', 'res_judicata.n.01', 'stock_issue.n.01', 'economic_rent.n.01', 'payback.n.01', 'aftereffect.n.01', 'aftermath.n.01', 'bandwagon_effect.n.01', 'brisance.n.01', 'butterfly_effect.n.01', 'by-product.n.01', 'change.n.04', 'coattails_effect.n.01', 'coriolis_effect.n.01', 'dent.n.01', 'domino_effect.n.01', 'harvest.n.02', 'impact.n.02', 'influence.n.04', 'knock-on_effect.n.01', 'offspring.n.02', 'outgrowth.n.01', 'placebo_effect.n.01', 'position_effect.n.01', 'product.n.05', 'repercussion.n.01', 'response.n.01', 'side_effect.n.02', 'spillover.n.01', 'baby.n.02', 'bastard.n.02', 'child.n.02', 'firstborn.n.01', 'grandchild.n.01', 'successor.n.03', 'dissilience.n.01', 'eruption.n.06', 'outfall.n.01', 'edit.v.02', 'free.v.05', 'reissue.v.02', 'unblock.v.03', 'come_out.v.05', 'debouch.v.02', 'escape.v.07', 'fall.v.28', 'leak.v.03', 'pop_out.v.04', 'radiate.v.07', 'check.v.20']
+Member Holonyms: ['series.n.03']
+
+
+Rank 58 word pair (media,trading) w/ cosine similarity = 0.13748237 (WS353 rank = 16)
+-----------------------------------------
+Semantic relations for media
+
+Synonyms: ['medium', 'medium', 'medium', 'culture_medium', 'medium', 'medium', 'medium', 'medium', 'medium', 'medium', 'spiritualist', 'sensitive', 'medium', 'mass_medium', 'metier', 'medium']
+Antonyms: []
+Hypernyms: ['instrumentality.n.03', 'environment.n.02', 'communication.n.01', 'food.n.01', 'liquid.n.01', 'substance.n.01', 'substance.n.01', 'state.n.02', 'psychic.n.01', 'transmission.n.02', 'occupation.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['album.n.01', 'film.n.02', 'paper.n.04', 'print_media.n.01', 'storage_medium.n.01', 'telecommunication.n.01', 'vehicle.n.02', 'air.n.08', 'ether.n.03', 'agar.n.01', 'megilp.n.01', 'contrast_medium.n.01', 'solvent.n.01', 'broadcast_medium.n.01']
+Member Holonyms: []
+
+Semantic relations for trading
+
+Synonyms: ['trading', 'trade', 'merchandise', 'trade', 'trade_in', 'trade', 'trade', 'swap', 'swop', 'switch', 'deal', 'sell', 'trade']
+Antonyms: []
+Hypernyms: ['commerce.n.01', 'exchange.v.01', 'sell.v.02', 'exchange.v.01', 'transact.v.01']
+Root Hypernyms: ['entity.n.01', 'trade.v.01', 'transfer.v.05', 'be.v.01', 'transfer.v.05', 'act.v.01']
+Hyponyms: ['bond_trading.n.01', 'insider_trading.n.01', 'program_trading.n.01', 'short_covering.n.01', 'short_sale.n.01', 'arbitrage.v.01', 'export.v.01', 'import.v.01', 'market.v.01', 'run.v.25', 'traffic.v.01', 'traffic.v.02', 'barter_away.v.01', 'close.v.07', 'black_marketeer.v.01', 'deal.v.13', 'market.v.03', 'peddle.v.01', 'push.v.08', 'pyramid.v.02']
+Member Holonyms: []
+
+
+Rank 59 word pair (image,surface) w/ cosine similarity = 0.13010025 (WS353 rank = 41)
+-----------------------------------------
+Semantic relations for image
+
+Synonyms: ['image', 'mental_image', 'persona', 'image', 'picture', 'image', 'icon', 'ikon', 'prototype', 'paradigm', 'epitome', 'image', 'trope', 'figure_of_speech', 'figure', 'image', 'double', 'image', 'look-alike', 'image', 'range', 'range_of_a_function', 'image', 'effigy', 'image', 'simulacrum', 'image', 'visualize', 'visualise', 'envision', 'project', 'fancy', 'see', 'figure', 'picture', 'image']
+Antonyms: []
+Hypernyms: ['representation.n.01', 'appearance.n.01', 'representation.n.02', 'model.n.07', 'rhetorical_device.n.01', 'person.n.01', 'set.n.02', 'impression.n.02', 'representation.n.02', 'visualize.v.02', 'imagine.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'watch.v.01', 'make.v.03']
+Hyponyms: ['auditory_image.n.01', 'imagination_image.n.01', 'memory_image.n.01', 'mental_picture.n.01', 'visual_image.n.01', 'bitmap.n.01', 'chiaroscuro.n.01', 'collage.n.01', 'foil.n.04', 'graphic.n.01', 'iconography.n.01', 'inset.n.01', 'likeness.n.02', 'panorama.n.02', 'reflection.n.05', 'scan.n.02', 'sonogram.n.01', 'concentrate.n.03', 'imago.n.01', 'conceit.n.02', 'hyperbole.n.01', 'irony.n.03', 'kenning.n.01', 'metaphor.n.01', 'metonymy.n.01', 'oxymoron.n.01', 'personification.n.02', 'simile.n.01', 'synecdoche.n.01', 'zeugma.n.01', 'ringer.n.02', 'guy.n.02', 'idol.n.01', 'scarecrow.n.01', 'waxwork.n.02']
+Member Holonyms: []
+
+Semantic relations for surface
+
+Synonyms: ['surface', 'surface', 'surface', "Earth's_surface", 'surface', 'open', 'surface', 'airfoil', 'aerofoil', 'control_surface', 'surface', 'surface', 'come_up', 'rise_up', 'rise', 'coat', 'surface', 'come_on', 'come_out', 'turn_up', 'surface', 'show_up', 'surface']
+Antonyms: ['subsurface']
+Hypernyms: ['artifact.n.01', 'boundary.n.01', 'layer.n.02', 'aspect.n.01', 'public_knowledge.n.01', 'device.n.01', 'ascend.v.01', 'cover.v.01', 'appear.v.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'travel.v.01', 'cover.v.01', 'appear.v.02', 'surface.a.01']
+Hyponyms: ['bed.n.07', 'board.n.09', 'face.n.04', 'ground.n.10', 'horizontal_surface.n.01', 'klein_bottle.n.01', 'meniscus.n.03', 'miter.n.02', 'mobius_strip.n.01', 'plaster.n.04', 'screen.n.01', 'side.n.05', 'skin.n.02', 'spandrel.n.01', 'superficies.n.02', 'tread.n.02', 'vertical_surface.n.01', 'work_surface.n.01', 'celestial_sphere.n.01', 'end.n.07', 'hard_palate.n.01', 'inside.n.02', 'interface.n.01', 'outside.n.02', 'palate.n.01', 'photosphere.n.01', 'side.n.04', 'substrate.n.02', 'wave_front.n.02', 'floor.n.05', 'floor.n.06', 'aileron.n.01', 'elevator.n.02', 'flap.n.05', 'horizontal_stabilizer.n.01', 'rotor_blade.n.01', 'rudder.n.01', 'spoiler.n.04', 'spoiler.n.05', 'stabilizer.n.02', 'vertical_tail.n.01', 'wing.n.02', 'bubble_up.v.01', 'emerge.v.04', 'resurface.v.01', 'well.v.01', 'anodize.v.01', 'blacktop.v.01', 'bonderize.v.01', 'brush_on.v.01', 'cement.v.02', 'copper.v.01', 'crumb.v.01', 'dredge.v.01', 'egg.v.02', 'encrust.v.01', 'enrobe.v.01', 'finish.v.04', 'foliate.v.03', 'galvanize.v.02', 'gelatinize.v.01', 'glaze.v.01', 'grit.v.01', 'macadamize.v.01', 'metal.v.01', 'metalize.v.01', 'paint.v.02', 'patinate.v.01', 'pave.v.01', 'plaster.v.05', 'plate.v.01', 'platinize.v.01', 'porcelainize.v.01', 'refinish.v.01', 'render.v.10', 'resurface.v.02', 'rubberize.v.01', 'size.v.01', 'skim.v.05', 'skimcoat.v.01', 'soot.v.01', 'stucco.v.02', 'tar.v.01', 'varnish.v.01', 'zinc.v.01']
+Member Holonyms: []
+
+
+Rank 60 word pair (cup,substance) w/ cosine similarity = 0.1300438 (WS353 rank = 32)
+-----------------------------------------
+Semantic relations for cup
+
+Synonyms: ['cup', 'cup', 'cupful', 'cup', 'cup', 'cup', 'cup', 'cup', 'cup', 'loving_cup', 'cup', 'cup', 'cup', 'transfuse']
+Antonyms: []
+Hypernyms: ['container.n.01', 'crockery.n.01', 'containerful.n.01', 'concave_shape.n.01', 'united_states_liquid_unit.n.01', 'plant_organ.n.01', 'punch.n.02', 'hole.n.02', 'trophy.n.02', 'shape.v.03', 'insert.v.02', 'treat.v.03']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'change.v.01', 'move.v.02', 'treat.v.03']
+Hyponyms: ['beaker.n.02', 'chalice.n.01', 'coffee_cup.n.01', 'dixie_cup.n.01', 'grace_cup.n.01', 'kylix.n.01', 'mustache_cup.n.01', 'scyphus.n.01', 'teacup.n.02', 'cupule.n.01', 'champagne_cup.n.01', 'claret_cup.n.01', 'davis_cup.n.01']
+Member Holonyms: []
+
+Semantic relations for substance
+
+Synonyms: ['substance', 'kernel', 'substance', 'core', 'center', 'centre', 'essence', 'gist', 'heart', 'heart_and_soul', 'inwardness', 'marrow', 'meat', 'nub', 'pith', 'sum', 'nitty-gritty', 'meaning', 'substance', 'substance', 'means', 'substance', 'message', 'content', 'subject_matter', 'substance', 'substance']
+Antonyms: []
+Hypernyms: ['matter.n.03', 'part.n.01', 'content.n.05', 'idea.n.01', 'physical_entity.n.01', 'capital.n.02', 'communication.n.02', 'matter.n.03']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['activator.n.01', 'atom.n.01', 'body_substance.n.01', 'chemical_element.n.01', 'chemistry.n.02', 'element.n.05', 'essence.n.02', 'fluid.n.01', 'material.n.01', 'medium.n.06', 'medium.n.07', 'mixture.n.01', 'phlogiston.n.01', 'protoplasm.n.01', 'substrate.n.01', 'volatile.n.01', 'bare_bones.n.01', 'hypostasis.n.04', 'quiddity.n.02', 'quintessence.n.02', 'stuff.n.07', 'connotation.n.02', 'reference.n.06', 'reference.n.10', 'semantics.n.02', 'significance.n.02', 'tenor.n.05', 'undertone.n.02', 'pocketbook.n.01', 'wherewithal.n.01', 'acknowledgment.n.03', 'approval.n.04', 'body.n.08', 'commitment.n.04', 'corker.n.01', 'digression.n.01', 'direction.n.06', 'disapproval.n.02', 'disrespect.n.01', 'drivel.n.01', 'guidance.n.01', 'information.n.01', 'interpolation.n.01', 'latent_content.n.01', 'meaning.n.01', 'memorial.n.02', 'narrative.n.01', 'nonsense.n.01', 'offer.n.02', 'opinion.n.02', 'promotion.n.01', 'proposal.n.01', 'refusal.n.02', 'reminder.n.01', 'request.n.01', 'respects.n.01', 'sensationalism.n.01', 'shocker.n.02', 'statement.n.01', 'statement.n.04', 'subject.n.01', 'submission.n.01', 'wit.n.01', 'adulterant.n.01', 'agent.n.03', 'allergen.n.01', 'antigen.n.01', 'assay.n.02', 'carcinogen.n.01', 'chemical_irritant.n.01', 'denaturant.n.01', 'digestive.n.01', 'ferment.n.02', 'fomentation.n.01', 'food.n.01', 'fuel.n.01', 'humectant.n.01', 'hydrocolloid.n.01', 'inhibitor.n.01', 'inoculant.n.01', 'jelly.n.03', 'leaven.n.01', 'ligand.n.01', 'lubricant.n.01', 'lysin.n.01', 'metabolite.n.01', 'nutrient.n.02', "philosopher's_stone.n.01", 'poison.n.01', 'propellant.n.01', 'pyrogen.n.01', 'pyrogen.n.02', 'refrigerant.n.01', 'vehicle.n.03']
+Member Holonyms: []
+
+
+Rank 61 word pair (seven,series) w/ cosine similarity = 0.12844074 (WS353 rank = 59)
+-----------------------------------------
+Semantic relations for seven
+
+Synonyms: ['seven', '7', 'VII', 'sevener', 'heptad', 'septet', 'septenary', 'seven-spot', 'seven', 'seven', '7', 'vii']
+Antonyms: []
+Hypernyms: ['digit.n.01', 'spot.n.13']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'seven.s.01']
+Hyponyms: []
+Member Holonyms: []
+
+Semantic relations for series
+
+Synonyms: ['series', 'serial', 'series', 'series', 'serial', 'serial_publication', 'series', 'series', 'series', 'series']
+Antonyms: []
+Hypernyms: ['ordering.n.01', 'broadcast.n.02', 'periodical.n.01', 'contest.n.01', 'connection.n.01', 'group.n.01', 'polynomial.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['actinide_series.n.01', 'chain.n.01', 'cordon.n.01', 'course.n.02', 'cycle.n.02', 'electromotive_series.n.01', 'helium_group.n.01', 'hierarchy.n.01', 'lanthanide_series.n.01', 'nexus.n.02', 'progression.n.01', 'rash.n.02', 'sequence.n.01', 'stations.n.01', 'string.n.04', 'succession.n.02', 'wave_train.n.01', 'soap_opera.n.01', 'tetralogy.n.01', 'bimonthly.n.01', 'biweekly.n.01', 'monthly.n.01', 'quarterly.n.01', 'semimonthly.n.01', 'semiweekly.n.01', 'weekly.n.01', 'home_stand.n.01', 'world_series.n.01', 'convergence.n.02', 'divergence.n.03', 'exponential_series.n.01', 'fourier_series.n.01', 'geometric_series.n.01', 'power_series.n.01']
+Member Holonyms: []
+
+
+Rank 62 word pair (president,medal) w/ cosine similarity = 0.123367086 (WS353 rank = 69)
+-----------------------------------------
+Semantic relations for president
+
+Synonyms: ['president', 'President_of_the_United_States', 'United_States_President', 'President', 'Chief_Executive', 'president', 'president', 'chairman', 'chairwoman', 'chair', 'chairperson', 'president', 'prexy', 'President_of_the_United_States', 'President', 'Chief_Executive']
+Antonyms: []
+Hypernyms: ['corporate_executive.n.01', 'head_of_state.n.01', 'head_of_state.n.01', 'presiding_officer.n.01', 'academic_administrator.n.01', 'presidency.n.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['ex-president.n.01', 'kalon_tripa.n.01', 'vice_chairman.n.01']
+Member Holonyms: []
+
+Semantic relations for medal
+
+Synonyms: ['decoration', 'laurel_wreath', 'medal', 'medallion', 'palm', 'ribbon']
+Antonyms: []
+Hypernyms: ['award.n.02']
+Root Hypernyms: ['entity.n.01']
+Hyponyms: ['air_medal.n.01', 'bronze_star_medal.n.01', 'croix_de_guerre.n.01', 'distinguished_conduct_medal.n.01', 'distinguished_flying_cross.n.01', 'distinguished_service_cross.n.01', 'distinguished_service_medal.n.01', 'distinguished_service_order.n.01', 'medaille_militaire.n.01', 'medal_of_honor.n.01', 'navy_cross.n.01', 'oak_leaf_cluster.n.01', 'order_of_the_purple_heart.n.01', 'silver_star_medal.n.01', 'victoria_cross.n.01']
+Member Holonyms: []
+
+
+Rank 63 word pair (street,block) w/ cosine similarity = 0.12060259 (WS353 rank = 19)
+-----------------------------------------
+Semantic relations for street
+
+Synonyms: ['street', 'street', 'street', 'street', 'street']
+Antonyms: []
+Hypernyms: ['thoroughfare.n.01', 'thoroughfare.n.01', 'environment.n.01', 'opportunity.n.01', 'neighborhood.n.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['alley.n.01', 'avenue.n.02', 'cross_street.n.01', 'local_road.n.01', 'main_street.n.01', 'mews.n.01', 'rue.n.04', 'side_street.n.01', 'one-way_street.n.02', 'two-way_street.n.01']
+Member Holonyms: []
+
+Semantic relations for block
+
+Synonyms: ['block', 'block', 'city_block', 'block', 'cube', 'block', 'block', 'block', 'block', 'mental_block', 'pulley', 'pulley-block', 'pulley_block', 'block', 'engine_block', 'cylinder_block', 'block', 'blockage', 'block', 'closure', 'occlusion', 'stop', 'stoppage', 'auction_block', 'block', 'blocking', 'block', 'barricade', 'block', 'blockade', 'stop', 'block_off', 'block_up', 'bar', 'obstruct', 'blockade', 'block', 'hinder', 'stymie', 'stymy', 'embarrass', 'stop', 'halt', 'block', 'kibosh', 'jam', 'block', 'block', 'block', 'obstruct', 'block', 'block', 'stuff', 'lug', 'choke_up', 'block', 'obstruct', 'obturate', 'impede', 'occlude', 'jam', 'block', 'close_up', 'block', 'parry', 'block', 'deflect', 'forget', 'block', 'blank_out', 'draw_a_blank', 'block', 'block', 'freeze', 'block', 'immobilize', 'immobilise']
+Antonyms: ['unstuff', 'free', 'remember', 'unfreeze', 'unblock']
+Hypernyms: ['artifact.n.01', 'area.n.01', 'solid.n.03', 'collection.n.01', 'housing.n.01', 'computer_memory_unit.n.01', 'inability.n.01', 'machine.n.04', 'cast.n.06', 'obstruction.n.01', 'platform.n.01', 'obstruction.n.05', 'obstruct.v.02', 'prevent.v.01', 'prevent.v.01', 'interrupt.v.01', 'operate.v.01', 'anesthetize.v.01', 'hide.v.01', 'emboss.v.01', 'clog.v.01', 'impede.v.01', 'hold.v.10', 'fence.v.03', 'shape.v.03', 'shape.v.03', 'withhold.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'prevent.v.02', 'prevent.v.01', 'prevent.v.01', 'change.v.01', 'control.v.01', 'treat.v.03', 'hide.v.01', 'change.v.02', 'prevent.v.02', 'prevent.v.02', 'hold.v.10', 'contend.v.06', 'forget.v.02', 'change.v.01', 'change.v.01', 'have.v.01']
+Hyponyms: ['anvil.n.01', 'briquette.n.01', 'cake.n.01', 'chock.n.01', 'chopping_block.n.01', 'crosshead.n.02', 'cube.n.05', 'domino.n.04', 'ingot.n.01', 'nog.n.02', 'nut.n.03', 'pad.n.03', 'slab.n.01', 'starting_block.n.01', 'step.n.10', 'swage_block.n.01', 'type.n.06', 'goldbrick.n.03', 'cellblock.n.01', 'ward.n.03', 'bad_block.n.01', "writer's_block.n.01", 'bollock.n.02', 'fairlead.n.01', 'idle_pulley.n.01', 'breechblock.n.01', 'plug.n.01', 'vapor_lock.n.01', 'interference.n.04', 'parry.n.01', 'trap_block.n.01', 'close.v.14', 'shut_off.v.03', 'bottleneck.v.01', 'check.v.10', 'filibuster.v.01', 'hang.v.11', 'stonewall.v.01', 'embargo.v.02', 'stay.v.09', 'barrage_jam.v.01', 'blanket_jam.v.01', 'point_jam.v.01', 'spot_jam.v.01', 'barricade.v.01', 'barricade.v.02', 'barricade.v.03', 'blockade.v.03', 'clog.v.01', 'dam.v.01', 'land_up.v.01', 'screen.v.05', 'suffocate.v.02', 'tie_up.v.03', 'slip.v.10']
+Member Holonyms: []
+
+
+Rank 64 word pair (media,gain) w/ cosine similarity = 0.120387435 (WS353 rank = 16)
+-----------------------------------------
+Semantic relations for media
+
+Synonyms: ['medium', 'medium', 'medium', 'culture_medium', 'medium', 'medium', 'medium', 'medium', 'medium', 'medium', 'spiritualist', 'sensitive', 'medium', 'mass_medium', 'metier', 'medium']
+Antonyms: []
+Hypernyms: ['instrumentality.n.03', 'environment.n.02', 'communication.n.01', 'food.n.01', 'liquid.n.01', 'substance.n.01', 'substance.n.01', 'state.n.02', 'psychic.n.01', 'transmission.n.02', 'occupation.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['album.n.01', 'film.n.02', 'paper.n.04', 'print_media.n.01', 'storage_medium.n.01', 'telecommunication.n.01', 'vehicle.n.02', 'air.n.08', 'ether.n.03', 'agar.n.01', 'megilp.n.01', 'contrast_medium.n.01', 'solvent.n.01', 'broadcast_medium.n.01']
+Member Holonyms: []
+
+Semantic relations for gain
+
+Synonyms: ['addition', 'increase', 'gain', 'profit', 'gain', 'amplification', 'gain', 'gain', 'derive', 'gain', 'acquire', 'win', 'gain', 'profit', 'gain', 'benefit', 'reach', 'make', 'attain', 'hit', 'arrive_at', 'gain', 'gain', 'advance', 'win', 'pull_ahead', 'make_headway', 'get_ahead', 'gain_ground', 'advance', 'gain', 'gain', 'gather', 'gain', 'take_in', 'clear', 'make', 'earn', 'realize', 'realise', 'pull_in', 'bring_in', 'gain', 'put_on']
+Antonyms: ['loss', 'lose', 'fall_back', 'reduce']
+Hypernyms: ['indefinite_quantity.n.01', 'advantage.n.01', 'increase.n.04', 'sum.n.01', 'obtain.v.01', 'get.v.01', 'get.v.01', 'wax.v.02', 'increase.v.01', 'get.v.01', 'change_state.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'get.v.01', 'get.v.01', 'get.v.01', 'reach.v.01', 'gain.v.05', 'change.v.02', 'change.v.02', 'get.v.01', 'change.v.02']
+Hyponyms: ['accretion.n.02', 'account.n.10', 'profitableness.n.02', 'loop_gain.n.01', 'financial_gain.n.01', 'paper_profit.n.01', 'reap.v.02', 'cozen.v.03', 'capitalize.v.01', 'cash_in_on.v.01', 'net.v.01', 'profiteer.v.01', 'pyramid.v.01', 'access.v.02', 'bottom_out.v.01', 'catch_up.v.01', 'culminate.v.04', 'find.v.15', 'get_through.v.03', 'ground.v.06', 'make.v.37', 'scale.v.04', 'summit.v.01', 'top.v.06', 'top_out.v.03', 'score.v.01', 'steal.v.03', 'eke_out.v.03', 'gross.v.01', 'profit.v.02', 'rake_in.v.01', 'rake_off.v.01', 'take_home.v.01', 'yield.v.10', 'pack_on.v.01', 'round.v.07']
+Member Holonyms: []
+
+
+Rank 65 word pair (population,development) w/ cosine similarity = 0.11149005 (WS353 rank = 52)
+-----------------------------------------
+Semantic relations for population
+
+Synonyms: ['population', 'population', 'population', 'universe', 'population', 'population']
+Antonyms: []
+Hypernyms: ['people.n.01', 'group.n.01', 'collection.n.01', 'integer.n.01', 'colonization.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['home_front.n.01', 'overpopulation.n.01', 'subpopulation.n.01']
+Member Holonyms: []
+
+Semantic relations for development
+
+Synonyms: ['development', 'development', 'evolution', 'growth', 'growing', 'maturation', 'development', 'ontogeny', 'ontogenesis', 'development', 'exploitation', 'development', 'development', 'development', 'development', 'developing', 'development']
+Antonyms: ['devolution', 'nondevelopment']
+Hypernyms: ['improvement.n.02', 'process.n.06', 'organic_process.n.01', 'change.n.01', 'use.n.01', 'district.n.01', 'improvement.n.03', 'processing.n.01', 'section.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['advancement.n.03', 'broadening.n.02', 'elaboration.n.05', 'product_development.n.01', 'assibilation.n.01', 'deepening.n.01', 'growth.n.02', 'unfolding.n.01', 'amelogenesis.n.01', 'angiogenesis.n.01', 'apposition.n.02', 'auxesis.n.01', 'blossoming.n.01', 'cenogenesis.n.01', 'cohesion.n.02', 'cultivation.n.04', 'culture.n.04', 'cytogenesis.n.01', 'foliation.n.01', 'fructification.n.01', 'gametogenesis.n.01', 'germination.n.01', 'habit.n.04', 'infructescence.n.01', 'intussusception.n.02', 'juvenescence.n.01', 'life_cycle.n.02', 'masculinization.n.01', 'morphogenesis.n.01', 'myelinization.n.01', 'neurogenesis.n.01', 'palingenesis.n.01', 'proliferation.n.01', 'psychogenesis.n.01', 'psychogenesis.n.02', 'psychomotor_development.n.01', 'psychosexual_development.n.01', 'rooting.n.01', 'suppression.n.01', 'teething.n.01', 'teratogenesis.n.01', 'vegetation.n.02', 'complication.n.04', 'phenomenon.n.02', 'turn.n.04', 'capitalization.n.03', 'commercialization.n.01', 'electrification.n.02', 'land_development.n.01', 'overexploitation.n.01', 'unitization.n.04', 'water_development.n.01', 'housing_development.n.01', 'housing_estate.n.01', 'underdevelopment.n.01', 'underdevelopment.n.02']
+Member Holonyms: []
+
+
+Rank 66 word pair (stock,live) w/ cosine similarity = 0.10289701 (WS353 rank = 53)
+-----------------------------------------
+Semantic relations for stock
+
+Synonyms: ['stock', 'stock', 'inventory', 'stock', 'gunstock', 'stock_certificate', 'stock', 'store', 'stock', 'fund', 'lineage', 'line', 'line_of_descent', 'descent', 'bloodline', 'blood_line', 'blood', 'pedigree', 'ancestry', 'origin', 'parentage', 'stemma', 'stock', 'breed', 'strain', 'stock', 'broth', 'stock', 'stock', 'stock', 'caudex', 'stock', 'stock', 'gillyflower', 'Malcolm_stock', 'stock', 'stock', 'stock', 'neckcloth', 'stock', 'livestock', 'stock', 'farm_animal', 'stock', 'carry', 'stockpile', 'stock', 'stock', 'stock', 'stock', 'buy_in', 'stock_up', 'stock', 'sprout', 'stock', 'banal', 'commonplace', 'hackneyed', 'old-hat', 'shopworn', 'stock', 'threadbare', 'timeworn', 'tired', 'trite', 'well-worn', 'stock', 'standard', 'stock']
+Antonyms: []
+Hypernyms: ['capital.n.01', 'merchandise.n.01', 'handle.n.01', 'support.n.10', 'security.n.04', 'accumulation.n.04', 'genealogy.n.01', 'animal_group.n.01', 'variety.n.03', 'soup.n.01', 'repute.n.01', 'stalk.n.02', 'plant_part.n.01', 'flower.n.01', 'flower.n.01', 'lumber.n.01', 'handle.n.01', 'cravat.n.01', 'placental.n.01', 'have.v.01', 'equip.v.01', 'supply.v.01', 'supply.v.01', 'supply.v.01', 'supply.v.01', 'grow.v.08']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'have.v.01', 'transfer.v.05', 'transfer.v.05', 'transfer.v.05', 'transfer.v.05', 'transfer.v.05', 'change.v.02', 'banal.s.01', 'stock.s.02', 'standard.s.05']
+Hyponyms: ['authorized_shares.n.01', 'common_stock.n.01', 'common_stock_equivalent.n.01', 'control_stock.n.01', 'float.n.02', 'growth_stock.n.01', 'hot_stock.n.01', 'no-par-value_stock.n.01', 'preferred_stock.n.01', 'quarter_stock.n.01', 'treasury_stock.n.01', 'voting_stock.n.01', 'watered_stock.n.01', 'pistol_grip.n.01', 'share.n.02', 'hoard.n.01', 'infrastructure.n.02', 'issue.n.05', 'provision.n.04', 'seed_stock.n.01', 'family.n.04', 'side.n.08', 'bloodstock.n.01', 'pedigree.n.02', 'beef_broth.n.01', 'chicken_broth.n.01', 'liquor.n.03', 'stock_cube.n.01', 'rootstock.n.02', 'brompton_stock.n.01', 'brace.n.08', 'butt.n.01', 'overstock.v.01', 'understock.v.01', 'plant.v.04', 'restock.v.01']
+Member Holonyms: ['species.n.01', 'matthiola.n.01', 'malcolmia.n.01']
+
+Semantic relations for live
+
+Synonyms: ['populate', 'dwell', 'live', 'inhabit', 'live', 'survive', 'last', 'live', 'live_on', 'go', 'endure', 'hold_up', 'hold_out', 'exist', 'survive', 'live', 'subsist', 'be', 'live', 'know', 'experience', 'live', 'live', 'live', 'unrecorded', 'live', 'alive', 'live', 'live', 'live', 'bouncy', 'live', 'lively', 'resilient', 'springy', 'live', 'live', 'live', 'hot', 'live', 'alive', 'live', 'live']
+Antonyms: ['recorded', 'dead', 'dead']
+Hypernyms: ['be.v.03', 'experience.v.01']
+Root Hypernyms: ['be.v.03', 'live.v.02', 'survive.v.01', 'exist.v.02', 'be.v.11', 'change.v.02', 'live.v.07', 'live.a.01', 'live.a.02', 'alive.a.01', 'live.s.04', 'live.s.05', 'bouncy.s.01', 'live.s.07', 'live.s.08', 'live.s.09', 'hot.s.20', 'alive.s.07', 'live.r.01']
+Hyponyms: ['board.v.02', 'camp.v.01', 'cohabit.v.01', 'lodge.v.01', 'neighbor.v.01', 'nest.v.01', 'occupy.v.02', 'overpopulate.v.01', 'people.v.02', 'reside.v.01', 'tenant.v.01', 'bachelor.v.01', 'buccaneer.v.01', 'bushwhack.v.02', 'cash_out.v.01', 'dissipate.v.04', 'eke_out.v.02', 'move.v.14', 'pig.v.01', 'swing.v.09', 'unlive.v.01', 'vegetate.v.01', 'wanton.v.02', 'live_out.v.01', 'perennate.v.01', 'stand_up.v.06', 'breathe.v.02', 'freewheel.v.01', 'relive.v.01', 'taste.v.06']
+Member Holonyms: []
+
+
+Rank 67 word pair (focus,life) w/ cosine similarity = 0.102558866 (WS353 rank = 48)
+-----------------------------------------
+Semantic relations for focus
+
+Synonyms: ['focus', 'focusing', 'focussing', 'focal_point', 'direction', 'centering', 'focus', 'focus', 'focus', 'focal_point', 'nidus', 'stress', 'focus', 'focus', 'focal_point', 'focus', 'concentrate', 'focus', 'center', 'centre', 'pore', 'rivet', 'focus', 'concenter', 'concentre', 'focalize', 'focalise', 'focus', 'focus', 'focalize', 'focalise', 'focus', 'focalize', 'focalise', 'sharpen']
+Antonyms: ['blur', 'blur', 'blur']
+Hypernyms: ['concentration.n.05', 'distinctness.n.01', 'clarity.n.01', 'point.n.02', 'emphasis.n.01', 'point.n.02', 'point.n.02', 'think.v.03', 'sharpen.v.05', 'align.v.01', 'adjust.v.03', 'adjust.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'think.v.03', 'change.v.01', 'change.v.02', 'change.v.02', 'change.v.01']
+Hyponyms: ['particularism.n.01', 'listen.v.02', 'recall.v.05', 'steep.v.01', 'think.v.06', 'zoom_in.v.01', 'refocus.v.01', 'refocus.v.02', 'refocus.v.03']
+Member Holonyms: []
+
+Semantic relations for life
+
+Synonyms: ['life', 'life', 'living', 'life', 'animation', 'life', 'living', 'aliveness', 'life', 'lifetime', 'life-time', 'lifespan', 'life', 'life', 'life', 'liveliness', 'life', 'spirit', 'sprightliness', 'life', 'life', 'biography', 'life', 'life_story', 'life_history', 'life', 'life_sentence', 'life']
+Antonyms: []
+Hypernyms: ['being.n.01', 'experience.n.02', 'being.n.01', 'being.n.01', 'time_period.n.01', 'time_period.n.01', 'time_period.n.01', 'person.n.01', 'animation.n.03', 'living_thing.n.01', 'organic_phenomenon.n.01', 'history.n.02', 'motivation.n.01', 'prison_term.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['ghetto.n.02', 'eternal_life.n.01', 'skin.n.04', 'survival.n.01', 'afterlife.n.01', 'days.n.01', 'airiness.n.03', 'alacrity.n.01', 'breeziness.n.02', 'elan.n.03', 'energy.n.04', 'esprit.n.01', 'exuberance.n.02', 'high-spiritedness.n.01', 'irrepressibility.n.01', 'pep.n.01', 'pertness.n.02', 'wildlife.n.01', 'aerobiosis.n.01', 'biology.n.02', 'autobiography.n.01', 'hagiography.n.01', 'profile.n.03']
+Member Holonyms: []
+
+
+Rank 68 word pair (man,governor) w/ cosine similarity = 0.09332682 (WS353 rank = 6)
+-----------------------------------------
+Semantic relations for man
+
+Synonyms: ['man', 'adult_male', 'serviceman', 'military_man', 'man', 'military_personnel', 'man', 'homo', 'man', 'human_being', 'human', 'man', 'man', 'valet', 'valet_de_chambre', 'gentleman', "gentleman's_gentleman", 'man', 'man', 'Man', 'Isle_of_Man', 'man', 'piece', 'world', 'human_race', 'humanity', 'humankind', 'human_beings', 'humans', 'mankind', 'man', 'man', 'man']
+Antonyms: ['woman', 'civilian', 'woman']
+Hypernyms: ['adult.n.01', 'male.n.02', 'skilled_worker.n.01', 'person.n.01', 'hominid.n.01', 'subordinate.n.01', 'male.n.02', 'body_servant.n.01', 'manservant.n.01', 'lover.n.03', 'male.n.02', 'game_equipment.n.01', 'group.n.01', 'homo.n.02', 'work.v.02', 'staff.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'work.v.02', 'transfer.v.05']
+Hyponyms: ['adonis.n.01', 'babu.n.01', 'bachelor.n.01', 'bey.n.01', 'black_man.n.01', 'boy.n.02', 'boyfriend.n.01', 'bull.n.02', 'dandy.n.01', 'ejaculator.n.01', 'esquire.n.02', 'eunuch.n.01', 'ex-boyfriend.n.01', 'ex-husband.n.01', 'father-figure.n.01', 'father_figure.n.01', 'fellow.n.06', 'galoot.n.01', 'geezer.n.01', 'gentleman.n.01', 'grass_widower.n.01', 'guy.n.01', 'herr.n.01', 'hooray_henry.n.01', 'housefather.n.01', 'hunk.n.01', 'inamorato.n.01', 'iron_man.n.01', 'ironside.n.01', 'middle-aged_man.n.01', 'monsieur.n.01', 'old_boy.n.01', 'old_man.n.01', 'patriarch.n.02', 'peter_pan.n.01', 'ponce.n.01', 'posseman.n.01', 'senhor.n.01', 'shaver.n.01', 'signor.n.01', 'signore.n.01', 'sir.n.01', 'stiff.n.01', 'stud.n.01', 'tarzan.n.01', 'white_man.n.01', 'widower.n.01', 'womanizer.n.01', 'wonder_boy.n.01', 'yellow_man.n.01', 'young_buck.n.01', 'air_force_officer.n.01', 'artilleryman.n.01', 'bluejacket.n.01', 'commando.n.01', 'draftee.n.01', 'enlisted_person.n.01', 'marine.n.01', 'military_officer.n.01', 'noncombatant.n.01', 'occupier.n.02', 'striper.n.01', 'veteran.n.01', 'veteran.n.02', 'volunteer.n.01', 'homo_erectus.n.01', 'homo_habilis.n.01', 'homo_sapiens.n.01', 'homo_soloensis.n.01', 'neandertal_man.n.01', 'rhodesian_man.n.01', 'world.n.08', 'black.n.06', 'checker.n.03', 'chessman.n.01', 'tile.n.03', 'white.n.11', 'crew.v.01']
+Member Holonyms: ['military_unit.n.01', 'genus_homo.n.01']
+
+Semantic relations for governor
+
+Synonyms: ['governor', 'governor', 'regulator']
+Antonyms: []
+Hypernyms: ['politician.n.01', 'control.n.09']
+Root Hypernyms: ['entity.n.01', 'entity.n.01']
+Hyponyms: ['bey.n.02', 'eparch.n.02', 'governor_general.n.01', 'military_governor.n.01', 'nawab.n.01', 'proconsul.n.02', 'satrap.n.01', 'viceroy.n.01', 'flywheel.n.01', 'timer.n.03']
+Member Holonyms: []
+
+
+Rank 69 word pair (stock,life) w/ cosine similarity = 0.09073652 (WS353 rank = 53)
+-----------------------------------------
+Semantic relations for stock
+
+Synonyms: ['stock', 'stock', 'inventory', 'stock', 'gunstock', 'stock_certificate', 'stock', 'store', 'stock', 'fund', 'lineage', 'line', 'line_of_descent', 'descent', 'bloodline', 'blood_line', 'blood', 'pedigree', 'ancestry', 'origin', 'parentage', 'stemma', 'stock', 'breed', 'strain', 'stock', 'broth', 'stock', 'stock', 'stock', 'caudex', 'stock', 'stock', 'gillyflower', 'Malcolm_stock', 'stock', 'stock', 'stock', 'neckcloth', 'stock', 'livestock', 'stock', 'farm_animal', 'stock', 'carry', 'stockpile', 'stock', 'stock', 'stock', 'stock', 'buy_in', 'stock_up', 'stock', 'sprout', 'stock', 'banal', 'commonplace', 'hackneyed', 'old-hat', 'shopworn', 'stock', 'threadbare', 'timeworn', 'tired', 'trite', 'well-worn', 'stock', 'standard', 'stock']
+Antonyms: []
+Hypernyms: ['capital.n.01', 'merchandise.n.01', 'handle.n.01', 'support.n.10', 'security.n.04', 'accumulation.n.04', 'genealogy.n.01', 'animal_group.n.01', 'variety.n.03', 'soup.n.01', 'repute.n.01', 'stalk.n.02', 'plant_part.n.01', 'flower.n.01', 'flower.n.01', 'lumber.n.01', 'handle.n.01', 'cravat.n.01', 'placental.n.01', 'have.v.01', 'equip.v.01', 'supply.v.01', 'supply.v.01', 'supply.v.01', 'supply.v.01', 'grow.v.08']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'have.v.01', 'transfer.v.05', 'transfer.v.05', 'transfer.v.05', 'transfer.v.05', 'transfer.v.05', 'change.v.02', 'banal.s.01', 'stock.s.02', 'standard.s.05']
+Hyponyms: ['authorized_shares.n.01', 'common_stock.n.01', 'common_stock_equivalent.n.01', 'control_stock.n.01', 'float.n.02', 'growth_stock.n.01', 'hot_stock.n.01', 'no-par-value_stock.n.01', 'preferred_stock.n.01', 'quarter_stock.n.01', 'treasury_stock.n.01', 'voting_stock.n.01', 'watered_stock.n.01', 'pistol_grip.n.01', 'share.n.02', 'hoard.n.01', 'infrastructure.n.02', 'issue.n.05', 'provision.n.04', 'seed_stock.n.01', 'family.n.04', 'side.n.08', 'bloodstock.n.01', 'pedigree.n.02', 'beef_broth.n.01', 'chicken_broth.n.01', 'liquor.n.03', 'stock_cube.n.01', 'rootstock.n.02', 'brompton_stock.n.01', 'brace.n.08', 'butt.n.01', 'overstock.v.01', 'understock.v.01', 'plant.v.04', 'restock.v.01']
+Member Holonyms: ['species.n.01', 'matthiola.n.01', 'malcolmia.n.01']
+
+Semantic relations for life
+
+Synonyms: ['life', 'life', 'living', 'life', 'animation', 'life', 'living', 'aliveness', 'life', 'lifetime', 'life-time', 'lifespan', 'life', 'life', 'life', 'liveliness', 'life', 'spirit', 'sprightliness', 'life', 'life', 'biography', 'life', 'life_story', 'life_history', 'life', 'life_sentence', 'life']
+Antonyms: []
+Hypernyms: ['being.n.01', 'experience.n.02', 'being.n.01', 'being.n.01', 'time_period.n.01', 'time_period.n.01', 'time_period.n.01', 'person.n.01', 'animation.n.03', 'living_thing.n.01', 'organic_phenomenon.n.01', 'history.n.02', 'motivation.n.01', 'prison_term.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['ghetto.n.02', 'eternal_life.n.01', 'skin.n.04', 'survival.n.01', 'afterlife.n.01', 'days.n.01', 'airiness.n.03', 'alacrity.n.01', 'breeziness.n.02', 'elan.n.03', 'energy.n.04', 'esprit.n.01', 'exuberance.n.02', 'high-spiritedness.n.01', 'irrepressibility.n.01', 'pep.n.01', 'pertness.n.02', 'wildlife.n.01', 'aerobiosis.n.01', 'biology.n.02', 'autobiography.n.01', 'hagiography.n.01', 'profile.n.03']
+Member Holonyms: []
+
+
+Rank 70 word pair (computer,news) w/ cosine similarity = 0.090144366 (WS353 rank = 43)
+-----------------------------------------
+Semantic relations for computer
+
+Synonyms: ['computer', 'computing_machine', 'computing_device', 'data_processor', 'electronic_computer', 'information_processing_system', 'calculator', 'reckoner', 'figurer', 'estimator', 'computer']
+Antonyms: []
+Hypernyms: ['machine.n.01', 'expert.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01']
+Hyponyms: ['analog_computer.n.01', 'digital_computer.n.01', 'home_computer.n.01', 'node.n.08', 'number_cruncher.n.02', 'pari-mutuel_machine.n.01', 'predictor.n.03', 'server.n.03', 'turing_machine.n.01', 'web_site.n.01', 'adder.n.01', 'number_cruncher.n.01', 'statistician.n.02', 'subtracter.n.01']
+Member Holonyms: []
+
+Semantic relations for news
+
+Synonyms: ['news', 'intelligence', 'tidings', 'word', 'news', 'news_program', 'news_show', 'news', 'news', 'newsworthiness', 'news']
+Antonyms: []
+Hypernyms: ['information.n.01', 'information.n.01', 'broadcast.n.02', 'information.n.01', 'interest.n.03']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['good_word.n.02', 'latest.n.01', 'update.n.01', 'business_news.n.01', 'coverage.n.03', 'hard_news.n.01', 'newscast.n.01', 'report.n.03', 'soft_news.n.01', 'stop_press.n.01', 'television_news.n.01']
+Member Holonyms: []
+
+
+Rank 71 word pair (report,gain) w/ cosine similarity = 0.08427311 (WS353 rank = 57)
+-----------------------------------------
+Semantic relations for report
+
+Synonyms: ['report', 'study', 'written_report', 'report', 'account', 'report', 'news_report', 'story', 'account', 'write_up', 'report', 'report_card', 'report', 'composition', 'paper', 'report', 'theme', 'reputation', 'report', 'report', 'describe', 'account', 'report', 'report', 'report', 'report', 'cover', 'report']
+Antonyms: []
+Hypernyms: ['document.n.01', 'informing.n.02', 'news.n.02', 'noise.n.01', 'information.n.01', 'essay.n.01', 'estimate.n.05', 'inform.v.01', 'announce.v.01', 'announce.v.01', 'inform.v.01', 'inform.v.01', 'complain.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'act.v.01', 'act.v.01', 'act.v.01', 'act.v.01', 'act.v.01', 'complain.v.01']
+Hyponyms: ['assay.n.03', 'blue_book.n.01', 'case_study.n.01', 'green_paper.n.01', 'medical_report.n.01', 'position_paper.n.01', 'progress_report.n.01', 'white_book.n.01', 'anecdote.n.01', 'debriefing.n.01', 'direct_discourse.n.01', 'gossip.n.02', 'indirect_discourse.n.01', 'megillah.n.01', 'narration.n.02', 'summarization.n.01', 'bulletin.n.01', 'dispatch.n.01', 'exclusive.n.01', 'newsletter.n.01', 'urban_legend.n.01', 'term_paper.n.01', 'check_in.v.01', 'check_out.v.02', 'clock_out.v.01']
+Member Holonyms: []
+
+Semantic relations for gain
+
+Synonyms: ['addition', 'increase', 'gain', 'profit', 'gain', 'amplification', 'gain', 'gain', 'derive', 'gain', 'acquire', 'win', 'gain', 'profit', 'gain', 'benefit', 'reach', 'make', 'attain', 'hit', 'arrive_at', 'gain', 'gain', 'advance', 'win', 'pull_ahead', 'make_headway', 'get_ahead', 'gain_ground', 'advance', 'gain', 'gain', 'gather', 'gain', 'take_in', 'clear', 'make', 'earn', 'realize', 'realise', 'pull_in', 'bring_in', 'gain', 'put_on']
+Antonyms: ['loss', 'lose', 'fall_back', 'reduce']
+Hypernyms: ['indefinite_quantity.n.01', 'advantage.n.01', 'increase.n.04', 'sum.n.01', 'obtain.v.01', 'get.v.01', 'get.v.01', 'wax.v.02', 'increase.v.01', 'get.v.01', 'change_state.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'get.v.01', 'get.v.01', 'get.v.01', 'reach.v.01', 'gain.v.05', 'change.v.02', 'change.v.02', 'get.v.01', 'change.v.02']
+Hyponyms: ['accretion.n.02', 'account.n.10', 'profitableness.n.02', 'loop_gain.n.01', 'financial_gain.n.01', 'paper_profit.n.01', 'reap.v.02', 'cozen.v.03', 'capitalize.v.01', 'cash_in_on.v.01', 'net.v.01', 'profiteer.v.01', 'pyramid.v.01', 'access.v.02', 'bottom_out.v.01', 'catch_up.v.01', 'culminate.v.04', 'find.v.15', 'get_through.v.03', 'ground.v.06', 'make.v.37', 'scale.v.04', 'summit.v.01', 'top.v.06', 'top_out.v.03', 'score.v.01', 'steal.v.03', 'eke_out.v.03', 'gross.v.01', 'profit.v.02', 'rake_in.v.01', 'rake_off.v.01', 'take_home.v.01', 'yield.v.10', 'pack_on.v.01', 'round.v.07']
+Member Holonyms: []
+
+
+Rank 72 word pair (peace,insurance) w/ cosine similarity = 0.08399166 (WS353 rank = 38)
+-----------------------------------------
+Semantic relations for peace
+
+Synonyms: ['peace', 'peace', 'peace', 'peacefulness', 'peace_of_mind', 'repose', 'serenity', 'heartsease', 'ataraxis', 'peace', 'public_security', 'peace', 'peace_treaty', 'pacification']
+Antonyms: ['war']
+Hypernyms: ['order.n.03', 'harmony.n.03', 'tranquillity.n.02', 'security.n.01', 'treaty.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['amity.n.02', 'armistice.n.01', 'collective_security.n.01', 'conciliation.n.01', 'pax_romana.n.01']
+Member Holonyms: []
+
+Semantic relations for insurance
+
+Synonyms: ['insurance', 'policy', 'insurance_policy', 'insurance', 'indemnity', 'insurance']
+Antonyms: []
+Hypernyms: ['security.n.02', 'contract.n.01', 'protection.n.04']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['assurance.n.04', 'automobile_insurance.n.01', 'business_interruption_insurance.n.01', 'coinsurance.n.01', 'fire_insurance.n.01', 'group_insurance.n.01', 'hazard_insurance.n.01', 'health_insurance.n.01', 'liability_insurance.n.01', 'life_insurance.n.01', 'malpractice_insurance.n.01', 'reinsurance.n.01', 'self-insurance.n.01', 'term_insurance.n.01', 'floater.n.08']
+Member Holonyms: []
+
+
+Rank 73 word pair (holy,sex) w/ cosine similarity = 0.082144625 (WS353 rank = 82)
+-----------------------------------------
+Semantic relations for holy
+
+Synonyms: ['holy_place', 'sanctum', 'holy', 'holy']
+Antonyms: ['unholy']
+Hypernyms: ['topographic_point.n.01']
+Root Hypernyms: ['entity.n.01', 'holy.a.01']
+Hyponyms: []
+Member Holonyms: []
+
+Semantic relations for sex
+
+Synonyms: ['sexual_activity', 'sexual_practice', 'sex', 'sex_activity', 'sex', 'sex', 'sexual_urge', 'sex', 'gender', 'sexuality', 'arouse', 'sex', 'excite', 'turn_on', 'wind_up', 'sex']
+Antonyms: []
+Hypernyms: ['bodily_process.n.01', 'class.n.01', 'feeling.n.01', 'physiological_property.n.01', 'stimulate.v.03', 'distinguish.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'make.v.03', 'determine.v.03']
+Hyponyms: ['autoeroticism.n.01', 'bestiality.n.02', 'bisexuality.n.02', 'bondage.n.03', 'carnal_abuse.n.01', 'conception.n.02', 'coupling.n.03', 'foreplay.n.01', 'heterosexuality.n.01', 'homosexuality.n.01', 'lechery.n.01', 'outercourse.n.01', 'perversion.n.02', 'pleasure.n.05', 'promiscuity.n.01', 'reproduction.n.05', 'safe_sex.n.01', 'sexual_intercourse.n.01', 'sexual_love.n.02', 'androgyny.n.01', 'femaleness.n.01', 'maleness.n.01', 'tempt.v.05']
+Member Holonyms: []
+
+
+Rank 74 word pair (street,children) w/ cosine similarity = 0.07081811 (WS353 rank = 19)
+-----------------------------------------
+Semantic relations for street
+
+Synonyms: ['street', 'street', 'street', 'street', 'street']
+Antonyms: []
+Hypernyms: ['thoroughfare.n.01', 'thoroughfare.n.01', 'environment.n.01', 'opportunity.n.01', 'neighborhood.n.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['alley.n.01', 'avenue.n.02', 'cross_street.n.01', 'local_road.n.01', 'main_street.n.01', 'mews.n.01', 'rue.n.04', 'side_street.n.01', 'one-way_street.n.02', 'two-way_street.n.01']
+Member Holonyms: []
+
+Semantic relations for children
+
+Synonyms: ['child', 'kid', 'youngster', 'minor', 'shaver', 'nipper', 'small_fry', 'tiddler', 'tike', 'tyke', 'fry', 'nestling', 'child', 'kid', 'child', 'baby', 'child']
+Antonyms: ['parent']
+Hypernyms: ['juvenile.n.01', 'offspring.n.01', 'person.n.01', 'descendant.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['bairn.n.01', 'buster.n.02', 'changeling.n.02', 'child_prodigy.n.01', 'foster-child.n.01', 'imp.n.02', 'kiddy.n.01', 'orphan.n.01', 'peanut.n.03', 'pickaninny.n.01', 'poster_child.n.01', 'preschooler.n.01', 'silly.n.01', 'sprog.n.02', 'toddler.n.01', 'urchin.n.01', 'waif.n.01', 'army_brat.n.01', 'baby.n.01', 'female_offspring.n.01', 'male_offspring.n.01', 'stepchild.n.01']
+Member Holonyms: ['family.n.02']
+
+
+Rank 75 word pair (minority,peace) w/ cosine similarity = 0.05494605 (WS353 rank = 55)
+-----------------------------------------
+Semantic relations for minority
+
+Synonyms: ['minority', 'minority', 'minority', 'nonage']
+Antonyms: ['majority', 'majority']
+Hypernyms: ['social_group.n.01', 'number.n.01', 'age.n.03', 'legal_status.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: []
+Member Holonyms: []
+
+Semantic relations for peace
+
+Synonyms: ['peace', 'peace', 'peace', 'peacefulness', 'peace_of_mind', 'repose', 'serenity', 'heartsease', 'ataraxis', 'peace', 'public_security', 'peace', 'peace_treaty', 'pacification']
+Antonyms: ['war']
+Hypernyms: ['order.n.03', 'harmony.n.03', 'tranquillity.n.02', 'security.n.01', 'treaty.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['amity.n.02', 'armistice.n.01', 'collective_security.n.01', 'conciliation.n.01', 'pax_romana.n.01']
+Member Holonyms: []
+
+
+Rank 76 word pair (cup,article) w/ cosine similarity = 0.04952348 (WS353 rank = 32)
+-----------------------------------------
+Semantic relations for cup
+
+Synonyms: ['cup', 'cup', 'cupful', 'cup', 'cup', 'cup', 'cup', 'cup', 'cup', 'loving_cup', 'cup', 'cup', 'cup', 'transfuse']
+Antonyms: []
+Hypernyms: ['container.n.01', 'crockery.n.01', 'containerful.n.01', 'concave_shape.n.01', 'united_states_liquid_unit.n.01', 'plant_organ.n.01', 'punch.n.02', 'hole.n.02', 'trophy.n.02', 'shape.v.03', 'insert.v.02', 'treat.v.03']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'change.v.01', 'move.v.02', 'treat.v.03']
+Hyponyms: ['beaker.n.02', 'chalice.n.01', 'coffee_cup.n.01', 'dixie_cup.n.01', 'grace_cup.n.01', 'kylix.n.01', 'mustache_cup.n.01', 'scyphus.n.01', 'teacup.n.02', 'cupule.n.01', 'champagne_cup.n.01', 'claret_cup.n.01', 'davis_cup.n.01']
+Member Holonyms: []
+
+Semantic relations for article
+
+Synonyms: ['article', 'article', 'article', 'clause', 'article', 'article']
+Antonyms: []
+Hypernyms: ['nonfiction.n.01', 'piece.n.06', 'artifact.n.01', 'section.n.01', 'determiner.n.02', 'oblige.v.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'act.v.01']
+Hyponyms: ['column.n.05', 'feature.n.04', 'magazine_article.n.01', 'news_article.n.01', 'offprint.n.01', 'paper.n.05', 'think_piece.n.01', 'article_of_commerce.n.01', 'breakable.n.01', 'knickknack.n.01', 'notion.n.04', 'ware.n.01', 'arbitration_clause.n.01', 'deductible.n.02', 'double_indemnity.n.01', 'escalator_clause.n.01', 'joker.n.03', 'reserve_clause.n.01', 'rider.n.02', 'definite_article.n.01', 'indefinite_article.n.01']
+Member Holonyms: []
+
+
+Rank 77 word pair (problem,airport) w/ cosine similarity = 0.03759815 (WS353 rank = 76)
+-----------------------------------------
+Semantic relations for problem
+
+Synonyms: ['problem', 'job', 'problem', 'trouble', 'problem']
+Antonyms: []
+Hypernyms: ['difficulty.n.03', 'question.n.02', 'difficulty.n.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['balance-of-payments_problem.n.01', 'race_problem.n.01', 'case.n.08', 'gordian_knot.n.01', 'homework_problem.n.01', 'koan.n.01', 'pons_asinorum.n.01', 'poser.n.03', 'puzzle.n.01', 'rebus.n.01', 'riddle.n.01', 'can_of_worms.n.01', 'deep_water.n.01', 'growing_pains.n.03', 'hydra.n.03', 'matter.n.04', 'pressure_point.n.02']
+Member Holonyms: []
+
+Semantic relations for airport
+
+Synonyms: ['airport', 'airdrome', 'aerodrome', 'drome']
+Antonyms: []
+Hypernyms: ['airfield.n.01']
+Root Hypernyms: ['entity.n.01']
+Hyponyms: ['heliport.n.01']
+Member Holonyms: []
+
+
+Rank 78 word pair (sugar,approach) w/ cosine similarity = 0.031219436 (WS353 rank = 84)
+-----------------------------------------
+Semantic relations for sugar
+
+Synonyms: ['sugar', 'refined_sugar', 'carbohydrate', 'saccharide', 'sugar', 'boodle', 'bread', 'cabbage', 'clams', 'dinero', 'dough', 'gelt', 'kale', 'lettuce', 'lolly', 'lucre', 'loot', 'moolah', 'pelf', 'scratch', 'shekels', 'simoleons', 'sugar', 'wampum', 'sugar', 'saccharify']
+Antonyms: []
+Hypernyms: ['sweetening.n.01', 'macromolecule.n.01', 'money.n.01', 'sweeten.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'change.v.01']
+Hyponyms: ['beet_sugar.n.02', 'brown_sugar.n.01', 'cane_sugar.n.02', 'caramel.n.02', 'corn_sugar.n.02', 'granulated_sugar.n.01', 'lump_sugar.n.01', 'sugarloaf.n.01', 'beet_sugar.n.01', 'cane_sugar.n.01', 'deoxyribose.n.01', 'invert_sugar.n.01', 'jaggery.n.01', 'maple_sugar.n.01', 'monosaccharide.n.01', 'oligosaccharide.n.01', 'polysaccharide.n.01', 'ribose.n.01', 'wood_sugar.n.01']
+Member Holonyms: []
+
+Semantic relations for approach
+
+Synonyms: ['approach', 'attack', 'plan_of_attack', 'approach', 'approaching', 'coming', 'access', 'approach', 'approach_path', 'approach', 'glide_path', 'glide_slope', 'approach', 'approaching', 'overture', 'advance', 'approach', 'feeler', 'approach', 'approaching', 'coming', 'approach', 'approach', 'approach_shot', 'approach', 'near', 'come_on', 'go_up', 'draw_near', 'draw_close', 'come_near', 'border_on', 'approach', 'set_about', 'go_about', 'approach', 'approach', 'come_near', 'approach']
+Antonyms: []
+Hypernyms: ['conceptualization.n.01', 'motion.n.06', 'way.n.06', 'air_lane.n.01', 'movement.n.03', 'suggestion.n.02', 'timing.n.01', 'similarity.n.01', 'golf_stroke.n.01', 'come.v.01', 'approximate.v.01', 'act.v.01', 'come.v.01', 'address.v.09']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'travel.v.01', 'equal.v.01', 'act.v.01', 'travel.v.01', 'travel.v.01']
+Hyponyms: ['avenue.n.01', 'access.n.06', 'closing.n.03', 'landing_approach.n.01', 'run-up.n.02', 'entrance.n.01', 'chip.n.08', 'pitch.n.07', 'bear_down_on.v.01', 'close.v.12', 'drive_up.v.01', 'edge_in.v.01', 'push.v.06', 'converge.v.02', 'confront.v.02', 'get_on.v.04', 'hit.v.17']
+Member Holonyms: []
+
+
+Rank 79 word pair (governor,interview) w/ cosine similarity = 0.030445408 (WS353 rank = 64)
+-----------------------------------------
+Semantic relations for governor
+
+Synonyms: ['governor', 'governor', 'regulator']
+Antonyms: []
+Hypernyms: ['politician.n.01', 'control.n.09']
+Root Hypernyms: ['entity.n.01', 'entity.n.01']
+Hyponyms: ['bey.n.02', 'eparch.n.02', 'governor_general.n.01', 'military_governor.n.01', 'nawab.n.01', 'proconsul.n.02', 'satrap.n.01', 'viceroy.n.01', 'flywheel.n.01', 'timer.n.03']
+Member Holonyms: []
+
+Semantic relations for interview
+
+Synonyms: ['interview', 'consultation', 'audience', 'interview', 'interview', 'question', 'interview', 'interview']
+Antonyms: []
+Hypernyms: ['interrogation.n.03', 'conference.n.03', 'converse.v.01', 'converse.v.01', 'converse.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'act.v.01', 'act.v.01', 'act.v.01']
+Hyponyms: ['job_interview.n.01', 'telephone_interview.n.01']
+Member Holonyms: []
+
+
+Rank 80 word pair (peace,atmosphere) w/ cosine similarity = 0.026177628 (WS353 rank = 38)
+-----------------------------------------
+Semantic relations for peace
+
+Synonyms: ['peace', 'peace', 'peace', 'peacefulness', 'peace_of_mind', 'repose', 'serenity', 'heartsease', 'ataraxis', 'peace', 'public_security', 'peace', 'peace_treaty', 'pacification']
+Antonyms: ['war']
+Hypernyms: ['order.n.03', 'harmony.n.03', 'tranquillity.n.02', 'security.n.01', 'treaty.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['amity.n.02', 'armistice.n.01', 'collective_security.n.01', 'conciliation.n.01', 'pax_romana.n.01']
+Member Holonyms: []
+
+Semantic relations for atmosphere
+
+Synonyms: ['atmosphere', 'ambiance', 'ambience', 'standard_atmosphere', 'atmosphere', 'atm', 'standard_pressure', 'atmosphere', 'air', 'atmosphere', 'atmospheric_state', 'atmosphere', 'air', 'aura', 'atmosphere']
+Antonyms: []
+Hypernyms: ['condition.n.01', 'pressure_unit.n.01', 'region.n.01', 'weather.n.01', 'gas.n.02', 'quality.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['genius_loci.n.01', 'gloom.n.03', 'miasma.n.01', 'spirit.n.02', 'stp.n.01', 'airspace.n.02', 'air_mass.n.01', 'anticyclone.n.01', 'cyclone.n.01', 'fog.n.02', 'sky.n.01', 'mystique.n.01', 'note.n.05', 'vibration.n.04']
+Member Holonyms: []
+
+
+Rank 81 word pair (money,operation) w/ cosine similarity = 0.02379053 (WS353 rank = 0)
+-----------------------------------------
+Semantic relations for money
+
+Synonyms: ['money', 'money', 'money']
+Antonyms: []
+Hypernyms: ['medium_of_exchange.n.01', 'wealth.n.04', 'currency.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['appropriation.n.01', 'boodle.n.01', 'fund.n.01', 'shinplaster.n.01', 'subsidization.n.01', 'token_money.n.01', 'pile.n.03', 'sterling.n.01']
+Member Holonyms: []
+
+Semantic relations for operation
+
+Synonyms: ['operation', 'operation', 'operation', 'operation', 'operation', 'military_operation', 'operation', 'surgery', 'surgical_operation', 'surgical_procedure', 'surgical_process', 'operation', 'procedure', 'operation', 'functioning', 'performance', 'process', 'cognitive_process', 'mental_process', 'operation', 'cognitive_operation', 'mathematical_process', 'mathematical_operation', 'operation', 'operation']
+Antonyms: []
+Hypernyms: ['action.n.02', 'business_activity.n.01', 'activity.n.01', 'data_processing.n.01', 'activity.n.01', 'medical_procedure.n.01', 'work.n.01', 'process.n.06', 'cognition.n.01', 'calculation.n.01', 'activity.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['commission.n.04', 'idle.n.01', 'running.n.03', 'rescue_operation.n.01', 'undercover_operation.n.01', 'access.n.05', 'asynchronous_operation.n.01', 'auxiliary_operation.n.01', 'boolean_operation.n.01', 'computer_operation.n.01', 'concurrent_operation.n.01', 'control_operation.n.01', 'dyadic_operation.n.01', 'fixed-cycle_operation.n.01', 'logic_operation.n.01', 'monadic_operation.n.01', 'multiplex_operation.n.01', 'parallel_operation.n.01', 'printing_operation.n.01', 'search.n.03', 'serial_operation.n.01', 'sort.n.04', 'synchronous_operation.n.01', 'threshold_operation.n.01', 'amphibious_operation.n.01', 'attack.n.01', 'campaign.n.03', 'combined_operation.n.01', 'covert_operation.n.01', 'information_gathering.n.01', 'maneuver.n.01', 'mission.n.02', 'naval_campaign.n.01', 'offense.n.05', 'peacekeeping.n.01', 'psychological_operation.n.01', 'support.n.04', 'ablation.n.01', 'amputation.n.02', 'angioplasty.n.01', 'arthroplasty.n.01', 'arthroscopy.n.01', 'brain_surgery.n.01', 'castration.n.02', 'catheterization.n.01', 'cautery.n.02', 'chemosurgery.n.01', 'craniotomy.n.01', 'cryosurgery.n.01', 'curettage.n.01', 'debridement.n.01', 'decortication.n.01', 'dilation_and_curettage.n.01', 'electrosurgery.n.01', 'enterostomy.n.01', 'enucleation.n.01', 'evisceration.n.01', 'exenteration.n.01', 'eye_operation.n.01', 'fenestration.n.02', 'gastrectomy.n.01', 'gastroenterostomy.n.01', 'gastrostomy.n.01', 'heart_surgery.n.01', 'hemorrhoidectomy.n.01', 'hysterotomy.n.01', 'implantation.n.03', 'intestinal_bypass.n.01', 'jejunostomy.n.01', 'major_surgery.n.01', 'microsurgery.n.01', 'minor_surgery.n.01', 'myotomy.n.01', 'myringectomy.n.01', 'myringoplasty.n.01', 'myringotomy.n.01', 'neurosurgery.n.01', 'orchiopexy.n.01', 'osteotomy.n.01', 'ostomy.n.01', 'palatopharyngoplasty.n.01', 'phlebectomy.n.01', 'photocoagulation.n.01', 'plastic_surgery.n.01', 'polypectomy.n.01', 'resection.n.01', 'rhinotomy.n.01', 'rhizotomy.n.01', 'sex-change_operation.n.01', "shirodkar's_operation.n.01", 'sterilization.n.01', 'strabotomy.n.01', 'taxis.n.02', 'tracheostomy.n.01', 'transplant.n.02', 'trephination.n.01', 'tympanoplasty.n.01', 'uranoplasty.n.01', 'vasovasostomy.n.01', 'vivisection.n.01', 'wrong-site_surgery.n.01', 'basic_cognitive_process.n.01', 'higher_cognitive_process.n.01', 'arithmetic_operation.n.01', 'combination.n.06', 'construction.n.05', 'differentiation.n.02', 'exponentiation.n.01', 'integration.n.03', 'matrix_operation.n.01', 'maximization.n.01', 'permutation.n.02', 'relaxation.n.06']
+Member Holonyms: []
+
+
+Rank 82 word pair (line,insurance) w/ cosine similarity = 0.018339228 (WS353 rank = 72)
+-----------------------------------------
+Semantic relations for line
+
+Synonyms: ['line', 'line', 'line', 'line', 'line', 'line', 'line', 'argumentation', 'logical_argument', 'argument', 'line_of_reasoning', 'line', 'cable', 'line', 'transmission_line', 'course', 'line', 'line', 'wrinkle', 'furrow', 'crease', 'crinkle', 'seam', 'line', 'pipeline', 'line', 'line', 'railway_line', 'rail_line', 'telephone_line', 'phone_line', 'telephone_circuit', 'subscriber_line', 'line', 'line', 'lineage', 'line', 'line_of_descent', 'descent', 'bloodline', 'blood_line', 'blood', 'pedigree', 'ancestry', 'origin', 'parentage', 'stemma', 'stock', 'line', 'occupation', 'business', 'job', 'line_of_work', 'line', 'line', 'channel', 'communication_channel', 'line', 'line', 'product_line', 'line_of_products', 'line_of_merchandise', 'business_line', 'line_of_business', 'line', 'agate_line', 'line', 'credit_line', 'line_of_credit', 'bank_line', 'line', 'personal_credit_line', 'personal_line_of_credit', 'tune', 'melody', 'air', 'strain', 'melodic_line', 'line', 'melodic_phrase', 'line', 'note', 'short_letter', 'line', 'billet', 'line', 'dividing_line', 'demarcation', 'contrast', 'production_line', 'assembly_line', 'line', 'line', 'run_along', 'line', 'trace', 'draw', 'line', 'describe', 'delineate', 'line', 'line', 'line']
+Antonyms: []
+Hypernyms: ['formation.n.01', 'mark.n.04', 'formation.n.01', 'shape.n.02', 'text.n.01', 'electromagnetic_radiation.n.01', 'military_position.n.01', 'reasoning.n.01', 'conductor.n.04', 'series.n.01', 'location.n.01', 'depression.n.08', 'pipe.n.02', 'road.n.01', 'connection.n.03', 'conformity.n.02', 'genealogy.n.01', 'artifact.n.01', 'activity.n.01', 'mark.n.04', 'communication.n.01', 'merchandise.n.01', 'carrier.n.05', 'area_unit.n.01', 'credit.n.02', 'music.n.01', 'persuasion.n.01', 'personal_letter.n.01', 'differentiation.n.01', 'mechanical_system.n.01', 'lie.v.01', 'cover.v.01', 'mark.v.05', 'score.v.02', 'fill.v.01', 'reinforce.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'be.v.03', 'cover.v.01', 'change.v.01', 'move.v.02', 'change.v.01', 'change.v.01']
+Hyponyms: ['chorus.n.04', 'diagonal.n.03', 'linemen.n.01', 'lineup.n.02', 'rank.n.01', 'rivet_line.n.01', 'row.n.01', 'ascender.n.03', 'bar_line.n.01', 'cross_hair.n.01', 'descender.n.03', 'dotted_line.n.01', 'graduation.n.03', 'guideline.n.01', 'hairline.n.01', 'isometric_line.n.01', 'ledger_line.n.01', 'serif.n.01', 'shaft.n.01', 'spectrum_line.n.01', 'squiggle.n.01', 'staff_line.n.01', 'trend_line.n.01', 'conga_line.n.01', 'diagonal.n.03', 'file.n.02', 'line_of_march.n.02', 'line_of_succession.n.01', 'picket_line.n.01', 'queue.n.01', 'trap_line.n.01', 'boundary.n.02', 'centerline.n.01', 'curve.n.01', 'curve.n.02', 'geodesic.n.01', 'perimeter.n.02', 'straight_line.n.01', "actor's_line.n.01", 'bottom_line.n.01', 'by-line.n.01', 'dateline.n.02', 'heading.n.01', 'line_of_poetry.n.01', 'opening_line.n.01', 'orphan.n.03', 'punch_line.n.01', 'sound_bite.n.01', 'verse.n.03', 'battle_line.n.01', 'battlefront.n.01', 'firing_line.n.01', 'line_of_battle.n.01', 'casuistry.n.01', 'line_of_inquiry.n.01', 'policy.n.02', 'coaxial_cable.n.01', 'electrical_cable.n.01', 'fiber_optic_cable.n.01', 'power_line.n.01', 'printer_cable.n.01', 'stream.n.02', 'aclinic_line.n.01', 'agonic_line.n.01', 'axis.n.01', 'crest.n.01', 'danger_line.n.01', 'fault_line.n.01', 'flight_line.n.01', 'great_circle.n.01', 'hemline.n.01', 'hipline.n.01', 'hipline.n.02', 'horizon.n.01', 'isogonic_line.n.01', 'isogram.n.01', 'latitude.n.03', 'line_of_force.n.01', 'line_of_sight.n.01', 'lunar_latitude.n.01', 'part.n.10', 'path.n.03', 'path.n.04', 'quadrant.n.01', 'rhumb_line.n.01', 'side.n.07', 'snow_line.n.01', 'timber_line.n.01', 'water_line.n.02', 'waterline.n.01', 'watershed.n.01', "crow's_foot.n.01", 'dermatoglyphic.n.01', 'frown_line.n.01', 'line_of_fate.n.01', 'line_of_heart.n.01', 'line_of_life.n.01', 'gas_line.n.02', 'oil_pipeline.n.01', 'branch_line.n.01', 'trunk_line.n.01', 'digital_subscriber_line.n.01', 'hot_line.n.01', 'land_line.n.01', 'party_line.n.02', 'private_line.n.01', 'toll_line.n.01', 'trunk_line.n.02', 'wats.n.01', 'family.n.04', 'side.n.08', 'becket.n.02', 'cord.n.01', 'lanyard.n.03', 'lifeline.n.03', 'lifeline.n.04', 'mooring.n.02', 'painter.n.03', 'ratline.n.01', 'rope.n.01', 'sheet.n.07', 'shroud.n.01', 'strand.n.02', 'towline.n.01', 'trace.n.05', 'accountancy.n.01', 'appointment.n.05', 'career.n.01', 'catering.n.01', 'confectionery.n.03', 'employment.n.02', 'farming.n.02', 'game.n.10', 'metier.n.02', 'photography.n.03', 'position.n.06', 'profession.n.02', 'sport.n.02', 'trade.n.02', 'treadmill.n.03', 'balkline.n.01', 'baseline.n.03', 'finishing_line.n.01', 'foul_line.n.01', 'foul_line.n.02', 'foul_line.n.03', 'goal_line.n.01', 'red_line.n.01', 'scrimmage_line.n.01', 'service_line.n.01', 'sideline.n.01', 'start.n.06', 'yard_line.n.01', 'back_channel.n.01', 'lens.n.03', 'liaison.n.02', 'spiel.n.01', 'sideline.n.02', 'airline.n.02', 'railway.n.01', 'steamship_company.n.01', 'transit_line.n.01', 'consumer_credit.n.01', 'flourish.n.05', 'glissando.n.01', 'leitmotiv.n.01', 'part.n.11', 'roulade.n.02', 'signature.n.03', 'theme.n.03', 'theme_song.n.02', 'excuse.n.02', 'rubicon.n.02', 'rim.v.01', 'babbitt.v.01', 'crib.v.03', 'face.v.08', 'reline.v.01', 'circumscribe.v.01', 'circumscribe.v.03', 'construct.v.03', 'inscribe.v.03', 'write.v.07', 'crisscross.v.02', 'hatch.v.04', 'reline.v.02']
+Member Holonyms: []
+
+Semantic relations for insurance
+
+Synonyms: ['insurance', 'policy', 'insurance_policy', 'insurance', 'indemnity', 'insurance']
+Antonyms: []
+Hypernyms: ['security.n.02', 'contract.n.01', 'protection.n.04']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['assurance.n.04', 'automobile_insurance.n.01', 'business_interruption_insurance.n.01', 'coinsurance.n.01', 'fire_insurance.n.01', 'group_insurance.n.01', 'hazard_insurance.n.01', 'health_insurance.n.01', 'liability_insurance.n.01', 'life_insurance.n.01', 'malpractice_insurance.n.01', 'reinsurance.n.01', 'self-insurance.n.01', 'term_insurance.n.01', 'floater.n.08']
+Member Holonyms: []
+
+
+Rank 83 word pair (music,project) w/ cosine similarity = 0.008927969 (WS353 rank = 58)
+-----------------------------------------
+Semantic relations for music
+
+Synonyms: ['music', 'music', 'euphony', 'music', 'music', 'music', 'medicine']
+Antonyms: []
+Hypernyms: ['auditory_communication.n.01', 'sound.n.02', 'activity.n.01', 'sound.n.02', 'punishment.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['antiphony.n.01', 'bach.n.02', 'ballet.n.02', 'beethoven.n.02', 'brahms.n.02', 'chopin.n.01', 'dance_music.n.02', 'gilbert_and_sullivan.n.01', 'handel.n.02', 'harmony.n.02', 'haydn.n.02', 'instrumental_music.n.01', 'monophony.n.01', 'mozart.n.02', 'music_genre.n.01', 'musical_composition.n.01', 'overture.n.01', 'part_music.n.01', 'pizzicato.n.01', 'polyphony.n.01', 'polytonality.n.01', 'popularism.n.01', 'prelude.n.02', 'refrain.n.01', 'section.n.01', 'serialism.n.01', 'stravinsky.n.02', 'syncopation.n.03', "ta'ziyeh.n.01", 'tune.n.01', 'vocal_music.n.01', 'wagner.n.03', 'music_of_the_spheres.n.01', 'bell_ringing.n.03', 'instrumental_music.n.02', 'intonation.n.04', 'percussion.n.01', 'vocal_music.n.02', 'whistling.n.02', 'piano_music.n.02']
+Member Holonyms: []
+
+Semantic relations for project
+
+Synonyms: ['undertaking', 'project', 'task', 'labor', 'project', 'projection', 'project', 'stick_out', 'protrude', 'jut_out', 'jut', 'project', 'project', 'project', 'project', 'project', 'plan', 'project', 'contrive', 'design', 'project', 'propose', 'visualize', 'visualise', 'envision', 'project', 'fancy', 'see', 'figure', 'picture', 'image', 'project', 'cast', 'contrive', 'throw', 'project', 'send_off', 'project', 'externalize', 'externalise']
+Antonyms: []
+Hypernyms: ['work.n.01', 'plan.n.01', 'communicate.v.02', 'transmit.v.04', 'show.v.04', 'cause_to_be_perceived.v.01', 'draw.v.06', 'create_by_mental_act.v.01', 'plan.v.02', 'imagine.v.01', 'send.v.01', 'propel.v.01', 'impute.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'act.v.01', 'stick_out.v.01', 'move.v.02', 'show.v.04', 'cause_to_be_perceived.v.01', 'make.v.03', 'make.v.03', 'think.v.03', 'make.v.03', 'move.v.02', 'move.v.02', 'think.v.03']
+Hyponyms: ['adventure.n.01', 'assignment.n.05', 'baby.n.07', 'cinch.n.01', 'enterprise.n.01', 'labor_of_love.n.01', 'marathon.n.01', 'no-brainer.n.01', 'proposition.n.05', 'tall_order.n.01', 'venture.n.01', 'moneymaker.n.02', 'bulge.v.02', 'cantilever.v.01', 'overhang.v.01', 'spear.v.02', 'thrust.v.07', 'silhouette.v.01', 'concert.v.01', 'map.v.04', 'plot.v.04', 'introduce.v.08', 'offer.v.04', 'shoot.v.05']
+Member Holonyms: []
+
+
+Rank 84 word pair (possibility,girl) w/ cosine similarity = -0.020236848 (WS353 rank = 78)
+-----------------------------------------
+Semantic relations for possibility
+
+Synonyms: ['possibility', 'possibility', 'possibleness', 'hypothesis', 'possibility', 'theory', 'possibility', 'possible_action', 'opening']
+Antonyms: ['impossibility']
+Hypernyms: ['expectation.n.01', 'being.n.01', 'concept.n.01', 'option.n.02']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['achievability.n.01', 'conceivableness.n.01', 'opportunity.n.01', 'potential.n.01', 'assumption.n.02', 'gemmule.n.01', 'historicism.n.01', 'hypothetical.n.01', 'model.n.01', 'speculation.n.02', 'possible.n.01']
+Member Holonyms: []
+
+Semantic relations for girl
+
+Synonyms: ['girl', 'miss', 'missy', 'young_lady', 'young_woman', 'fille', 'female_child', 'girl', 'little_girl', 'daughter', 'girl', 'girlfriend', 'girl', 'lady_friend', 'girl']
+Antonyms: ['male_child', 'boy', 'son', 'boy']
+Hypernyms: ['woman.n.01', 'female.n.02', 'female_offspring.n.01', 'lover.n.01', 'woman.n.01', 'woman.n.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01']
+Hyponyms: ['baby.n.05', 'belle.n.01', 'bimbo.n.01', 'chachka.n.01', 'chit.n.01', 'colleen.n.01', 'dame.n.01', 'flapper.n.01', 'gal.n.03', 'gamine.n.02', 'gibson_girl.n.01', 'lass.n.01', 'maid.n.02', 'may_queen.n.01', 'mill-girl.n.01', 'party_girl.n.01', 'peri.n.01', 'ring_girl.n.01', 'rosebud.n.02', 'sex_kitten.n.01', 'shop_girl.n.01', 'soubrette.n.01', 'sweater_girl.n.01', 'tomboy.n.01', 'valley_girl.n.01', 'working_girl.n.01', 'campfire_girl.n.01', 'farm_girl.n.01', 'flower_girl.n.02', 'moppet.n.01', 'schoolgirl.n.01', 'scout.n.02', "mother's_daughter.n.01"]
+Member Holonyms: []
+
+
+Rank 85 word pair (cup,object) w/ cosine similarity = -0.017721381 (WS353 rank = 32)
+-----------------------------------------
+Semantic relations for cup
+
+Synonyms: ['cup', 'cup', 'cupful', 'cup', 'cup', 'cup', 'cup', 'cup', 'cup', 'loving_cup', 'cup', 'cup', 'cup', 'transfuse']
+Antonyms: []
+Hypernyms: ['container.n.01', 'crockery.n.01', 'containerful.n.01', 'concave_shape.n.01', 'united_states_liquid_unit.n.01', 'plant_organ.n.01', 'punch.n.02', 'hole.n.02', 'trophy.n.02', 'shape.v.03', 'insert.v.02', 'treat.v.03']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'change.v.01', 'move.v.02', 'treat.v.03']
+Hyponyms: ['beaker.n.02', 'chalice.n.01', 'coffee_cup.n.01', 'dixie_cup.n.01', 'grace_cup.n.01', 'kylix.n.01', 'mustache_cup.n.01', 'scyphus.n.01', 'teacup.n.02', 'cupule.n.01', 'champagne_cup.n.01', 'claret_cup.n.01', 'davis_cup.n.01']
+Member Holonyms: []
+
+Semantic relations for object
+
+Synonyms: ['object', 'physical_object', 'aim', 'object', 'objective', 'target', 'object', 'object', 'object', 'object', 'object']
+Antonyms: []
+Hypernyms: ['physical_entity.n.01', 'goal.n.01', 'constituent.n.04', 'content.n.05', 'computer_science.n.01', 'disapprove.v.02', 'be.v.01']
+Root Hypernyms: ['entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'entity.n.01', 'think.v.03', 'be.v.01']
+Hyponyms: ['catch.n.04', 'charm.n.03', 'commemorative.n.01', 'curio.n.01', 'discard.n.01', 'draw.n.04', 'film.n.04', 'finding.n.03', 'floater.n.07', 'fomite.n.01', 'geological_formation.n.01', 'growth.n.07', 'hail.n.02', 'head.n.17', 'hoodoo.n.04', 'ice.n.02', 'je_ne_sais_quoi.n.01', 'keepsake.n.01', 'land.n.02', 'land.n.04', 'location.n.01', 'makeweight.n.01', 'moon.n.02', 'neighbor.n.02', 'paring.n.02', 'part.n.02', 'property.n.05', 'remains.n.01', 'ribbon.n.01', 'shiner.n.02', 'snake.n.05', 'stuff.n.02', 'triviality.n.03', 'vagabond.n.01', 'wall.n.02', 'web.n.01', 'whole.n.02', 'business.n.05', 'grail.n.01', 'point.n.07', 'thing.n.10', 'direct_object.n.01', 'indirect_object.n.01', 'prepositional_object.n.01', 'retained_object.n.01', 'antipathy.n.02', 'bugbear.n.02', 'center.n.06', 'execration.n.03', 'hallucination.n.03', 'infatuation.n.03', 'love.n.02', 'cavil.v.01', 'challenge.v.04', 'demur.v.01', 'mind.v.01', 'raise_hell.v.01', 'remonstrate.v.01']
+Member Holonyms: []
+
+

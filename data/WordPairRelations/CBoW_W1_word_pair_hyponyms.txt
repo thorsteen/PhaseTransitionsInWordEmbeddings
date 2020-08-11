@@ -1,0 +1,935 @@
+Rank 1 word pair (football,basketball) w/ cosine similarity = 0.7563192 (WS353 rank = 20)
+-----------------------------------------
+
+Synonyms of football: ['football', 'football_game', 'football']
+Hypernyms of football: ['American_football', 'American_football_game', 'association_football', 'professional_football', 'rugby', 'rugby_football', 'rugger', 'soccer']
+
+Synonyms of basketball: ['basketball', 'basketball_game', 'hoops', 'basketball']
+Hypernyms of basketball: ['professional_basketball']
+
+
+
+Rank 2 word pair (physics,chemistry) w/ cosine similarity = 0.69892704 (WS353 rank = 17)
+-----------------------------------------
+
+Synonyms of physics: ['physics', 'natural_philosophy', 'physics', 'physical_science', 'purgative', 'cathartic', 'physic', 'aperient']
+Hypernyms of physics: ['aeronautics', 'astronautics', 'astronomy', 'atomic_physics', 'biophysics', 'cryogenics', 'cryogeny', 'crystallography', 'electromagnetics', 'electromagnetism', 'electronics', 'electrostatics', 'high-energy_physics', 'high_energy_physics', 'mechanics', 'nuclear_physics', 'nucleonics', 'optics', 'particle_physics', 'plasma_physics', 'quantum_physics', 'rheology', 'solid-state_physics', 'statistical_mechanics', 'thermodynamics', 'uranology']
+
+Synonyms of chemistry: ['chemistry', 'chemical_science', 'chemistry', 'chemistry', 'interpersonal_chemistry', 'alchemy']
+Hypernyms of chemistry: ['chemoimmunology', 'electrochemistry', 'femtochemistry', 'geochemistry', 'immunochemistry', 'inorganic_chemistry', 'nuclear_chemistry', 'organic_chemistry', 'photochemistry', 'physical_chemistry', 'radiochemistry', 'surface_chemistry', 'thermochemistry']
+
+
+
+Rank 3 word pair (television,radio) w/ cosine similarity = 0.59561396 (WS353 rank = 22)
+-----------------------------------------
+
+Synonyms of television: ['television', 'telecasting', 'TV', 'video', 'television', 'television_system', 'television_receiver', 'television', 'television_set', 'tv', 'tv_set', 'idiot_box', 'boob_tube', 'telly', 'goggle_box']
+Hypernyms of television: ['HDTV', 'cable', 'cable_television', 'high-definition_television']
+
+Synonyms of radio: ['radio', 'radiocommunication', 'wireless', 'radio_receiver', 'receiving_set', 'radio_set', 'radio', 'tuner', 'wireless', 'radio', 'wireless', 'radio', 'radio']
+Hypernyms of radio: []
+
+
+
+Rank 4 word pair (rock,jazz) w/ cosine similarity = 0.5798768 (WS353 rank = 14)
+-----------------------------------------
+
+Synonyms of rock: ['rock', 'stone', 'rock', 'stone', 'Rock', 'John_Rock', 'rock', 'rock_candy', 'rock', "rock_'n'_roll", "rock'n'roll", 'rock-and-roll', 'rock_and_roll', 'rock', 'rock_music', 'rock', 'careen', 'sway', 'tilt', 'rock', 'sway', 'shake', 'rock', 'sway']
+Hypernyms of rock: ['achondrite', 'bedrock', 'boulder', 'bowlder', 'calculus', 'chondrite', 'clastic_rock', 'concretion', 'crystal', 'crystallization', 'intrusion', 'outcrop', 'outcropping', 'pebble', 'petrifaction', 'rock_outcrop', 'sill', 'stepping_stone', 'tor', 'wall_rock', 'whin', 'whinstone', 'xenolith']
+
+Synonyms of jazz: ['wind', 'malarkey', 'malarky', 'idle_words', 'jazz', 'nothingness', 'jazz', 'jazz', 'jazz', 'sleep_together', 'roll_in_the_hay', 'love', 'make_out', 'make_love', 'sleep_with', 'get_laid', 'have_sex', 'know', 'do_it', 'be_intimate', 'have_intercourse', 'have_it_away', 'have_it_off', 'screw', 'fuck', 'jazz', 'eff', 'hump', 'lie_with', 'bed', 'have_a_go_at_it', 'bang', 'get_it_on', 'bonk']
+Hypernyms of jazz: []
+
+
+
+Rank 5 word pair (liquid,water) w/ cosine similarity = 0.55211407 (WS353 rank = 9)
+-----------------------------------------
+
+Synonyms of liquid: ['liquid', 'liquid', 'liquidness', 'liquidity', 'liquid_state', 'liquid', 'liquid', 'liquid', 'liquid', 'swimming', 'liquid', 'limpid', 'melted', 'liquid', 'liquified', 'liquid', 'fluent', 'fluid', 'liquid', 'smooth', 'fluid', 'liquid']
+Hypernyms of liquid: ['alcohol', 'ammonia', 'ammonia_water', 'ammonium_hydroxide', 'antifreeze', 'beverage', 'distillate', 'distillation', 'drink', 'drinkable', 'grume', 'ink', 'liquor', 'medium', 'potable', 'pyroligneous_acid', 'sheep_dip', 'snake_oil', 'supernatant', 'water', 'wood_vinegar']
+
+Synonyms of water: ['water', 'H2O', 'body_of_water', 'water', 'water', 'water_system', 'water_supply', 'water', 'urine', 'piss', 'pee', 'piddle', 'weewee', 'water', 'water', 'water', 'irrigate', 'water', 'water', 'water']
+Hypernyms of water: ['bath_water', 'bilge', 'bilge_water', 'brine', 'dishwater', 'distilled_water', 'fresh_water', 'freshwater', 'ground_water', 'hard_water', 'holy_water', 'limewater', 'meltwater', 'saltwater', 'seawater', 'slush', 'soft_water', 'spring_water', 'tap_water', 'water_of_crystallisation', 'water_of_crystallization', 'water_of_hydration', 'well_water']
+
+
+
+Rank 6 word pair (man,woman) w/ cosine similarity = 0.5462458 (WS353 rank = 6)
+-----------------------------------------
+
+Synonyms of man: ['man', 'adult_male', 'serviceman', 'military_man', 'man', 'military_personnel', 'man', 'homo', 'man', 'human_being', 'human', 'man', 'man', 'valet', 'valet_de_chambre', 'gentleman', "gentleman's_gentleman", 'man', 'man', 'Man', 'Isle_of_Man', 'man', 'piece', 'world', 'human_race', 'humanity', 'humankind', 'human_beings', 'humans', 'mankind', 'man', 'man', 'man']
+Hypernyms of man: ['Black_man', 'Esq', 'Esquire', 'Herr', 'Hooray_Henry', 'Methuselah', 'Monsieur', 'Peter_Pan', 'Samson', 'Senhor', 'Tarzan', 'adonis', 'baboo', 'babu', 'bachelor', 'beau', 'beau', 'bey', 'boy', 'boyfriend', 'bozo', 'bruiser', 'bull', 'buster', 'castrate', 'cat', 'clotheshorse', 'dandy', 'divorced_man', 'dude', 'dude', 'ejaculator', 'eunuch', 'ex', 'ex-boyfriend', 'ex-husband', 'fashion_plate', 'father-figure', 'father_figure', 'father_surrogate', 'fellow', 'fellow', 'fop', 'gallant', 'galoot', 'geezer', 'gentleman', 'golden_boy', 'grass_widower', 'graybeard', 'greybeard', 'guy', 'he-man', 'hombre', 'housefather', 'hunk', 'inamorato', 'iron_man', 'ironman', 'ironside', 'macho-man', 'middle-aged_man', 'old_boy', 'old_man', 'old_man', 'paterfamilias', 'patriarch', 'philanderer', 'ponce', 'posseman', 'shaver', 'sheik', 'signior', 'signor', 'signore', 'sir', 'stiff', 'strapper', 'stud', 'swain', 'swell', 'unmarried_man', 'white_man', 'widower', 'widowman', 'womaniser', 'womanizer', 'wonder_boy', 'yellow_man', 'young_buck', 'young_man', 'young_man']
+
+Synonyms of woman: ['woman', 'adult_female', 'woman', 'charwoman', 'char', 'cleaning_woman', 'cleaning_lady', 'woman', 'womanhood', 'woman', 'fair_sex']
+Hypernyms of woman: ['B-girl', 'Black_woman', 'Cinderella', 'Delilah', 'Wac', 'Wave', 'amazon', 'bachelor_girl', 'bachelorette', 'baggage', 'ball-breaker', 'ball-buster', 'bar_girl', 'bas_bleu', 'bawd', 'beauty', 'bluestocking', 'bridesmaid', 'broad', 'cat', 'cocotte', 'coquette', 'cyprian', 'dame', 'deb', 'debutante', 'dish', 'divorcee', 'dominatrix', 'donna', 'enchantress', 'ex', 'ex-wife', 'eyeful', 'fancy_woman', 'fancy_woman', 'femme_fatale', 'fille', 'flirt', 'geisha', 'geisha_girl', 'gentlewoman', 'girl', 'girl', 'girl', 'girlfriend', 'girlfriend', 'gold_digger', 'grass_widow', 'gravida', 'harlot', 'heroine', 'houri', 'inamorata', 'jezebel', 'jilt', 'kept_woman', 'knockout', 'lady', 'lady', 'lady_friend', 'lady_of_pleasure', 'looker', 'lulu', "ma'am", 'madam', 'maenad', 'maenad', 'maid_of_honor', 'mantrap', 'married_woman', 'materfamilias', 'matriarch', 'matriarch', 'matron', 'mestiza', 'minx', 'miss', 'missy', 'mistress', 'mother_figure', 'nanny', 'nullipara', 'nurse', 'nursemaid', 'nymph', 'nymphet', 'old_woman', 'peach', 'prickteaser', 'prostitute', 'ravisher', 'shiksa', 'shikse', 'siren', 'smasher', 'sporting_lady', 'stunner', 'sweetheart', 'sylph', 'tart', 'tease', 'temptress', 'unmarried_woman', 'vamp', 'vamper', 'vestal', 'virago', 'white_woman', 'whore', 'widow', 'widow_woman', 'wife', 'woman_of_the_street', 'wonder_woman', 'working_girl', 'yellow_woman', 'young_lady', 'young_woman']
+
+
+
+Rank 7 word pair (skin,eye) w/ cosine similarity = 0.5374243 (WS353 rank = 27)
+-----------------------------------------
+
+Synonyms of skin: ['skin', 'tegument', 'cutis', 'skin', 'hide', 'pelt', 'skin', 'skin', 'peel', 'skin', 'skin', 'clamber', 'scramble', 'shin', 'shinny', 'skin', 'struggle', 'sputter', 'skin', 'scrape', 'bark', 'skin', 'skin', 'peel', 'pare']
+Hypernyms of skin: ['agnail', 'buff', 'cuticle', 'dewlap', 'foreskin', 'foreskin', 'hangnail', 'investment', 'prepuce', 'prepuce', 'scalp', 'skin_graft', 'thick_skin']
+
+Synonyms of eye: ['eye', 'oculus', 'optic', 'eye', 'eye', 'center', 'centre', 'middle', 'heart', 'eye', 'eye', 'eye', 'eyeball']
+Hypernyms of eye: ['OD', 'OS', 'compound_eye', 'naked_eye', 'ocellus', 'oculus_dexter', 'oculus_sinister', 'peeper', 'simple_eye', 'stemma']
+
+
+
+Rank 8 word pair (glass,metal) w/ cosine similarity = 0.5289548 (WS353 rank = 29)
+-----------------------------------------
+
+Synonyms of glass: ['glass', 'glass', 'drinking_glass', 'glass', 'glassful', 'field_glass', 'glass', 'spyglass', 'methamphetamine', 'methamphetamine_hydrochloride', 'Methedrine', 'meth', 'deoxyephedrine', 'chalk', 'chicken_feed', 'crank', 'glass', 'ice', 'shabu', 'trash', 'looking_glass', 'glass', 'glass', 'glass', 'glaze', 'glass', 'glass', 'glass_in', 'glass', 'glaze', 'glass', 'glass_over', 'glaze_over']
+Hypernyms of glass: ['Pyrex', 'crown_glass', 'ground_glass', 'ground_glass', 'laminated_glass', 'lead_glass', 'milk_glass', 'natural_glass', 'opal_glass', 'optical_glass', 'safety_glass', 'shatterproof_glass', 'sodium_silicate', 'soft_glass', 'soluble_glass', 'stained_glass', 'water_glass', 'wire_glass']
+
+Synonyms of metal: ['metallic_element', 'metal', 'alloy', 'metal', 'metal', 'metallic', 'metal']
+Hypernyms of metal: ['Al', 'Am', 'Ba', 'Be', 'Bi', 'Bk', 'Ca', 'Cd', 'Ce', 'Cf', 'Cm', 'Co', 'Cr', 'Cs', 'Cu', 'Dy', 'E', 'Er', 'Es', 'Eu', 'Fe', 'Fm', 'Fr', 'Ga', 'Gd', 'Hf', 'Hg', 'Ho', 'In', 'Ir', 'K', 'La', 'Li', 'Lu', 'Mg', 'Mn', 'Mo', 'Na', 'Nb', 'Nd', 'Ni', 'Np', 'Os', 'Pa', 'Pb', 'Pd', 'Pm', 'Po', 'Pr', 'Ra', 'Rb', 'Re', 'Rh', 'Ru', 'Sb', 'Sc', 'Sm', 'Sn', 'Sr', 'Ta', 'Tb', 'Tc', 'Th', 'Ti', 'Tl', 'Tm', 'U', 'V', 'W', 'Y', 'Yb', 'Zn', 'Zr', 'alkali_metal', 'alkaline-earth_metal', 'alkaline_earth', 'alkaline_metal', 'aluminium', 'aluminum', 'americium', 'antimony', 'atomic_number_100', 'atomic_number_11', 'atomic_number_12', 'atomic_number_13', 'atomic_number_19', 'atomic_number_20', 'atomic_number_21', 'atomic_number_22', 'atomic_number_23', 'atomic_number_24', 'atomic_number_25', 'atomic_number_26', 'atomic_number_27', 'atomic_number_28', 'atomic_number_29', 'atomic_number_3', 'atomic_number_30', 'atomic_number_31', 'atomic_number_37', 'atomic_number_38', 'atomic_number_39', 'atomic_number_4', 'atomic_number_40', 'atomic_number_41', 'atomic_number_42', 'atomic_number_43', 'atomic_number_44', 'atomic_number_45', 'atomic_number_46', 'atomic_number_48', 'atomic_number_49', 'atomic_number_50', 'atomic_number_51', 'atomic_number_55', 'atomic_number_56', 'atomic_number_57', 'atomic_number_58', 'atomic_number_59', 'atomic_number_60', 'atomic_number_61', 'atomic_number_62', 'atomic_number_63', 'atomic_number_64', 'atomic_number_65', 'atomic_number_66', 'atomic_number_67', 'atomic_number_68', 'atomic_number_69', 'atomic_number_70', 'atomic_number_71', 'atomic_number_72', 'atomic_number_73', 'atomic_number_74', 'atomic_number_75', 'atomic_number_76', 'atomic_number_77', 'atomic_number_80', 'atomic_number_81', 'atomic_number_82', 'atomic_number_83', 'atomic_number_84', 'atomic_number_87', 'atomic_number_88', 'atomic_number_90', 'atomic_number_91', 'atomic_number_92', 'atomic_number_93', 'atomic_number_95', 'atomic_number_96', 'atomic_number_97', 'atomic_number_98', 'atomic_number_99', 'barium', 'base_metal', 'berkelium', 'beryllium', 'bismuth', 'cadmium', 'caesium', 'calcium', 'californium', 'cerium', 'cesium', 'chromium', 'cobalt', 'copper', 'curium', 'dysprosium', 'einsteinium', 'erbium', 'europium', 'fermium', 'francium', 'gadolinium', 'gallium', 'glucinium', 'hafnium', 'heavy_metal', 'holmium', 'hydrargyrum', 'indium', 'iridium', 'iron', 'lanthanum', 'lead', 'lithium', 'lutecium', 'lutetium', 'magnesium', 'manganese', 'mercury', 'molybdenum', 'neodymium', 'neptunium', 'nickel', 'niobium', 'noble_metal', 'osmium', 'palladium', 'polonium', 'potassium', 'praseodymium', 'promethium', 'protactinium', 'protoactinium', 'quicksilver', 'radium', 'rhenium', 'rhodium', 'rubidium', 'ruthenium', 'samarium', 'scandium', 'sodium', 'strontium', 'tantalum', 'technetium', 'terbium', 'thallium', 'thorium', 'thulium', 'tin', 'titanium', 'tungsten', 'uranium', 'vanadium', 'wolfram', 'ytterbium', 'yttrium', 'zinc', 'zirconium']
+
+
+
+Rank 9 word pair (type,kind) w/ cosine similarity = 0.52751154 (WS353 rank = 2)
+-----------------------------------------
+
+Synonyms of type: ['type', 'character', 'eccentric', 'type', 'case', 'type', 'type', 'type', 'type', 'type', 'typewrite', 'type', 'typecast']
+Hypernyms of type: ['breed', 'edition', 'nature', 'variant', 'variation', 'version']
+
+Synonyms of kind: ['kind', 'sort', 'form', 'variety', 'kind', 'kind', 'genial', 'kind', 'tolerant']
+Hypernyms of kind: ['antitype', 'art_form', 'brand', 'color', 'colour', 'description', 'flavor', 'flavour', 'genre', 'genus', 'ilk', 'like', 'like', 'make', 'manner', 'model', 'species', 'stripe', 'style', 'the_like', 'the_likes_of', 'type']
+
+
+
+Rank 10 word pair (planet,moon) w/ cosine similarity = 0.5161626 (WS353 rank = 4)
+-----------------------------------------
+
+Synonyms of planet: ['planet', 'major_planet', 'satellite', 'planet', 'planet']
+Hypernyms of planet: ['Jovian_planet', 'Lucifer', 'Phosphorus', 'daystar', 'gas_giant', 'inferior_planet', 'morning_star', 'outer_planet', 'superior_planet', 'terrestrial_planet']
+
+Synonyms of moon: ['Moon', 'moon', 'moon', 'lunar_month', 'moon', 'lunation', 'synodic_month', 'moonlight', 'moonshine', 'Moon', 'Moon', 'Sun_Myung_Moon', 'moon', 'daydream', 'moon', 'moon', 'moon_around', 'moon_on', 'moon']
+Hypernyms of moon: []
+
+
+
+Rank 11 word pair (king,queen) w/ cosine similarity = 0.49311453 (WS353 rank = 3)
+-----------------------------------------
+
+Synonyms of king: ['king', 'male_monarch', 'Rex', 'king', 'queen', 'world-beater', 'baron', 'big_businessman', 'business_leader', 'king', 'magnate', 'mogul', 'power', 'top_executive', 'tycoon', 'king', 'King', 'Billie_Jean_King', 'Billie_Jean_Moffitt_King', 'King', 'B._B._King', 'Riley_B_King', 'King', 'Martin_Luther_King', 'Martin_Luther_King_Jr.', 'king', 'king', 'king']
+Hypernyms of king: ['King_of_England', 'King_of_France', 'King_of_Great_Britain', 'King_of_the_Germans']
+
+Synonyms of queen: ['queen', 'queen', 'queen_regnant', 'female_monarch', 'queen', 'queen', 'king', 'queen', 'world-beater', 'fagot', 'faggot', 'fag', 'fairy', 'nance', 'pansy', 'queen', 'queer', 'poof', 'poove', 'pouf', 'queen', 'queen', 'queen', 'queen_mole_rat', 'tabby', 'queen', 'queen', 'queen']
+Hypernyms of queen: ['queen_bee']
+
+
+
+Rank 12 word pair (food,fruit) w/ cosine similarity = 0.48096037 (WS353 rank = 15)
+-----------------------------------------
+
+Synonyms of food: ['food', 'nutrient', 'food', 'solid_food', 'food', 'food_for_thought', 'intellectual_nourishment']
+Hypernyms of food: ['aliment', 'alimentation', 'beverage', 'chyme', 'comestible', 'comfort_food', 'commissariat', 'culture_medium', 'drink', 'drinkable', 'eatable', 'edible', 'fare', 'feed', 'food_product', 'foodstuff', 'manna', 'manna_from_heaven', 'medium', 'micronutrient', 'miraculous_food', 'nourishment', 'nutriment', 'nutrition', 'pabulum', 'potable', 'provender', 'provender', 'provisions', 'soul_food', 'sustenance', 'viands', 'victual', 'victuals', 'victuals', 'victuals', 'vitellus', 'water', 'yolk']
+
+Synonyms of fruit: ['fruit', 'yield', 'fruit', 'fruit', 'fruit', 'fruit']
+Hypernyms of fruit: ['May_apple', 'accessory_fruit', 'achene', 'acorn', 'aggregate_fruit', 'berry', 'blue_fig', 'buckthorn_berry', 'buffalo_nut', 'capitulum', 'chokecherry', 'cubeb', 'drupe', 'ear', 'edible_fruit', 'elk_nut', 'false_fruit', 'fruitlet', 'gourd', 'hagberry', 'hip', 'juniper_berry', 'marasca', 'multiple_fruit', 'oil_nut', 'olive', 'pod', 'pome', 'prairie_gourd', 'pseudocarp', 'pyxidium', 'pyxis', 'quandong', 'rose_hip', 'rosehip', 'rowanberry', 'schizocarp', 'seed', 'seedpod', 'spike', 'stone_fruit', 'syncarp', 'wild_cherry', 'yellow_berry']
+
+
+
+Rank 13 word pair (money,cash) w/ cosine similarity = 0.46565172 (WS353 rank = 0)
+-----------------------------------------
+
+Synonyms of money: ['money', 'money', 'money']
+Hypernyms of money: ['appropriation', 'boodle', 'bread', 'cabbage', 'clams', 'dinero', 'dough', 'fund', 'gelt', 'kale', 'lettuce', 'lolly', 'loot', 'lucre', 'monetary_fund', 'moolah', 'pelf', 'scratch', 'shekels', 'shinplaster', 'simoleons', 'subsidisation', 'subsidization', 'sugar', 'token_money', 'wampum']
+
+Synonyms of cash: ['cash', 'hard_cash', 'hard_currency', 'cash', 'immediate_payment', 'Cash', 'Johnny_Cash', 'John_Cash', 'cash', 'cash_in']
+Hypernyms of cash: ['change', 'change', 'chickenfeed', 'chump_change', 'cold_cash', 'pin_money', 'pocket_money', 'ready_cash', 'ready_money', 'small_change', 'spending_money']
+
+
+
+Rank 14 word pair (planet,sun) w/ cosine similarity = 0.45517647 (WS353 rank = 4)
+-----------------------------------------
+
+Synonyms of planet: ['planet', 'major_planet', 'satellite', 'planet', 'planet']
+Hypernyms of planet: ['Jovian_planet', 'Lucifer', 'Phosphorus', 'daystar', 'gas_giant', 'inferior_planet', 'morning_star', 'outer_planet', 'superior_planet', 'terrestrial_planet']
+
+Synonyms of sun: ['sun', 'Sun', 'sunlight', 'sunshine', 'sun', 'sun', 'sun', 'Sunday', "Lord's_Day", 'Dominicus', 'Sun', 'sun', 'sunbathe', 'sun', 'insolate', 'solarize', 'solarise']
+Hypernyms of sun: []
+
+
+
+Rank 15 word pair (psychology,science) w/ cosine similarity = 0.451894 (WS353 rank = 23)
+-----------------------------------------
+
+Synonyms of psychology: ['psychology', 'psychological_science']
+Hypernyms of psychology: ['abnormal_psychology', 'animal_psychology', 'applied_psychology', 'child_psychology', 'cognitive_psychology', 'comparative_psychology', 'developmental_psychology', 'differential_psychology', 'experimental_psychology', 'genetic_psychology', 'industrial_psychology', 'neuropsychology', 'physiological_psychology', 'psychometrics', 'psychometrika', 'psychometry', 'psychonomics', 'psychopathology', 'psychophysiology', 'social_psychology']
+
+Synonyms of science: ['science', 'scientific_discipline', 'skill', 'science']
+Hypernyms of science: ['IP', 'agrobiology', 'agrology', 'agronomy', 'architectonics', 'cognitive_science', 'cryptanalysis', 'cryptanalytics', 'cryptography', 'cryptology', 'informatics', 'information_processing', 'information_science', 'linguistics', 'math', 'mathematics', 'maths', 'metallurgy', 'metrology', 'natural_history', 'natural_science', 'nutrition', 'psychological_science', 'psychology', 'scientific_agriculture', 'social_science', 'strategics', 'systematics', 'tectonics', 'thanatology']
+
+
+
+Rank 16 word pair (journal,association) w/ cosine similarity = 0.44482 (WS353 rank = 33)
+-----------------------------------------
+
+Synonyms of journal: ['diary', 'journal', 'journal', 'daybook', 'journal', 'journal', 'journal']
+Hypernyms of journal: ['blog', 'web_log']
+
+Synonyms of association: ['association', 'association', 'association', 'association', 'connection', 'connexion', 'affiliation', 'association', 'tie', 'tie-up', 'association', 'association', 'association']
+Hypernyms of association: ['AARP', 'ASEAN', 'American_Baptist_Convention', 'American_Legion', 'Association_for_the_Advancement_of_Retired_Persons', 'Association_of_Southeast_Asian_Nations', 'Fabian_Society', 'National_Association_of_Realtors', 'Northern_Baptist_Convention', 'Southern_Baptist_Convention', 'VFW', 'Veterans_of_Foreign_Wars', 'chamber_of_commerce', 'club', 'conference', 'consortium', 'cooperative', 'family', 'fellowship', 'gang', 'gild', 'guild', 'institute', 'league', 'legion', 'lodge', 'mob', 'order', 'pack', 'pool', 'professional_association', 'ring', 'secret_society', 'sisterhood', 'sistership', 'social_club', 'society', 'syndicate']
+
+
+
+Rank 17 word pair (train,car) w/ cosine similarity = 0.39910144 (WS353 rank = 26)
+-----------------------------------------
+
+Synonyms of train: ['train', 'railroad_train', 'string', 'train', 'caravan', 'train', 'wagon_train', 'train', 'train', 'gearing', 'gear', 'geartrain', 'power_train', 'train', 'train', 'develop', 'prepare', 'educate', 'train', 'prepare', 'discipline', 'train', 'check', 'condition', 'prepare', 'groom', 'train', 'educate', 'school', 'train', 'cultivate', 'civilize', 'civilise', 'aim', 'take', 'train', 'take_aim', 'direct', 'coach', 'train', 'train', 'train', 'train', 'rail', 'trail', 'train']
+Hypernyms of train: ['boat_train', 'car_train', 'freight_train', 'hospital_train', 'mail_train', 'passenger_train', 'rattler', 'streamliner', 'subway_train']
+
+Synonyms of car: ['car', 'auto', 'automobile', 'machine', 'motorcar', 'car', 'railcar', 'railway_car', 'railroad_car', 'car', 'gondola', 'car', 'elevator_car', 'cable_car', 'car']
+Hypernyms of car: ['Model_T', 'S.U.V.', 'SUV', 'Stanley_Steamer', 'ambulance', 'beach_waggon', 'beach_wagon', 'bus', 'cab', 'compact', 'compact_car', 'convertible', 'coupe', 'cruiser', 'electric', 'electric_automobile', 'electric_car', 'estate_car', 'gas_guzzler', 'hack', 'hardtop', 'hatchback', 'heap', 'horseless_carriage', 'hot-rod', 'hot_rod', 'jalopy', 'jeep', 'landrover', 'limo', 'limousine', 'loaner', 'minicar', 'minivan', 'pace_car', 'patrol_car', 'phaeton', 'police_car', 'police_cruiser', 'prowl_car', 'race_car', 'racer', 'racing_car', 'roadster', 'runabout', 'saloon', 'secondhand_car', 'sedan', 'sport_car', 'sport_utility', 'sport_utility_vehicle', 'sports_car', 'squad_car', 'station_waggon', 'station_wagon', 'stock_car', 'subcompact', 'subcompact_car', 'taxi', 'taxicab', 'tourer', 'touring_car', 'two-seater', 'used-car', 'waggon', 'wagon']
+
+
+
+Rank 18 word pair (student,professor) w/ cosine similarity = 0.3961511 (WS353 rank = 21)
+-----------------------------------------
+
+Synonyms of student: ['student', 'pupil', 'educatee', 'scholar', 'scholarly_person', 'bookman', 'student']
+Hypernyms of student: ['Etonian', 'Ivy_Leaguer', 'Wykehamist', 'art_student', 'auditor', 'catechumen', 'college_boy', 'college_man', 'collegian', 'crammer', 'law_student', 'major', 'medical_student', 'medico', 'neophyte', 'nonachiever', 'nonreader', 'overachiever', 'passer', 'scholar', 'seminarian', 'seminarist', 'sixth-former', 'skipper', 'underachiever', 'underperformer', 'withdrawer']
+
+Synonyms of professor: ['professor', 'prof']
+Hypernyms of professor: ['Regius_professor', 'assistant_professor', 'associate_professor', 'full_professor', 'visiting_professor']
+
+
+
+Rank 19 word pair (coast,forest) w/ cosine similarity = 0.38394037 (WS353 rank = 45)
+-----------------------------------------
+
+Synonyms of coast: ['seashore', 'coast', 'seacoast', 'sea-coast', 'coast', 'coast', 'slide', 'glide', 'coast', 'coast']
+Hypernyms of coast: ['landfall', 'litoral', 'littoral', 'littoral_zone', 'sands', 'seaboard', 'seaside', 'tideland']
+
+Synonyms of forest: ['forest', 'wood', 'woods', 'forest', 'woodland', 'timberland', 'timber', 'afforest', 'forest']
+Hypernyms of forest: ['bosk', 'grove', 'jungle', 'old_growth', 'rain_forest', 'rainforest', 'second_growth', 'virgin_forest']
+
+
+
+Rank 20 word pair (wood,forest) w/ cosine similarity = 0.36987823 (WS353 rank = 11)
+-----------------------------------------
+
+Synonyms of wood: ['wood', 'forest', 'wood', 'woods', 'Wood', 'Natalie_Wood', 'Wood', 'Sir_Henry_Wood', 'Sir_Henry_Joseph_Wood', 'Wood', 'Mrs._Henry_Wood', 'Ellen_Price_Wood', 'Wood', 'Grant_Wood', 'woodwind', 'woodwind_instrument', 'wood', 'wood']
+Hypernyms of wood: ['Panama_redwood', 'Turkish_boxwood', 'alder', 'ash', 'balsa', 'balsa_wood', 'bamboo', 'basswood', 'beech', 'beechwood', 'beefwood', 'bentwood', 'birch', 'black_locust', 'blackwood', 'boxwood', 'brazilwood', 'briarwood', 'brier-wood', 'brierwood', 'brushwood', 'burl', 'cabinet_wood', 'cedar', 'cedarwood', 'cherry', 'chestnut', 'citronwood', 'citronwood', 'cocoswood', 'cocuswood', 'cypress', 'deal', 'dogwood', 'driftwood', 'duramen', 'dyewood', 'ebony', 'elm', 'elmwood', 'eucalyptus', 'fir', 'fruitwood', 'granadilla_wood', 'granadilla_wood', 'guaiac', 'guaiac_wood', 'guaiacum', 'guaiacum_wood', 'gum', 'gumwood', 'hardwood', 'hazel', 'heartwood', 'hemlock', 'hickory', 'incense_wood', 'ironwood', 'kauri', 'kingwood', 'knot', 'lacewood', 'lancewood', 'larch', 'lemonwood', 'lignum_vitae', 'linden', 'locust', 'log', 'logwood', 'mahogany', 'maple', 'matchwood', 'matchwood', 'oak', 'obeche', 'olive', 'orangewood', 'pecan', 'pine', 'poon', 'poplar', 'pyinma', 'quira', 'raw_wood', 'red_lauan', 'red_sandalwood', 'redwood', 'rosewood', 'ruby_wood', 'sabicu', 'sabicu_wood', 'sandalwood', 'sandarac', 'sapwood', 'satinwood', 'sawdust', 'shittimwood', 'silver_quandong', 'softwood', 'splinters', 'spruce', 'sumac', 'sycamore', 'teak', 'teakwood', 'true_tulipwood', 'tulipwood', 'tulipwood', 'tupelo', 'walnut', 'white_poplar', 'whitewood', 'wicker', 'yellow_poplar', 'yellowwood', 'yew', 'zebrawood']
+
+Synonyms of forest: ['forest', 'wood', 'woods', 'forest', 'woodland', 'timberland', 'timber', 'afforest', 'forest']
+Hypernyms of forest: ['bosk', 'grove', 'jungle', 'old_growth', 'rain_forest', 'rainforest', 'second_growth', 'virgin_forest']
+
+
+
+Rank 21 word pair (planet,star) w/ cosine similarity = 0.36975294 (WS353 rank = 4)
+-----------------------------------------
+
+Synonyms of planet: ['planet', 'major_planet', 'satellite', 'planet', 'planet']
+Hypernyms of planet: ['Jovian_planet', 'Lucifer', 'Phosphorus', 'daystar', 'gas_giant', 'inferior_planet', 'morning_star', 'outer_planet', 'superior_planet', 'terrestrial_planet']
+
+Synonyms of star: ['star', 'ace', 'adept', 'champion', 'sensation', 'maven', 'mavin', 'virtuoso', 'genius', 'hotshot', 'star', 'superstar', 'whiz', 'whizz', 'wizard', 'wiz', 'star', 'star', 'principal', 'lead', 'star', 'headliner', 'star', 'asterisk', 'star', 'star_topology', 'star', 'star', 'star', 'star', 'asterisk', 'leading', 'prima', 'star', 'starring', 'stellar']
+Hypernyms of star: ['binary', 'binary_star', 'double_star', 'fixed_star', 'giant', 'giant_star', 'loadstar', 'lodestar', 'multiple_star', 'neutron_star', 'nova', 'red_dwarf', 'red_dwarf_star', 'red_giant', 'red_giant_star', 'sun', 'supergiant', 'supernova', 'variable', 'variable_star', 'white_dwarf', 'white_dwarf_star']
+
+
+
+Rank 22 word pair (professor,doctor) w/ cosine similarity = 0.36399725 (WS353 rank = 24)
+-----------------------------------------
+
+Synonyms of professor: ['professor', 'prof']
+Hypernyms of professor: ['Regius_professor', 'assistant_professor', 'associate_professor', 'full_professor', 'visiting_professor']
+
+Synonyms of doctor: ['doctor', 'doc', 'physician', 'MD', 'Dr.', 'medico', 'Doctor_of_the_Church', 'Doctor', 'doctor', 'doctor', 'Dr.', 'sophisticate', 'doctor', 'doctor_up', 'doctor', 'repair', 'mend', 'fix', 'bushel', 'doctor', 'furbish_up', 'restore', 'touch_on']
+Hypernyms of doctor: ['GP', 'abortionist', 'allergist', 'angiologist', 'extern', 'gastroenterologist', 'general_practitioner', 'hakeem', 'hakim', 'house_physician', 'houseman', 'intern', 'interne', 'medical_extern', 'medical_intern', 'medical_specialist', 'operating_surgeon', 'primary_care_physician', 'quack', 'resident', 'resident_physician', 'sawbones', 'specialist', 'surgeon', 'vet', 'veterinarian', 'veterinary', 'veterinary_surgeon']
+
+
+
+Rank 23 word pair (media,radio) w/ cosine similarity = 0.33737606 (WS353 rank = 16)
+-----------------------------------------
+
+Synonyms of media: ['medium', 'medium', 'medium', 'culture_medium', 'medium', 'medium', 'medium', 'medium', 'medium', 'medium', 'spiritualist', 'sensitive', 'medium', 'mass_medium', 'metier', 'medium']
+Hypernyms of media: ['album', 'celluloid', 'cinema', 'data-storage_medium', 'film', 'paper', 'print_media', 'record_album', 'storage_medium', 'telecom', 'telecommunication', 'vehicle']
+
+Synonyms of radio: ['radio', 'radiocommunication', 'wireless', 'radio_receiver', 'receiving_set', 'radio_set', 'radio', 'tuner', 'wireless', 'radio', 'wireless', 'radio', 'radio']
+Hypernyms of radio: []
+
+
+
+Rank 24 word pair (practice,institution) w/ cosine similarity = 0.3359441 (WS353 rank = 65)
+-----------------------------------------
+
+Synonyms of practice: ['practice', 'pattern', 'exercise', 'practice', 'drill', 'practice_session', 'recitation', 'practice', 'praxis', 'practice', 'practice', 'practice', 'practise', 'exercise', 'do', 'drill', 'exercise', 'practice', 'practise', 'rehearse', 'practise', 'practice', 'practice', 'apply', 'use', 'commit', 'practice']
+Hypernyms of practice: ['biologism', 'calisthenics', 'callisthenics', 'cannibalism', 'careerism', 'cooperation', 'cross_dressing', 'custom', 'fashion', 'featherbedding', 'formalism', 'habitude', 'lobbyism', 'lynch_law', 'mistreatment', 'modernism', 'naturism', 'nonconformism', 'nudism', 'occult', 'occult_arts', 'one-upmanship', 'ornamentalism', 'papism', 'peonage', 'pluralism', 'popery', 'quotation', 'ritual', 'ritualism', 'slaveholding', 'slavery', 'symbolisation', 'symbolism', 'symbolization', 'systematism', 'transvestism', 'transvestitism', 'unwritten_law', 'usage', 'usance']
+
+Synonyms of institution: ['institution', 'establishment', 'institution', 'institution', 'initiation', 'founding', 'foundation', 'institution', 'origination', 'creation', 'innovation', 'introduction', 'instauration', 'mental_hospital', 'psychiatric_hospital', 'mental_institution', 'institution', 'mental_home', 'insane_asylum', 'asylum']
+Hypernyms of institution: ['academy', 'charity', 'company', 'educational_institution', 'faith', 'financial_institution', 'financial_organisation', 'financial_organization', 'honorary_society', 'issuer', 'medical_institution', 'organized_religion', 'religion', 'vicariate', 'vicarship']
+
+
+
+Rank 25 word pair (money,currency) w/ cosine similarity = 0.32721063 (WS353 rank = 0)
+-----------------------------------------
+
+Synonyms of money: ['money', 'money', 'money']
+Hypernyms of money: ['appropriation', 'boodle', 'bread', 'cabbage', 'clams', 'dinero', 'dough', 'fund', 'gelt', 'kale', 'lettuce', 'lolly', 'loot', 'lucre', 'monetary_fund', 'moolah', 'pelf', 'scratch', 'shekels', 'shinplaster', 'simoleons', 'subsidisation', 'subsidization', 'sugar', 'token_money', 'wampum']
+
+Synonyms of currency: ['currency', 'currency', 'currentness', 'currency', 'up-to-dateness']
+Hypernyms of currency: ['Eurocurrency', 'cash', 'coinage', 'folding_money', 'hard_cash', 'hard_currency', 'hard_currency', 'metal_money', 'mintage', 'money', 'paper_currency', 'paper_money', 'specie']
+
+
+
+Rank 26 word pair (money,dollar) w/ cosine similarity = 0.31065315 (WS353 rank = 0)
+-----------------------------------------
+
+Synonyms of money: ['money', 'money', 'money']
+Hypernyms of money: ['appropriation', 'boodle', 'bread', 'cabbage', 'clams', 'dinero', 'dough', 'fund', 'gelt', 'kale', 'lettuce', 'lolly', 'loot', 'lucre', 'monetary_fund', 'moolah', 'pelf', 'scratch', 'shekels', 'shinplaster', 'simoleons', 'subsidisation', 'subsidization', 'sugar', 'token_money', 'wampum']
+
+Synonyms of dollar: ['dollar', 'dollar', 'dollar_bill', 'one_dollar_bill', 'buck', 'clam', 'dollar', 'dollar', 'dollar_mark', 'dollar_sign']
+Hypernyms of dollar: ['Australian_dollar', 'Bahamian_dollar', 'Barbados_dollar', 'Belize_dollar', 'Bermuda_dollar', 'Brunei_dollar', 'Canadian_dollar', 'Cayman_Islands_dollar', 'Dominican_dollar', 'Fiji_dollar', 'Grenada_dollar', 'Guyana_dollar', 'Hong_Kong_dollar', 'Jamaican_dollar', 'Kiribati_dollar', 'Liberian_dollar', 'New_Zealand_dollar', 'Singapore_dollar', 'Taiwan_dollar', 'Trinidad_and_Tobago_dollar', 'Tuvalu_dollar', 'United_States_dollar', 'Zimbabwean_dollar', 'loonie']
+
+
+
+Rank 27 word pair (investigation,effort) w/ cosine similarity = 0.30533534 (WS353 rank = 40)
+-----------------------------------------
+
+Synonyms of investigation: ['probe', 'investigation', 'investigation', 'investigating']
+Hypernyms of investigation: ['fishing_expedition']
+
+Synonyms of effort: ['attempt', 'effort', 'endeavor', 'endeavour', 'try', 'effort', 'elbow_grease', 'exertion', 'travail', 'sweat', 'feat', 'effort', 'exploit', 'campaign', 'cause', 'crusade', 'drive', 'movement', 'effort']
+Hypernyms of effort: ['batting', 'battle', 'best', 'bid', 'contribution', 'crack', 'essay', 'fling', 'foray', 'go', 'liberation', "mug's_game", 'nisus', 'offer', 'pains', 'part', 'pass', 'play', 'power_play', 'run', 'seeking', 'share', 'shot', 'shot', 'squeeze', 'squeeze_play', 'stab', 'strain', 'striving', 'struggle', 'takeover_attempt', 'test', 'test', 'trial', 'trial', 'whirl', 'worst']
+
+
+
+Rank 28 word pair (drink,mother) w/ cosine similarity = 0.28792444 (WS353 rank = 68)
+-----------------------------------------
+
+Synonyms of drink: ['drink', 'drink', 'drinking', 'boozing', 'drunkenness', 'crapulence', 'beverage', 'drink', 'drinkable', 'potable', 'drink', 'swallow', 'drink', 'deglutition', 'drink', 'imbibe', 'drink', 'booze', 'fuddle', 'toast', 'drink', 'pledge', 'salute', 'wassail', 'drink_in', 'drink', 'drink', 'tope']
+Hypernyms of drink: ['chaser', 'draft', 'draught', 'eye_opener', 'float', 'frappe', 'hair_of_the_dog', 'ice-cream_float', 'ice-cream_soda', 'libation', 'milk_shake', 'milkshake', 'nightcap', 'pledge', 'posset', 'potation', 'sangaree', 'sangria', 'shake', 'shandy', 'shandygaff', 'sillabub', 'stirrup_cup', 'sundowner', 'syllabub', 'tipple', 'toast', 'whiskey_neat', 'whiskey_on_the_rocks', 'whisky_neat', 'whisky_on_the_rocks']
+
+Synonyms of mother: ['mother', 'female_parent', 'mother', 'mother', 'mother', 'mother', 'mother', 'fuss', 'overprotect', 'beget', 'get', 'engender', 'father', 'mother', 'sire', 'generate', 'bring_forth']
+Hypernyms of mother: ['ma', 'mama', 'mamma', 'mammy', 'mater', 'mom', 'momma', 'mommy', 'mother-in-law', 'mum', 'mummy', 'para_I', 'primipara', 'puerpera', 'quadripara', 'quintipara', 'supermom', 'surrogate_mother']
+
+
+
+Rank 29 word pair (coast,hill) w/ cosine similarity = 0.28699365 (WS353 rank = 45)
+-----------------------------------------
+
+Synonyms of coast: ['seashore', 'coast', 'seacoast', 'sea-coast', 'coast', 'coast', 'slide', 'glide', 'coast', 'coast']
+Hypernyms of coast: ['landfall', 'litoral', 'littoral', 'littoral_zone', 'sands', 'seaboard', 'seaside', 'tideland']
+
+Synonyms of hill: ['hill', 'mound', 'hill', 'Hill', 'J._J._Hill', 'James_Jerome_Hill', 'Hill', 'Benny_Hill', 'Alfred_Hawthorne', 'mound', 'hill', "pitcher's_mound", 'hill']
+Hypernyms of hill: ['butte', 'foothill', 'hammock', 'hillock', 'hummock', 'knoll', 'mound', 'tor']
+
+
+
+Rank 30 word pair (consumer,energy) w/ cosine similarity = 0.27758783 (WS353 rank = 37)
+-----------------------------------------
+
+Synonyms of consumer: ['consumer']
+Hypernyms of consumer: ['chewer', 'client', 'concert-goer', 'customer', 'drinker', 'drinker', 'eater', 'feeder', 'imbiber', 'juicer', 'music_lover', 'prodigal', 'profligate', 'smoker', 'snuff_user', 'snuffer', 'squanderer', 'tobacco_user', 'toper']
+
+Synonyms of energy: ['energy', 'free_energy', 'energy', 'vigor', 'vigour', 'zip', 'energy', 'push', 'get-up-and-go', 'energy', 'muscularity', 'vigor', 'vigour', 'vim', 'energy', 'vim', 'vitality', 'energy', 'Department_of_Energy', 'Energy_Department', 'Energy', 'DOE']
+Hypernyms of energy: ['activation_energy', 'alternative_energy', 'atomic_energy', 'binding_energy', 'chemical_energy', 'electrical_energy', 'electricity', 'energy_level', 'energy_of_activation', 'energy_state', 'heat', 'heat_energy', 'mechanical_energy', 'nuclear_energy', 'radiant_energy', 'radiation', 'rest_energy', 'separation_energy', 'work']
+
+
+
+Rank 31 word pair (peace,plan) w/ cosine similarity = 0.27212116 (WS353 rank = 38)
+-----------------------------------------
+
+Synonyms of peace: ['peace', 'peace', 'peace', 'peacefulness', 'peace_of_mind', 'repose', 'serenity', 'heartsease', 'ataraxis', 'peace', 'public_security', 'peace', 'peace_treaty', 'pacification']
+Hypernyms of peace: ['Pax_Romana', 'amity', 'armistice', 'cease-fire', 'collective_security', 'conciliation', 'truce']
+
+Synonyms of plan: ['plan', 'program', 'programme', 'design', 'plan', 'plan', 'architectural_plan', 'plan', 'be_after', 'plan', 'plan', 'project', 'contrive', 'design', 'design', 'plan']
+Hypernyms of plan: ['agenda', 'audit_program', 'audit_programme', 'blueprint', 'budget', 'design', 'docket', 'employee_savings_plan', 'guideline', 'master_plan', 'outline', 'pattern', 'pension_account', 'pension_plan', 'plan_of_action', 'project', 'projection', 'regime', 'regimen', 'retirement_account', 'retirement_plan', 'retirement_program', 'retirement_savings_account', 'retirement_savings_plan', 'road_map', 'schedule', 'schema', 'scheme', 'stock_purchase_plan']
+
+
+
+Rank 32 word pair (plane,car) w/ cosine similarity = 0.26724958 (WS353 rank = 28)
+-----------------------------------------
+
+Synonyms of plane: ['airplane', 'aeroplane', 'plane', 'plane', 'sheet', 'plane', 'plane', 'planer', 'planing_machine', 'plane', "carpenter's_plane", 'woodworking_plane', 'plane', 'shave', 'plane', 'skim', 'plane', 'flat', 'level', 'plane']
+Hypernyms of plane: ['airliner', 'amphibian', 'amphibious_aircraft', 'attack_aircraft', 'biplane', 'bomber', 'delta_wing', 'fighter', 'fighter_aircraft', 'hangar_queen', 'hydroplane', 'jet', 'jet-propelled_plane', 'jet_plane', 'monoplane', 'multiengine_airplane', 'multiengine_plane', 'propeller_plane', 'reconnaissance_plane', 'seaplane', 'ski-plane', 'tanker_plane']
+
+Synonyms of car: ['car', 'auto', 'automobile', 'machine', 'motorcar', 'car', 'railcar', 'railway_car', 'railroad_car', 'car', 'gondola', 'car', 'elevator_car', 'cable_car', 'car']
+Hypernyms of car: ['Model_T', 'S.U.V.', 'SUV', 'Stanley_Steamer', 'ambulance', 'beach_waggon', 'beach_wagon', 'bus', 'cab', 'compact', 'compact_car', 'convertible', 'coupe', 'cruiser', 'electric', 'electric_automobile', 'electric_car', 'estate_car', 'gas_guzzler', 'hack', 'hardtop', 'hatchback', 'heap', 'horseless_carriage', 'hot-rod', 'hot_rod', 'jalopy', 'jeep', 'landrover', 'limo', 'limousine', 'loaner', 'minicar', 'minivan', 'pace_car', 'patrol_car', 'phaeton', 'police_car', 'police_cruiser', 'prowl_car', 'race_car', 'racer', 'racing_car', 'roadster', 'runabout', 'saloon', 'secondhand_car', 'sedan', 'sport_car', 'sport_utility', 'sport_utility_vehicle', 'sports_car', 'squad_car', 'station_waggon', 'station_wagon', 'stock_car', 'subcompact', 'subcompact_car', 'taxi', 'taxicab', 'tourer', 'touring_car', 'two-seater', 'used-car', 'waggon', 'wagon']
+
+
+
+Rank 33 word pair (street,place) w/ cosine similarity = 0.2504563 (WS353 rank = 19)
+-----------------------------------------
+
+Synonyms of street: ['street', 'street', 'street', 'street', 'street']
+Hypernyms of street: ['alley', 'alleyway', 'avenue', 'back_street', 'boulevard', 'cross_street', 'high_street', 'local_road', 'local_street', 'main_street', 'mews', 'rue', 'side_street']
+
+Synonyms of place: ['topographic_point', 'place', 'spot', 'place', 'property', 'place', 'place', 'stead', 'position', 'place', 'lieu', 'place', 'shoes', 'home', 'place', 'position', 'post', 'berth', 'office', 'spot', 'billet', 'place', 'situation', 'position', 'place', 'place', 'station', 'seat', 'place', 'place', 'place', 'plaza', 'place', 'piazza', 'place', 'position', 'space', 'blank_space', 'place', 'put', 'set', 'place', 'pose', 'position', 'lay', 'place', 'rate', 'rank', 'range', 'order', 'grade', 'place', 'locate', 'place', 'site', 'place', 'place', 'come_in', 'come_out', 'target', 'aim', 'place', 'direct', 'point', 'identify', 'place', 'place', 'set', 'localize', 'localise', 'place', 'place', 'put', 'set', 'place', 'localize', 'localise', 'invest', 'put', 'commit', 'place', 'station', 'post', 'send', 'place', 'place', 'place']
+Hypernyms of place: ['birthplace', 'crest', 'crown', 'end', 'grave', 'heights', 'hiding_place', 'high', 'hole-in-the-wall', 'holy', 'holy_place', 'junction', 'mecca', 'nesting_place', 'overlook', 'peak', 'place_of_birth', 'polling_place', 'polling_station', 'pool', 'puddle', 'rendezvous', 'sanctum', 'scour', 'service_area', 'showplace', 'solitude', 'stop', 'summit', 'target', 'target_area', 'tip', 'tomb', 'top', 'zone']
+
+
+
+Rank 34 word pair (car,flight) w/ cosine similarity = 0.23237467 (WS353 rank = 35)
+-----------------------------------------
+
+Synonyms of car: ['car', 'auto', 'automobile', 'machine', 'motorcar', 'car', 'railcar', 'railway_car', 'railroad_car', 'car', 'gondola', 'car', 'elevator_car', 'cable_car', 'car']
+Hypernyms of car: ['Model_T', 'S.U.V.', 'SUV', 'Stanley_Steamer', 'ambulance', 'beach_waggon', 'beach_wagon', 'bus', 'cab', 'compact', 'compact_car', 'convertible', 'coupe', 'cruiser', 'electric', 'electric_automobile', 'electric_car', 'estate_car', 'gas_guzzler', 'hack', 'hardtop', 'hatchback', 'heap', 'horseless_carriage', 'hot-rod', 'hot_rod', 'jalopy', 'jeep', 'landrover', 'limo', 'limousine', 'loaner', 'minicar', 'minivan', 'pace_car', 'patrol_car', 'phaeton', 'police_car', 'police_cruiser', 'prowl_car', 'race_car', 'racer', 'racing_car', 'roadster', 'runabout', 'saloon', 'secondhand_car', 'sedan', 'sport_car', 'sport_utility', 'sport_utility_vehicle', 'sports_car', 'squad_car', 'station_waggon', 'station_wagon', 'stock_car', 'subcompact', 'subcompact_car', 'taxi', 'taxicab', 'tourer', 'touring_car', 'two-seater', 'used-car', 'waggon', 'wagon']
+
+Synonyms of flight: ['flight', 'flight', 'flying', 'flight', 'flight_of_stairs', 'flight_of_steps', 'escape', 'flight', 'flight', 'flight', 'trajectory', 'flight', 'flight', 'flight', 'flight', 'flight', 'fledge', 'flight']
+Hypernyms of flight: []
+
+
+
+Rank 35 word pair (start,match) w/ cosine similarity = 0.22903499 (WS353 rank = 44)
+-----------------------------------------
+
+Synonyms of start: ['start', 'beginning', 'commencement', 'first', 'outset', 'get-go', 'start', 'kickoff', 'starting_time', 'showtime', 'offset', 'start', 'starting', 'startle', 'jump', 'start', 'beginning', 'start', 'commencement', 'start', 'starting_line', 'scratch', 'scratch_line', 'starting_signal', 'start', 'start', 'head_start', 'get_down', 'begin', 'get', 'start_out', 'start', 'set_about', 'set_out', 'commence', 'begin', 'lead_off', 'start', 'commence', 'depart', 'part', 'start', 'start_out', 'set_forth', 'set_off', 'set_out', 'take_off', 'begin', 'start', 'originate', 'initiate', 'start', 'start', 'start_up', 'embark_on', 'commence', 'startle', 'jump', 'start', 'start', 'start_up', 'start', 'go', 'get_going', 'start', 'take_up', 'start', 'begin', 'start', 'begin', 'start', 'start', 'protrude', 'pop', 'pop_out', 'bulge', 'bulge_out', 'bug_out', 'come_out']
+Hypernyms of start: ['adrenarche', 'alpha', 'curtain_raising', 'dawn', 'flying_start', 'kickoff', 'menarche', 'morning', 'oncoming', 'onset', 'opener', 'opening', 'opening_night', 'racing_start', 'running_start', 'send-off', 'start-off', 'thelarche']
+
+Synonyms of match: ['match', 'lucifer', 'friction_match', 'match', 'match', 'match', 'mate', 'match', 'catch', 'match', 'peer', 'equal', 'match', 'compeer', 'couple', 'mates', 'match', 'match', 'match', 'fit', 'correspond', 'check', 'jibe', 'gibe', 'tally', 'agree', 'match', 'match', 'mate', 'couple', 'pair', 'twin', 'equal', 'touch', 'rival', 'match', 'match', 'fit', 'meet', 'match', 'cope_with', 'match', 'pit', 'oppose', 'match', 'play_off', 'match', 'equal', 'match', 'equalize', 'equalise', 'equate']
+Hypernyms of match: ['book_matches', 'fusee', 'fuzee', 'kitchen_match', 'safety_match', 'slow_match']
+
+
+
+Rank 36 word pair (century,year) w/ cosine similarity = 0.2074649 (WS353 rank = 13)
+-----------------------------------------
+
+Synonyms of century: ['century', 'hundred', '100', 'C', 'century', 'one_C']
+Hypernyms of century: ['quattrocento', 'twentieth_century']
+
+Synonyms of year: ['year', 'twelvemonth', 'yr', 'year', 'year', 'class', 'year']
+Hypernyms of year: ['365_days', '366_days', 'Christian_year', 'Holy_Year', 'New_Year', 'Y2K', 'annum', 'bissextile_year', 'calendar_year', 'church_year', 'civil_year', 'common_year', 'financial_year', 'fiscal_year', 'intercalary_year', 'leap_year', 'off_year', 'off_year', 'year_of_grace']
+
+
+
+Rank 37 word pair (month,hotel) w/ cosine similarity = 0.20590848 (WS353 rank = 80)
+-----------------------------------------
+
+Synonyms of month: ['calendar_month', 'month', 'month']
+Hypernyms of month: ['Gregorian_calendar_month', 'Hindu_calendar_month', 'Islamic_calendar_month', 'Jewish_calendar_month', 'Revolutionary_calendar_month', 'date']
+
+Synonyms of hotel: ['hotel']
+Hypernyms of hotel: ['Ritz', 'auberge', 'court', 'fleabag', 'holiday_resort', 'hostel', 'hostelry', 'inn', 'lodge', 'motor_hotel', 'motor_inn', 'motor_lodge', 'resort', 'resort_hotel', 'resort_hotel', 'ski_lodge', 'spa', 'tourist_court']
+
+
+
+Rank 38 word pair (drink,car) w/ cosine similarity = 0.20549637 (WS353 rank = 68)
+-----------------------------------------
+
+Synonyms of drink: ['drink', 'drink', 'drinking', 'boozing', 'drunkenness', 'crapulence', 'beverage', 'drink', 'drinkable', 'potable', 'drink', 'swallow', 'drink', 'deglutition', 'drink', 'imbibe', 'drink', 'booze', 'fuddle', 'toast', 'drink', 'pledge', 'salute', 'wassail', 'drink_in', 'drink', 'drink', 'tope']
+Hypernyms of drink: ['chaser', 'draft', 'draught', 'eye_opener', 'float', 'frappe', 'hair_of_the_dog', 'ice-cream_float', 'ice-cream_soda', 'libation', 'milk_shake', 'milkshake', 'nightcap', 'pledge', 'posset', 'potation', 'sangaree', 'sangria', 'shake', 'shandy', 'shandygaff', 'sillabub', 'stirrup_cup', 'sundowner', 'syllabub', 'tipple', 'toast', 'whiskey_neat', 'whiskey_on_the_rocks', 'whisky_neat', 'whisky_on_the_rocks']
+
+Synonyms of car: ['car', 'auto', 'automobile', 'machine', 'motorcar', 'car', 'railcar', 'railway_car', 'railroad_car', 'car', 'gondola', 'car', 'elevator_car', 'cable_car', 'car']
+Hypernyms of car: ['Model_T', 'S.U.V.', 'SUV', 'Stanley_Steamer', 'ambulance', 'beach_waggon', 'beach_wagon', 'bus', 'cab', 'compact', 'compact_car', 'convertible', 'coupe', 'cruiser', 'electric', 'electric_automobile', 'electric_car', 'estate_car', 'gas_guzzler', 'hack', 'hardtop', 'hatchback', 'heap', 'horseless_carriage', 'hot-rod', 'hot_rod', 'jalopy', 'jeep', 'landrover', 'limo', 'limousine', 'loaner', 'minicar', 'minivan', 'pace_car', 'patrol_car', 'phaeton', 'police_car', 'police_cruiser', 'prowl_car', 'race_car', 'racer', 'racing_car', 'roadster', 'runabout', 'saloon', 'secondhand_car', 'sedan', 'sport_car', 'sport_utility', 'sport_utility_vehicle', 'sports_car', 'squad_car', 'station_waggon', 'station_wagon', 'stock_car', 'subcompact', 'subcompact_car', 'taxi', 'taxicab', 'tourer', 'touring_car', 'two-seater', 'used-car', 'waggon', 'wagon']
+
+
+
+Rank 39 word pair (five,month) w/ cosine similarity = 0.20095819 (WS353 rank = 62)
+-----------------------------------------
+
+Synonyms of five: ['five', '5', 'V', 'cinque', 'quint', 'quintet', 'fivesome', 'quintuplet', 'pentad', 'fin', 'Phoebe', 'Little_Phoebe', 'basketball_team', 'five', 'five-spot', 'five', 'five', '5', 'v']
+Hypernyms of five: []
+
+Synonyms of month: ['calendar_month', 'month', 'month']
+Hypernyms of month: ['Gregorian_calendar_month', 'Hindu_calendar_month', 'Islamic_calendar_month', 'Jewish_calendar_month', 'Revolutionary_calendar_month', 'date']
+
+
+
+Rank 40 word pair (century,nation) w/ cosine similarity = 0.19484058 (WS353 rank = 13)
+-----------------------------------------
+
+Synonyms of century: ['century', 'hundred', '100', 'C', 'century', 'one_C']
+Hypernyms of century: ['quattrocento', 'twentieth_century']
+
+Synonyms of nation: ['state', 'nation', 'country', 'land', 'commonwealth', 'res_publica', 'body_politic', 'nation', 'land', 'country', 'Nation', 'Carry_Nation', 'Carry_Amelia_Moore_Nation', 'nation']
+Hypernyms of nation: ['Dominion', 'Reich', 'ally', 'city-state', 'city_state', 'commonwealth_country', 'developing_country', 'foreign_country', 'great_power', 'major_power', 'power', 'renegade_state', 'rogue_nation', 'rogue_state', 'sea_power', 'superpower', 'suzerain', 'world_power']
+
+
+
+Rank 41 word pair (life,death) w/ cosine similarity = 0.19234881 (WS353 rank = 10)
+-----------------------------------------
+
+Synonyms of life: ['life', 'life', 'living', 'life', 'animation', 'life', 'living', 'aliveness', 'life', 'lifetime', 'life-time', 'lifespan', 'life', 'life', 'life', 'liveliness', 'life', 'spirit', 'sprightliness', 'life', 'life', 'biography', 'life', 'life_story', 'life_history', 'life', 'life_sentence', 'life']
+Hypernyms of life: ['ghetto']
+
+Synonyms of death: ['death', 'decease', 'expiry', 'death', 'death', 'death', 'dying', 'demise', 'death', 'last', 'Death', 'end', 'destruction', 'death', 'death']
+Hypernyms of death: ['departure', 'exit', 'expiration', 'fatality', 'going', 'human_death', 'loss', 'martyrdom', 'megadeath', 'passing', 'release', 'wrongful_death']
+
+
+
+Rank 42 word pair (profit,loss) w/ cosine similarity = 0.18996006 (WS353 rank = 12)
+-----------------------------------------
+
+Synonyms of profit: ['net_income', 'net', 'net_profit', 'lucre', 'profit', 'profits', 'earnings', 'profit', 'gain', 'profit', 'gain', 'benefit', 'profit', 'turn_a_profit']
+Hypernyms of profit: ['accumulation', 'cleanup', 'dividend', 'earning_per_share', 'fast_buck', 'filthy_lucre', 'gross_profit', 'gross_profit_margin', 'killing', 'margin', 'markup', 'quick_buck', 'windfall_profit']
+
+Synonyms of loss: ['loss', 'loss', 'loss', 'loss', 'deprivation', 'loss', 'loss', 'red_ink', 'red', 'personnel_casualty', 'loss', 'passing', 'loss', 'departure', 'exit', 'expiration', 'going', 'release']
+Hypernyms of loss: ['financial_loss', 'forfeit', 'forfeiture', 'sacrifice', 'wastage']
+
+
+
+Rank 43 word pair (school,center) w/ cosine similarity = 0.18118379 (WS353 rank = 61)
+-----------------------------------------
+
+Synonyms of school: ['school', 'school', 'schoolhouse', 'school', 'schooling', 'school', 'school', 'schooltime', 'school_day', 'school', 'school', 'shoal', 'school', 'educate', 'school', 'train', 'cultivate', 'civilize', 'civilise', 'school']
+Hypernyms of school: ['Gymnasium', 'Sabbath_school', 'Sunday_school', 'academy', 'alma_mater', 'conservatory', 'correspondence_school', 'crammer', 'dance_school', 'dancing_school', 'day_school', 'direct-grant_school', 'driving_school', 'elementary_school', 'finishing_school', 'flying_school', 'grad_school', 'grade_school', 'graduate_school', 'grammar_school', 'language_school', 'lycee', 'lyceum', 'middle_school', 'night_school', 'nursing_school', 'primary_school', 'private_school', 'public_school', 'religious_school', 'riding_school', 'school_of_nursing', 'secondary_school', 'secretarial_school', 'tech', 'technical_school', 'training_school', 'veterinary_school']
+
+Synonyms of center: ['center', 'centre', 'middle', 'heart', 'eye', 'center_field', 'centerfield', 'center', 'center', 'centre', 'center', 'centre', 'midpoint', 'kernel', 'substance', 'core', 'center', 'centre', 'essence', 'gist', 'heart', 'heart_and_soul', 'inwardness', 'marrow', 'meat', 'nub', 'pith', 'sum', 'nitty-gritty', 'center', 'centre', 'center_of_attention', 'centre_of_attention', 'center', 'centre', 'nerve_center', 'nerve_centre', 'center', 'center', 'center', 'snapper', 'center', 'centre', 'center', 'center', 'center', 'centre', 'plaza', 'mall', 'center', 'shopping_mall', 'shopping_center', 'shopping_centre', 'center', 'center', 'center', 'focus_on', 'center_on', 'revolve_around', 'revolve_about', 'concentrate_on', 'center', 'concentrate', 'focus', 'center', 'centre', 'pore', 'rivet', 'center', 'centre', 'center', 'halfway', 'middle', 'midway', 'center']
+Hypernyms of center: ['center_stage', 'central_city', 'centre_stage', 'city_center', 'city_centre', 'financial_center', 'hub', 'inner_city', 'medical_center', 'midfield', 'midstream', 'seat', 'storm_center', 'storm_centre']
+
+
+
+Rank 44 word pair (start,year) w/ cosine similarity = 0.17188774 (WS353 rank = 44)
+-----------------------------------------
+
+Synonyms of start: ['start', 'beginning', 'commencement', 'first', 'outset', 'get-go', 'start', 'kickoff', 'starting_time', 'showtime', 'offset', 'start', 'starting', 'startle', 'jump', 'start', 'beginning', 'start', 'commencement', 'start', 'starting_line', 'scratch', 'scratch_line', 'starting_signal', 'start', 'start', 'head_start', 'get_down', 'begin', 'get', 'start_out', 'start', 'set_about', 'set_out', 'commence', 'begin', 'lead_off', 'start', 'commence', 'depart', 'part', 'start', 'start_out', 'set_forth', 'set_off', 'set_out', 'take_off', 'begin', 'start', 'originate', 'initiate', 'start', 'start', 'start_up', 'embark_on', 'commence', 'startle', 'jump', 'start', 'start', 'start_up', 'start', 'go', 'get_going', 'start', 'take_up', 'start', 'begin', 'start', 'begin', 'start', 'start', 'protrude', 'pop', 'pop_out', 'bulge', 'bulge_out', 'bug_out', 'come_out']
+Hypernyms of start: ['adrenarche', 'alpha', 'curtain_raising', 'dawn', 'flying_start', 'kickoff', 'menarche', 'morning', 'oncoming', 'onset', 'opener', 'opening', 'opening_night', 'racing_start', 'running_start', 'send-off', 'start-off', 'thelarche']
+
+Synonyms of year: ['year', 'twelvemonth', 'yr', 'year', 'year', 'class', 'year']
+Hypernyms of year: ['365_days', '366_days', 'Christian_year', 'Holy_Year', 'New_Year', 'Y2K', 'annum', 'bissextile_year', 'calendar_year', 'church_year', 'civil_year', 'common_year', 'financial_year', 'fiscal_year', 'intercalary_year', 'leap_year', 'off_year', 'off_year', 'year_of_grace']
+
+
+
+Rank 45 word pair (travel,activity) w/ cosine similarity = 0.17071018 (WS353 rank = 31)
+-----------------------------------------
+
+Synonyms of travel: ['travel', 'traveling', 'travelling', 'change_of_location', 'travel', 'locomotion', 'travel', 'travel', 'go', 'move', 'locomote', 'travel', 'journey', 'travel', 'trip', 'jaunt', 'travel', 'journey', 'travel', 'travel', 'move_around']
+Hypernyms of travel: ['air', 'air_travel', 'aviation', 'circumnavigation', 'commutation', 'commuting', 'crossing', 'driving', 'horseback_riding', 'journey', 'journeying', 'junketing', 'leg', 'on_the_road', 'on_tour', 'peregrination', 'riding', 'roving', 'seafaring', 'stage', 'staging', 'traversal', 'traverse', 'vagabondage', 'walk', 'wandering', 'water_travel', 'wayfaring']
+
+Synonyms of activity: ['activity', 'action', 'activity', 'activeness', 'bodily_process', 'body_process', 'bodily_function', 'activity', 'activity', 'natural_process', 'natural_action', 'action', 'activity', 'activeness', 'activity']
+Hypernyms of activity: ['acting', 'activating', 'activation', 'actus_reus', 'aid', 'animation', 'assist', 'assistance', 'attempt', 'bag', 'behavior', 'behavior', 'behaviour', 'behaviour', 'burst', 'business', 'buzz', 'calibration', 'ceremony', 'ceremony', 'committal_to_writing', 'concealing', 'concealment', 'conduct', 'continuance', 'continuation', 'control', 'creation', 'creative_activity', 'cup_of_tea', 'deeds', 'delectation', 'demand', 'didactics', 'disassembly', 'dish', 'dismantlement', 'dismantling', 'dissipation', 'disturbance', 'diversion', 'doings', 'domesticity', 'education', 'educational_activity', 'effort', 'emplacement', 'employment', 'endeavor', 'endeavour', 'energizing', 'enjoyment', 'exercise', 'fit', 'follow-up', 'followup', 'fun', 'game', 'grooming', 'grouping', 'hell', 'help', 'hiding', 'hunt', 'hunting', 'instruction', 'job', 'lamentation', 'last', 'laughter', 'leadership', 'leading', 'line', 'line_of_work', 'liveliness', 'locating', 'location', 'market', 'market_place', 'marketplace', 'measure', 'measurement', 'measuring', 'mensuration', 'military_operation', 'misconduct', 'mourning', 'music', 'mystification', 'negotiation', 'obfuscation', 'occupation', 'occupation', 'operation', 'operation', 'operation', 'organisation', 'organization', 'outlet', 'pattern', 'pedagogy', 'performing', 'perturbation', 'placement', 'play', 'playacting', 'playing', 'pleasure', 'politics', 'position', 'positioning', 'practice', 'precedence', 'precedency', 'precession', 'preparation', 'preparation', 'procedure', 'process', 'protection', 'provision', 'puncture', 'readying', 'recreation', 'release', 'representation', 'role', 'search', 'sensory_activity', 'service', 'sin', 'solo', 'space_walk', 'standardisation', 'standardization', 'supply', 'supplying', 'support', 'support', 'supporting', 'teaching', 'timekeeping', 'training', 'try', 'turn', 'usage', 'use', 'utilisation', 'utilization', 'variance', 'variation', 'vent', 'verbalisation', 'verbalization', 'waste', 'wastefulness', 'work', 'works', 'worship', 'writing', 'wrongdoing', 'wrongful_conduct']
+
+
+
+Rank 46 word pair (space,chemistry) w/ cosine similarity = 0.16990511 (WS353 rank = 36)
+-----------------------------------------
+
+Synonyms of space: ['space', 'infinite', 'space', 'space', 'outer_space', 'space', 'space', 'blank', 'distance', 'space', 'space', 'blank_space', 'place', 'space', 'quad', 'space', 'space']
+Hypernyms of space: ['absolute_space', 'mathematical_space', 'outer_space', 'phase_space', 'space', 'topological_space']
+
+Synonyms of chemistry: ['chemistry', 'chemical_science', 'chemistry', 'chemistry', 'interpersonal_chemistry', 'alchemy']
+Hypernyms of chemistry: ['chemoimmunology', 'electrochemistry', 'femtochemistry', 'geochemistry', 'immunochemistry', 'inorganic_chemistry', 'nuclear_chemistry', 'organic_chemistry', 'photochemistry', 'physical_chemistry', 'radiochemistry', 'surface_chemistry', 'thermochemistry']
+
+
+
+Rank 47 word pair (ministry,culture) w/ cosine similarity = 0.16420388 (WS353 rank = 39)
+-----------------------------------------
+
+Synonyms of ministry: ['ministry', 'ministry', 'ministry', 'ministry']
+Hypernyms of ministry: []
+
+Synonyms of culture: ['culture', 'civilization', 'civilisation', 'culture', 'acculturation', 'culture', 'culture', 'polish', 'refinement', 'culture', 'cultivation', 'finish', 'culture', 'culture', 'culture']
+Hypernyms of culture: ['Aegean_civilisation', 'Aegean_civilization', 'Aegean_culture', 'Helladic_civilisation', 'Helladic_civilization', 'Helladic_culture', 'Indus_civilization', 'Minoan_civilisation', 'Minoan_civilization', 'Minoan_culture', 'Mycenaean_civilisation', 'Mycenaean_civilization', 'Mycenaean_culture', 'Paleo-American_culture', 'Paleo-Amerind_culture', 'Paleo-Indian_culture', 'Western_civilization', 'Western_culture']
+
+
+
+Rank 48 word pair (opera,performance) w/ cosine similarity = 0.16250375 (WS353 rank = 18)
+-----------------------------------------
+
+Synonyms of opera: ['opera', 'Opera', 'opera', 'opera_house']
+Hypernyms of opera: ['bouffe', 'comic_opera', 'grand_opera', 'musical_drama', 'opera_bouffe', 'opera_comique']
+
+Synonyms of performance: ['performance', 'public_presentation', 'performance', 'performance', 'execution', 'carrying_out', 'carrying_into_action', 'performance', 'operation', 'functioning', 'performance']
+Hypernyms of performance: ['act', 'benefit', 'bit', 'concert', 'histrionics', 'number', 'pianism', 'play_reading', 'premiere', 'recital', 'rendering', 'rendition', 'representation', 'routine', 'song_and_dance', 'spectacular', 'theatrical', 'theatrical_performance', 'turn', 'world_premiere']
+
+
+
+Rank 49 word pair (attempt,peace) w/ cosine similarity = 0.16153814 (WS353 rank = 46)
+-----------------------------------------
+
+Synonyms of attempt: ['attempt', 'effort', 'endeavor', 'endeavour', 'try', 'attack', 'attempt', 'try', 'seek', 'attempt', 'essay', 'assay', 'undertake', 'set_about', 'attempt']
+Hypernyms of attempt: ['batting', 'battle', 'best', 'bid', 'contribution', 'crack', 'essay', 'fling', 'foray', 'go', 'liberation', "mug's_game", 'nisus', 'offer', 'pains', 'part', 'pass', 'play', 'power_play', 'run', 'seeking', 'share', 'shot', 'shot', 'squeeze', 'squeeze_play', 'stab', 'strain', 'striving', 'struggle', 'takeover_attempt', 'test', 'test', 'trial', 'trial', 'whirl', 'worst']
+
+Synonyms of peace: ['peace', 'peace', 'peace', 'peacefulness', 'peace_of_mind', 'repose', 'serenity', 'heartsease', 'ataraxis', 'peace', 'public_security', 'peace', 'peace_treaty', 'pacification']
+Hypernyms of peace: ['Pax_Romana', 'amity', 'armistice', 'cease-fire', 'collective_security', 'conciliation', 'truce']
+
+
+
+Rank 50 word pair (opera,industry) w/ cosine similarity = 0.1572392 (WS353 rank = 18)
+-----------------------------------------
+
+Synonyms of opera: ['opera', 'Opera', 'opera', 'opera_house']
+Hypernyms of opera: ['bouffe', 'comic_opera', 'grand_opera', 'musical_drama', 'opera_bouffe', 'opera_comique']
+
+Synonyms of industry: ['industry', 'industry', 'manufacture', 'diligence', 'industriousness', 'industry']
+Hypernyms of industry: ['aluminum_business', 'aluminum_industry', 'apparel_industry', 'arms_industry', 'automobile_industry', 'aviation', 'banking_industry', 'banking_system', 'chemical_industry', 'coal_industry', 'computer_industry', 'construction_industry', 'electronics_industry', 'entertainment_industry', 'fashion_business', 'fashion_industry', 'film_industry', 'garment_industry', 'growth_industry', 'housing_industry', 'lighting_industry', 'market', 'movie_industry', 'munitions_industry', 'oil_business', 'oil_industry', 'plastics_industry', 'rag_trade', 'refining_industry', 'securities_industry', 'service_industry', 'shipbuilding_industry', 'shoe_industry', 'show_biz', 'show_business', 'sign_industry', 'steel_industry', 'sunrise_industry', 'tobacco_industry', 'toy_business', 'toy_industry', 'trucking_industry']
+
+
+
+Rank 51 word pair (life,term) w/ cosine similarity = 0.15261212 (WS353 rank = 10)
+-----------------------------------------
+
+Synonyms of life: ['life', 'life', 'living', 'life', 'animation', 'life', 'living', 'aliveness', 'life', 'lifetime', 'life-time', 'lifespan', 'life', 'life', 'life', 'liveliness', 'life', 'spirit', 'sprightliness', 'life', 'life', 'biography', 'life', 'life_story', 'life_history', 'life', 'life_sentence', 'life']
+Hypernyms of life: ['ghetto']
+
+Synonyms of term: ['term', 'term', 'condition', 'term', 'term', 'term', 'term', 'full_term', 'terminus', 'terminal_figure', 'term', 'term']
+Hypernyms of term: ['referent']
+
+
+
+Rank 52 word pair (energy,secretary) w/ cosine similarity = 0.14919567 (WS353 rank = 81)
+-----------------------------------------
+
+Synonyms of energy: ['energy', 'free_energy', 'energy', 'vigor', 'vigour', 'zip', 'energy', 'push', 'get-up-and-go', 'energy', 'muscularity', 'vigor', 'vigour', 'vim', 'energy', 'vim', 'vitality', 'energy', 'Department_of_Energy', 'Energy_Department', 'Energy', 'DOE']
+Hypernyms of energy: ['activation_energy', 'alternative_energy', 'atomic_energy', 'binding_energy', 'chemical_energy', 'electrical_energy', 'electricity', 'energy_level', 'energy_of_activation', 'energy_state', 'heat', 'heat_energy', 'mechanical_energy', 'nuclear_energy', 'radiant_energy', 'radiation', 'rest_energy', 'separation_energy', 'work']
+
+Synonyms of secretary: ['secretary', 'secretary', 'secretarial_assistant', 'repository', 'secretary', 'secretary', 'writing_table', 'escritoire', 'secretaire']
+Hypernyms of secretary: ['Agriculture_Secretary', 'Attorney_General', 'Commerce_Secretary', 'Defense_Secretary', 'Education_Secretary', 'Energy_Secretary', 'Interior_Secretary', 'Labor_Secretary', 'Secretary_of_Agriculture', 'Secretary_of_Commerce', 'Secretary_of_Defense', 'Secretary_of_Education', 'Secretary_of_Energy', 'Secretary_of_Health_and_Human_Services', 'Secretary_of_Housing_and_Urban_Development', 'Secretary_of_Labor', 'Secretary_of_State', 'Secretary_of_Transportation', 'Secretary_of_Veterans_Affairs', 'Secretary_of_the_Interior', 'Secretary_of_the_Treasury', 'Transportation_Secretary', 'Treasury_Secretary', 'US_Attorney_General', 'United_States_Attorney_General', 'undersecretary']
+
+
+
+Rank 53 word pair (direction,combination) w/ cosine similarity = 0.14683652 (WS353 rank = 77)
+-----------------------------------------
+
+Synonyms of direction: ['direction', 'way', 'direction', 'direction', 'guidance', 'counsel', 'counseling', 'counselling', 'direction', 'management', 'direction', 'direction', 'instruction', 'steering', 'guidance', 'direction', 'commission', 'charge', 'direction', 'focus', 'focusing', 'focussing', 'focal_point', 'direction', 'centering']
+Hypernyms of direction: ['aim', 'bearing', 'course', 'east-west_direction', 'heading', 'north-south_direction', 'qibla', 'tendency', 'trend', 'trend']
+
+Synonyms of combination: ['combination', 'combination', 'combination', 'combination', 'combination', 'combination', 'combination', 'combining', 'compounding']
+Hypernyms of combination: ['amalgam', 'color_scheme', 'colour_scheme', 'complexion', 'haplotype']
+
+
+
+Rank 54 word pair (architecture,century) w/ cosine similarity = 0.14425433 (WS353 rank = 51)
+-----------------------------------------
+
+Synonyms of architecture: ['architecture', 'architecture', 'architecture', 'computer_architecture', 'architecture']
+Hypernyms of architecture: []
+
+Synonyms of century: ['century', 'hundred', '100', 'C', 'century', 'one_C']
+Hypernyms of century: ['quattrocento', 'twentieth_century']
+
+
+
+Rank 55 word pair (experience,music) w/ cosine similarity = 0.14188725 (WS353 rank = 60)
+-----------------------------------------
+
+Synonyms of experience: ['experience', 'experience', 'experience', 'experience', 'see', 'go_through', 'know', 'experience', 'live', 'experience', 'receive', 'have', 'get', 'feel', 'experience', 'have', 'experience']
+Hypernyms of experience: ['familiarisation', 'familiarization', 'woodcraft']
+
+Synonyms of music: ['music', 'music', 'euphony', 'music', 'music', 'music', 'medicine']
+Hypernyms of music: ['Bach', 'Beethoven', 'Brahms', 'Chopin', 'Gilbert_and_Sullivan', 'Handel', 'Haydn', 'Mozart', 'Stravinsky', "Ta'ziyeh", 'Wagner', 'air', 'antiphony', 'ballet', 'chorus', 'composition', 'concerted_music', 'dance_music', 'genre', 'harmony', 'instrumental_music', 'line', 'melodic_line', 'melodic_phrase', 'melody', 'monody', 'monophonic_music', 'monophony', 'music_genre', 'musical_composition', 'musical_genre', 'musical_harmony', 'musical_style', 'opus', 'overture', 'part_music', 'piece', 'piece_of_music', 'pizzicato', 'polyphonic_music', 'polyphony', 'polytonalism', 'polytonality', 'popularism', 'prelude', 'refrain', 'section', 'serial_music', 'serialism', 'strain', 'subdivision', 'syncopation', 'tune', 'vocal', 'vocal_music']
+
+
+
+Rank 56 word pair (cup,food) w/ cosine similarity = 0.14149521 (WS353 rank = 32)
+-----------------------------------------
+
+Synonyms of cup: ['cup', 'cup', 'cupful', 'cup', 'cup', 'cup', 'cup', 'cup', 'cup', 'loving_cup', 'cup', 'cup', 'cup', 'transfuse']
+Hypernyms of cup: ['Dixie_cup', 'beaker', 'chalice', 'coffee_cup', 'cylix', 'goblet', 'grace_cup', 'kylix', 'moustache_cup', 'mustache_cup', 'paper_cup', 'scyphus', 'teacup']
+
+Synonyms of food: ['food', 'nutrient', 'food', 'solid_food', 'food', 'food_for_thought', 'intellectual_nourishment']
+Hypernyms of food: ['aliment', 'alimentation', 'beverage', 'chyme', 'comestible', 'comfort_food', 'commissariat', 'culture_medium', 'drink', 'drinkable', 'eatable', 'edible', 'fare', 'feed', 'food_product', 'foodstuff', 'manna', 'manna_from_heaven', 'medium', 'micronutrient', 'miraculous_food', 'nourishment', 'nutriment', 'nutrition', 'pabulum', 'potable', 'provender', 'provender', 'provisions', 'soul_food', 'sustenance', 'viands', 'victual', 'victuals', 'victuals', 'victuals', 'vitellus', 'water', 'yolk']
+
+
+
+Rank 57 word pair (development,issue) w/ cosine similarity = 0.14047274 (WS353 rank = 49)
+-----------------------------------------
+
+Synonyms of development: ['development', 'development', 'evolution', 'growth', 'growing', 'maturation', 'development', 'ontogeny', 'ontogenesis', 'development', 'exploitation', 'development', 'development', 'development', 'development', 'developing', 'development']
+Hypernyms of development: ['advancement', 'broadening', 'elaboration', 'product_development', 'progress', 'working_out']
+
+Synonyms of issue: ['issue', 'issue', 'number', 'topic', 'subject', 'issue', 'matter', 'issue', 'issuing', 'issuance', 'issue', 'military_issue', 'government_issue', 'return', 'issue', 'take', 'takings', 'proceeds', 'yield', 'payoff', 'consequence', 'effect', 'outcome', 'result', 'event', 'issue', 'upshot', 'offspring', 'progeny', 'issue', 'emergence', 'egress', 'issue', 'exit', 'issue', 'outlet', 'way_out', 'issue', 'publication', 'publish', 'bring_out', 'put_out', 'issue', 'release', 'issue', 'supply', 'issue', 'issue', 'emerge', 'come_out', 'come_forth', 'go_forth', 'egress', 'write_out', 'issue', 'make_out', 'cut']
+Hypernyms of issue: ['bread-and-butter_issue', 'gut_issue', 'hot-button_issue', 'paramount_issue', 'pocketbook_issue', 'quodlibet']
+
+
+
+Rank 58 word pair (media,trading) w/ cosine similarity = 0.13748237 (WS353 rank = 16)
+-----------------------------------------
+
+Synonyms of media: ['medium', 'medium', 'medium', 'culture_medium', 'medium', 'medium', 'medium', 'medium', 'medium', 'medium', 'spiritualist', 'sensitive', 'medium', 'mass_medium', 'metier', 'medium']
+Hypernyms of media: ['album', 'celluloid', 'cinema', 'data-storage_medium', 'film', 'paper', 'print_media', 'record_album', 'storage_medium', 'telecom', 'telecommunication', 'vehicle']
+
+Synonyms of trading: ['trading', 'trade', 'merchandise', 'trade', 'trade_in', 'trade', 'trade', 'swap', 'swop', 'switch', 'deal', 'sell', 'trade']
+Hypernyms of trading: ['bond-trading_activity', 'bond_trading', 'insider_trading', 'program_trading', 'short_covering', 'short_sale', 'short_selling']
+
+
+
+Rank 59 word pair (image,surface) w/ cosine similarity = 0.13010025 (WS353 rank = 41)
+-----------------------------------------
+
+Synonyms of image: ['image', 'mental_image', 'persona', 'image', 'picture', 'image', 'icon', 'ikon', 'prototype', 'paradigm', 'epitome', 'image', 'trope', 'figure_of_speech', 'figure', 'image', 'double', 'image', 'look-alike', 'image', 'range', 'range_of_a_function', 'image', 'effigy', 'image', 'simulacrum', 'image', 'visualize', 'visualise', 'envision', 'project', 'fancy', 'see', 'figure', 'picture', 'image']
+Hypernyms of image: ['auditory_image', 'imagination_image', 'impression', 'memory_image', 'mental_picture', 'picture', 'thought-image', 'visual_image', 'visualisation', 'visualization']
+
+Synonyms of surface: ['surface', 'surface', 'surface', "Earth's_surface", 'surface', 'open', 'surface', 'airfoil', 'aerofoil', 'control_surface', 'surface', 'surface', 'come_up', 'rise_up', 'rise', 'coat', 'surface', 'come_on', 'come_out', 'turn_up', 'surface', 'show_up', 'surface']
+Hypernyms of surface: ['Klein_bottle', 'Mobius_strip', 'bed', 'board', 'face', 'gameboard', 'ground', 'horizontal_surface', 'level', 'meniscus', 'miter', 'mitre', 'plaster', 'plasterwork', 'projection_screen', 'screen', 'side', 'silver_screen', 'skin', 'spandrel', 'spandril', 'superficies', 'tread', 'vertical_surface', 'work_surface']
+
+
+
+Rank 60 word pair (cup,substance) w/ cosine similarity = 0.1300438 (WS353 rank = 32)
+-----------------------------------------
+
+Synonyms of cup: ['cup', 'cup', 'cupful', 'cup', 'cup', 'cup', 'cup', 'cup', 'cup', 'loving_cup', 'cup', 'cup', 'cup', 'transfuse']
+Hypernyms of cup: ['Dixie_cup', 'beaker', 'chalice', 'coffee_cup', 'cylix', 'goblet', 'grace_cup', 'kylix', 'moustache_cup', 'mustache_cup', 'paper_cup', 'scyphus', 'teacup']
+
+Synonyms of substance: ['substance', 'kernel', 'substance', 'core', 'center', 'centre', 'essence', 'gist', 'heart', 'heart_and_soul', 'inwardness', 'marrow', 'meat', 'nub', 'pith', 'sum', 'nitty-gritty', 'meaning', 'substance', 'substance', 'means', 'substance', 'message', 'content', 'subject_matter', 'substance', 'substance']
+Hypernyms of substance: ['activator', 'atom', 'body_substance', 'chemical_element', 'chemistry', 'element', 'element', 'essence', 'fluid', 'living_substance', 'material', 'medium', 'medium', 'mixture', 'phlogiston', 'protoplasm', 'stuff', 'substrate', 'volatile']
+
+
+
+Rank 61 word pair (seven,series) w/ cosine similarity = 0.12844074 (WS353 rank = 59)
+-----------------------------------------
+
+Synonyms of seven: ['seven', '7', 'VII', 'sevener', 'heptad', 'septet', 'septenary', 'seven-spot', 'seven', 'seven', '7', 'vii']
+Hypernyms of seven: []
+
+Synonyms of series: ['series', 'serial', 'series', 'series', 'serial', 'serial_publication', 'series', 'series', 'series', 'series']
+Hypernyms of series: ['Stations', 'Stations_of_the_Cross', 'actinide_series', 'blizzard', 'chain', 'concatenation', 'cordon', 'course', 'cycle', 'electrochemical_series', 'electromotive_force_series', 'electromotive_series', 'helium_group', 'hierarchy', 'lanthanide_series', 'line', 'nexus', 'patterned_advance', 'progression', 'rash', 'sequence', 'string', 'succession', 'train', 'wave_train']
+
+
+
+Rank 62 word pair (president,medal) w/ cosine similarity = 0.123367086 (WS353 rank = 69)
+-----------------------------------------
+
+Synonyms of president: ['president', 'President_of_the_United_States', 'United_States_President', 'President', 'Chief_Executive', 'president', 'president', 'chairman', 'chairwoman', 'chair', 'chairperson', 'president', 'prexy', 'President_of_the_United_States', 'President', 'Chief_Executive']
+Hypernyms of president: []
+
+Synonyms of medal: ['decoration', 'laurel_wreath', 'medal', 'medallion', 'palm', 'ribbon']
+Hypernyms of medal: ['Air_Medal', 'Bronze_Star', 'Bronze_Star_Medal', 'Congressional_Medal_of_Honor', 'Croix_de_Guerre', 'Distinguished_Conduct_Medal', 'Distinguished_Flying_Cross', 'Distinguished_Service_Cross', 'Distinguished_Service_Medal', 'Distinguished_Service_Order', 'Medaille_Militaire', 'Medal_of_Honor', 'Navy_Cross', 'Oak_Leaf_Cluster', 'Order_of_the_Purple_Heart', 'Purple_Heart', 'Silver_Star', 'Silver_Star_Medal', 'Victoria_Cross']
+
+
+
+Rank 63 word pair (street,block) w/ cosine similarity = 0.12060259 (WS353 rank = 19)
+-----------------------------------------
+
+Synonyms of street: ['street', 'street', 'street', 'street', 'street']
+Hypernyms of street: ['alley', 'alleyway', 'avenue', 'back_street', 'boulevard', 'cross_street', 'high_street', 'local_road', 'local_street', 'main_street', 'mews', 'rue', 'side_street']
+
+Synonyms of block: ['block', 'block', 'city_block', 'block', 'cube', 'block', 'block', 'block', 'block', 'mental_block', 'pulley', 'pulley-block', 'pulley_block', 'block', 'engine_block', 'cylinder_block', 'block', 'blockage', 'block', 'closure', 'occlusion', 'stop', 'stoppage', 'auction_block', 'block', 'blocking', 'block', 'barricade', 'block', 'blockade', 'stop', 'block_off', 'block_up', 'bar', 'obstruct', 'blockade', 'block', 'hinder', 'stymie', 'stymy', 'embarrass', 'stop', 'halt', 'block', 'kibosh', 'jam', 'block', 'block', 'block', 'obstruct', 'block', 'block', 'stuff', 'lug', 'choke_up', 'block', 'obstruct', 'obturate', 'impede', 'occlude', 'jam', 'block', 'close_up', 'block', 'parry', 'block', 'deflect', 'forget', 'block', 'blank_out', 'draw_a_blank', 'block', 'block', 'freeze', 'block', 'immobilize', 'immobilise']
+Hypernyms of block: ['anvil', 'bar', 'block_of_metal', 'briquet', 'briquette', 'cake', 'chock', 'chopping_block', 'crosshead', 'cube', 'domino', 'ingot', 'inking_pad', 'inkpad', 'metal_bar', 'nog', 'nut', 'pad', 'slab', 'square_block', 'stamp_pad', 'starting_block', 'step', 'swage_block', 'type', 'wedge']
+
+
+
+Rank 64 word pair (media,gain) w/ cosine similarity = 0.120387435 (WS353 rank = 16)
+-----------------------------------------
+
+Synonyms of media: ['medium', 'medium', 'medium', 'culture_medium', 'medium', 'medium', 'medium', 'medium', 'medium', 'medium', 'spiritualist', 'sensitive', 'medium', 'mass_medium', 'metier', 'medium']
+Hypernyms of media: ['album', 'celluloid', 'cinema', 'data-storage_medium', 'film', 'paper', 'print_media', 'record_album', 'storage_medium', 'telecom', 'telecommunication', 'vehicle']
+
+Synonyms of gain: ['addition', 'increase', 'gain', 'profit', 'gain', 'amplification', 'gain', 'gain', 'derive', 'gain', 'acquire', 'win', 'gain', 'profit', 'gain', 'benefit', 'reach', 'make', 'attain', 'hit', 'arrive_at', 'gain', 'gain', 'advance', 'win', 'pull_ahead', 'make_headway', 'get_ahead', 'gain_ground', 'advance', 'gain', 'gain', 'gather', 'gain', 'take_in', 'clear', 'make', 'earn', 'realize', 'realise', 'pull_in', 'bring_in', 'gain', 'put_on']
+Hypernyms of gain: ['accretion']
+
+
+
+Rank 65 word pair (population,development) w/ cosine similarity = 0.11149005 (WS353 rank = 52)
+-----------------------------------------
+
+Synonyms of population: ['population', 'population', 'population', 'universe', 'population', 'population']
+Hypernyms of population: ['home_front']
+
+Synonyms of development: ['development', 'development', 'evolution', 'growth', 'growing', 'maturation', 'development', 'ontogeny', 'ontogenesis', 'development', 'exploitation', 'development', 'development', 'development', 'development', 'developing', 'development']
+Hypernyms of development: ['advancement', 'broadening', 'elaboration', 'product_development', 'progress', 'working_out']
+
+
+
+Rank 66 word pair (stock,live) w/ cosine similarity = 0.10289701 (WS353 rank = 53)
+-----------------------------------------
+
+Synonyms of stock: ['stock', 'stock', 'inventory', 'stock', 'gunstock', 'stock_certificate', 'stock', 'store', 'stock', 'fund', 'lineage', 'line', 'line_of_descent', 'descent', 'bloodline', 'blood_line', 'blood', 'pedigree', 'ancestry', 'origin', 'parentage', 'stemma', 'stock', 'breed', 'strain', 'stock', 'broth', 'stock', 'stock', 'stock', 'caudex', 'stock', 'stock', 'gillyflower', 'Malcolm_stock', 'stock', 'stock', 'stock', 'neckcloth', 'stock', 'livestock', 'stock', 'farm_animal', 'stock', 'carry', 'stockpile', 'stock', 'stock', 'stock', 'stock', 'buy_in', 'stock_up', 'stock', 'sprout', 'stock', 'banal', 'commonplace', 'hackneyed', 'old-hat', 'shopworn', 'stock', 'threadbare', 'timeworn', 'tired', 'trite', 'well-worn', 'stock', 'standard', 'stock']
+Hypernyms of stock: ['authorized_shares', 'authorized_stock', 'capital_stock', 'common_shares', 'common_stock', 'common_stock_equivalent', 'control_stock', 'float', 'growth_stock', 'hot_issue', 'hot_stock', 'no-par-value_stock', 'no-par_stock', 'ordinary_shares', 'preference_shares', 'preferred_shares', 'preferred_stock', 'quarter_stock', 'reacquired_stock', 'treasury_shares', 'treasury_stock', 'voting_stock', 'watered_stock']
+
+Synonyms of live: ['populate', 'dwell', 'live', 'inhabit', 'live', 'survive', 'last', 'live', 'live_on', 'go', 'endure', 'hold_up', 'hold_out', 'exist', 'survive', 'live', 'subsist', 'be', 'live', 'know', 'experience', 'live', 'live', 'live', 'unrecorded', 'live', 'alive', 'live', 'live', 'live', 'bouncy', 'live', 'lively', 'resilient', 'springy', 'live', 'live', 'live', 'hot', 'live', 'alive', 'live', 'live']
+Hypernyms of live: ['bivouac', 'board', 'camp', 'camp_out', 'cohabit', 'domicile', 'domiciliate', 'encamp', 'live_together', 'lodge', 'lodge_in', 'neighbor', 'neighbour', 'nest', 'occupy', 'overpopulate', 'people', 'reside', 'reside', 'room', 'shack', 'shack_up', 'tenant', 'tent']
+
+
+
+Rank 67 word pair (focus,life) w/ cosine similarity = 0.102558866 (WS353 rank = 48)
+-----------------------------------------
+
+Synonyms of focus: ['focus', 'focusing', 'focussing', 'focal_point', 'direction', 'centering', 'focus', 'focus', 'focus', 'focal_point', 'nidus', 'stress', 'focus', 'focus', 'focal_point', 'focus', 'concentrate', 'focus', 'center', 'centre', 'pore', 'rivet', 'focus', 'concenter', 'concentre', 'focalize', 'focalise', 'focus', 'focus', 'focalize', 'focalise', 'focus', 'focalize', 'focalise', 'sharpen']
+Hypernyms of focus: ['particularism']
+
+Synonyms of life: ['life', 'life', 'living', 'life', 'animation', 'life', 'living', 'aliveness', 'life', 'lifetime', 'life-time', 'lifespan', 'life', 'life', 'life', 'liveliness', 'life', 'spirit', 'sprightliness', 'life', 'life', 'biography', 'life', 'life_story', 'life_history', 'life', 'life_sentence', 'life']
+Hypernyms of life: ['ghetto']
+
+
+
+Rank 68 word pair (man,governor) w/ cosine similarity = 0.09332682 (WS353 rank = 6)
+-----------------------------------------
+
+Synonyms of man: ['man', 'adult_male', 'serviceman', 'military_man', 'man', 'military_personnel', 'man', 'homo', 'man', 'human_being', 'human', 'man', 'man', 'valet', 'valet_de_chambre', 'gentleman', "gentleman's_gentleman", 'man', 'man', 'Man', 'Isle_of_Man', 'man', 'piece', 'world', 'human_race', 'humanity', 'humankind', 'human_beings', 'humans', 'mankind', 'man', 'man', 'man']
+Hypernyms of man: ['Black_man', 'Esq', 'Esquire', 'Herr', 'Hooray_Henry', 'Methuselah', 'Monsieur', 'Peter_Pan', 'Samson', 'Senhor', 'Tarzan', 'adonis', 'baboo', 'babu', 'bachelor', 'beau', 'beau', 'bey', 'boy', 'boyfriend', 'bozo', 'bruiser', 'bull', 'buster', 'castrate', 'cat', 'clotheshorse', 'dandy', 'divorced_man', 'dude', 'dude', 'ejaculator', 'eunuch', 'ex', 'ex-boyfriend', 'ex-husband', 'fashion_plate', 'father-figure', 'father_figure', 'father_surrogate', 'fellow', 'fellow', 'fop', 'gallant', 'galoot', 'geezer', 'gentleman', 'golden_boy', 'grass_widower', 'graybeard', 'greybeard', 'guy', 'he-man', 'hombre', 'housefather', 'hunk', 'inamorato', 'iron_man', 'ironman', 'ironside', 'macho-man', 'middle-aged_man', 'old_boy', 'old_man', 'old_man', 'paterfamilias', 'patriarch', 'philanderer', 'ponce', 'posseman', 'shaver', 'sheik', 'signior', 'signor', 'signore', 'sir', 'stiff', 'strapper', 'stud', 'swain', 'swell', 'unmarried_man', 'white_man', 'widower', 'widowman', 'womaniser', 'womanizer', 'wonder_boy', 'yellow_man', 'young_buck', 'young_man', 'young_man']
+
+Synonyms of governor: ['governor', 'governor', 'regulator']
+Hypernyms of governor: ['bey', 'eparch', 'governor_general', 'military_governor', 'nabob', 'nawab', 'proconsul', 'satrap', 'vicereine', 'viceroy']
+
+
+
+Rank 69 word pair (stock,life) w/ cosine similarity = 0.09073652 (WS353 rank = 53)
+-----------------------------------------
+
+Synonyms of stock: ['stock', 'stock', 'inventory', 'stock', 'gunstock', 'stock_certificate', 'stock', 'store', 'stock', 'fund', 'lineage', 'line', 'line_of_descent', 'descent', 'bloodline', 'blood_line', 'blood', 'pedigree', 'ancestry', 'origin', 'parentage', 'stemma', 'stock', 'breed', 'strain', 'stock', 'broth', 'stock', 'stock', 'stock', 'caudex', 'stock', 'stock', 'gillyflower', 'Malcolm_stock', 'stock', 'stock', 'stock', 'neckcloth', 'stock', 'livestock', 'stock', 'farm_animal', 'stock', 'carry', 'stockpile', 'stock', 'stock', 'stock', 'stock', 'buy_in', 'stock_up', 'stock', 'sprout', 'stock', 'banal', 'commonplace', 'hackneyed', 'old-hat', 'shopworn', 'stock', 'threadbare', 'timeworn', 'tired', 'trite', 'well-worn', 'stock', 'standard', 'stock']
+Hypernyms of stock: ['authorized_shares', 'authorized_stock', 'capital_stock', 'common_shares', 'common_stock', 'common_stock_equivalent', 'control_stock', 'float', 'growth_stock', 'hot_issue', 'hot_stock', 'no-par-value_stock', 'no-par_stock', 'ordinary_shares', 'preference_shares', 'preferred_shares', 'preferred_stock', 'quarter_stock', 'reacquired_stock', 'treasury_shares', 'treasury_stock', 'voting_stock', 'watered_stock']
+
+Synonyms of life: ['life', 'life', 'living', 'life', 'animation', 'life', 'living', 'aliveness', 'life', 'lifetime', 'life-time', 'lifespan', 'life', 'life', 'life', 'liveliness', 'life', 'spirit', 'sprightliness', 'life', 'life', 'biography', 'life', 'life_story', 'life_history', 'life', 'life_sentence', 'life']
+Hypernyms of life: ['ghetto']
+
+
+
+Rank 70 word pair (computer,news) w/ cosine similarity = 0.090144366 (WS353 rank = 43)
+-----------------------------------------
+
+Synonyms of computer: ['computer', 'computing_machine', 'computing_device', 'data_processor', 'electronic_computer', 'information_processing_system', 'calculator', 'reckoner', 'figurer', 'estimator', 'computer']
+Hypernyms of computer: ['Turing_machine', 'analog_computer', 'analogue_computer', 'client', 'digital_computer', 'guest', 'home_computer', 'host', 'internet_site', 'node', 'number_cruncher', 'pari-mutuel_machine', 'predictor', 'server', 'site', 'totalisator', 'totaliser', 'totalizator', 'totalizer', 'web_site', 'website']
+
+Synonyms of news: ['news', 'intelligence', 'tidings', 'word', 'news', 'news_program', 'news_show', 'news', 'news', 'newsworthiness', 'news']
+Hypernyms of news: ['good_word', 'latest', 'update']
+
+
+
+Rank 71 word pair (report,gain) w/ cosine similarity = 0.08427311 (WS353 rank = 57)
+-----------------------------------------
+
+Synonyms of report: ['report', 'study', 'written_report', 'report', 'account', 'report', 'news_report', 'story', 'account', 'write_up', 'report', 'report_card', 'report', 'composition', 'paper', 'report', 'theme', 'reputation', 'report', 'report', 'describe', 'account', 'report', 'report', 'report', 'report', 'cover', 'report']
+Hypernyms of report: ['assay', 'blue_book', 'case_study', 'green_paper', 'medical_report', 'position_paper', 'progress_report', 'white_book', 'white_paper']
+
+Synonyms of gain: ['addition', 'increase', 'gain', 'profit', 'gain', 'amplification', 'gain', 'gain', 'derive', 'gain', 'acquire', 'win', 'gain', 'profit', 'gain', 'benefit', 'reach', 'make', 'attain', 'hit', 'arrive_at', 'gain', 'gain', 'advance', 'win', 'pull_ahead', 'make_headway', 'get_ahead', 'gain_ground', 'advance', 'gain', 'gain', 'gather', 'gain', 'take_in', 'clear', 'make', 'earn', 'realize', 'realise', 'pull_in', 'bring_in', 'gain', 'put_on']
+Hypernyms of gain: ['accretion']
+
+
+
+Rank 72 word pair (peace,insurance) w/ cosine similarity = 0.08399166 (WS353 rank = 38)
+-----------------------------------------
+
+Synonyms of peace: ['peace', 'peace', 'peace', 'peacefulness', 'peace_of_mind', 'repose', 'serenity', 'heartsease', 'ataraxis', 'peace', 'public_security', 'peace', 'peace_treaty', 'pacification']
+Hypernyms of peace: ['Pax_Romana', 'amity', 'armistice', 'cease-fire', 'collective_security', 'conciliation', 'truce']
+
+Synonyms of insurance: ['insurance', 'policy', 'insurance_policy', 'insurance', 'indemnity', 'insurance']
+Hypernyms of insurance: ['assurance', 'automobile_insurance', 'business_interruption_insurance', 'car_insurance', 'coinsurance', 'fire_insurance', 'group_insurance', 'hazard_insurance', 'health_insurance', 'liability_insurance', 'life_assurance', 'life_insurance', 'malpractice_insurance', 'reinsurance', 'self-insurance', 'term_insurance']
+
+
+
+Rank 73 word pair (holy,sex) w/ cosine similarity = 0.082144625 (WS353 rank = 82)
+-----------------------------------------
+
+Synonyms of holy: ['holy_place', 'sanctum', 'holy', 'holy']
+Hypernyms of holy: []
+
+Synonyms of sex: ['sexual_activity', 'sexual_practice', 'sex', 'sex_activity', 'sex', 'sex', 'sexual_urge', 'sex', 'gender', 'sexuality', 'arouse', 'sex', 'excite', 'turn_on', 'wind_up', 'sex']
+Hypernyms of sex: ['arousal', 'autoeroticism', 'autoerotism', 'bestiality', 'bisexuality', 'bondage', 'breeding', 'carnal_abuse', 'carnal_knowledge', 'coition', 'coitus', 'conception', 'congress', 'conjugation', 'copulation', 'coupling', 'facts_of_life', 'foreplay', 'gayness', 'heterosexualism', 'heterosexuality', 'homoeroticism', 'homosexualism', 'homosexuality', 'intercourse', 'lechery', 'love', 'love_life', 'lovemaking', 'making_love', 'mating', 'outercourse', 'pairing', 'perversion', 'pleasure', 'procreation', 'promiscuity', 'promiscuousness', 'queerness', 'relation', 'reproduction', 'safe_sex', 'sex_act', 'sexual_congress', 'sexual_intercourse', 'sexual_love', 'sexual_perversion', 'sexual_relation', 'sexual_union', 'sleeping_around', 'stimulation', 'straightness', 'union', 'zooerastia', 'zooerasty']
+
+
+
+Rank 74 word pair (street,children) w/ cosine similarity = 0.07081811 (WS353 rank = 19)
+-----------------------------------------
+
+Synonyms of street: ['street', 'street', 'street', 'street', 'street']
+Hypernyms of street: ['alley', 'alleyway', 'avenue', 'back_street', 'boulevard', 'cross_street', 'high_street', 'local_road', 'local_street', 'main_street', 'mews', 'rue', 'side_street']
+
+Synonyms of children: ['child', 'kid', 'youngster', 'minor', 'shaver', 'nipper', 'small_fry', 'tiddler', 'tike', 'tyke', 'fry', 'nestling', 'child', 'kid', 'child', 'baby', 'child']
+Hypernyms of children: ['bairn', 'bambino', 'buster', 'changeling', 'child_prodigy', 'foster-child', 'foster_child', 'fosterling', 'imp', 'infant_prodigy', 'kiddy', 'kindergartener', 'kindergartner', 'monkey', 'orphan', 'peanut', 'picaninny', 'piccaninny', 'pickaninny', 'poster_child', 'preschooler', 'rapscallion', 'rascal', 'scalawag', 'scallywag', 'scamp', 'silly', 'sprog', 'street_child', 'toddler', 'tot', 'urchin', 'waif', 'wonder_child', 'yearling']
+
+
+
+Rank 75 word pair (minority,peace) w/ cosine similarity = 0.05494605 (WS353 rank = 55)
+-----------------------------------------
+
+Synonyms of minority: ['minority', 'minority', 'minority', 'nonage']
+Hypernyms of minority: []
+
+Synonyms of peace: ['peace', 'peace', 'peace', 'peacefulness', 'peace_of_mind', 'repose', 'serenity', 'heartsease', 'ataraxis', 'peace', 'public_security', 'peace', 'peace_treaty', 'pacification']
+Hypernyms of peace: ['Pax_Romana', 'amity', 'armistice', 'cease-fire', 'collective_security', 'conciliation', 'truce']
+
+
+
+Rank 76 word pair (cup,article) w/ cosine similarity = 0.04952348 (WS353 rank = 32)
+-----------------------------------------
+
+Synonyms of cup: ['cup', 'cup', 'cupful', 'cup', 'cup', 'cup', 'cup', 'cup', 'cup', 'loving_cup', 'cup', 'cup', 'cup', 'transfuse']
+Hypernyms of cup: ['Dixie_cup', 'beaker', 'chalice', 'coffee_cup', 'cylix', 'goblet', 'grace_cup', 'kylix', 'moustache_cup', 'mustache_cup', 'paper_cup', 'scyphus', 'teacup']
+
+Synonyms of article: ['article', 'article', 'article', 'clause', 'article', 'article']
+Hypernyms of article: ['column', 'editorial', 'feature', 'feature_article', 'magazine_article', 'news_article', 'news_story', 'newspaper_article', 'newspaper_column', 'offprint', 'paper', 'reprint', 'separate', 'think_piece']
+
+
+
+Rank 77 word pair (problem,airport) w/ cosine similarity = 0.03759815 (WS353 rank = 76)
+-----------------------------------------
+
+Synonyms of problem: ['problem', 'job', 'problem', 'trouble', 'problem']
+Hypernyms of problem: ['balance-of-payments_problem', 'race_problem']
+
+Synonyms of airport: ['airport', 'airdrome', 'aerodrome', 'drome']
+Hypernyms of airport: ['heliport']
+
+
+
+Rank 78 word pair (sugar,approach) w/ cosine similarity = 0.031219436 (WS353 rank = 84)
+-----------------------------------------
+
+Synonyms of sugar: ['sugar', 'refined_sugar', 'carbohydrate', 'saccharide', 'sugar', 'boodle', 'bread', 'cabbage', 'clams', 'dinero', 'dough', 'gelt', 'kale', 'lettuce', 'lolly', 'lucre', 'loot', 'moolah', 'pelf', 'scratch', 'shekels', 'simoleons', 'sugar', 'wampum', 'sugar', 'saccharify']
+Hypernyms of sugar: ['beet_sugar', 'brown_sugar', 'cane_sugar', 'caramel', 'caramelized_sugar', 'corn_sugar', 'granulated_sugar', 'loaf_sugar', 'lump_sugar', 'sugar_loaf', 'sugarloaf']
+
+Synonyms of approach: ['approach', 'attack', 'plan_of_attack', 'approach', 'approaching', 'coming', 'access', 'approach', 'approach_path', 'approach', 'glide_path', 'glide_slope', 'approach', 'approaching', 'overture', 'advance', 'approach', 'feeler', 'approach', 'approaching', 'coming', 'approach', 'approach', 'approach_shot', 'approach', 'near', 'come_on', 'go_up', 'draw_near', 'draw_close', 'come_near', 'border_on', 'approach', 'set_about', 'go_about', 'approach', 'approach', 'come_near', 'approach']
+Hypernyms of approach: ['avenue']
+
+
+
+Rank 79 word pair (governor,interview) w/ cosine similarity = 0.030445408 (WS353 rank = 64)
+-----------------------------------------
+
+Synonyms of governor: ['governor', 'governor', 'regulator']
+Hypernyms of governor: ['bey', 'eparch', 'governor_general', 'military_governor', 'nabob', 'nawab', 'proconsul', 'satrap', 'vicereine', 'viceroy']
+
+Synonyms of interview: ['interview', 'consultation', 'audience', 'interview', 'interview', 'question', 'interview', 'interview']
+Hypernyms of interview: ['employment_interview', 'job_interview', 'telephone_interview']
+
+
+
+Rank 80 word pair (peace,atmosphere) w/ cosine similarity = 0.026177628 (WS353 rank = 38)
+-----------------------------------------
+
+Synonyms of peace: ['peace', 'peace', 'peace', 'peacefulness', 'peace_of_mind', 'repose', 'serenity', 'heartsease', 'ataraxis', 'peace', 'public_security', 'peace', 'peace_treaty', 'pacification']
+Hypernyms of peace: ['Pax_Romana', 'amity', 'armistice', 'cease-fire', 'collective_security', 'conciliation', 'truce']
+
+Synonyms of atmosphere: ['atmosphere', 'ambiance', 'ambience', 'standard_atmosphere', 'atmosphere', 'atm', 'standard_pressure', 'atmosphere', 'air', 'atmosphere', 'atmospheric_state', 'atmosphere', 'air', 'aura', 'atmosphere']
+Hypernyms of atmosphere: ['feel', 'feeling', 'flavor', 'flavour', 'genius_loci', 'gloom', 'gloominess', 'glumness', 'look', 'miasm', 'miasma', 'smell', 'spirit', 'tone']
+
+
+
+Rank 81 word pair (money,operation) w/ cosine similarity = 0.02379053 (WS353 rank = 0)
+-----------------------------------------
+
+Synonyms of money: ['money', 'money', 'money']
+Hypernyms of money: ['appropriation', 'boodle', 'bread', 'cabbage', 'clams', 'dinero', 'dough', 'fund', 'gelt', 'kale', 'lettuce', 'lolly', 'loot', 'lucre', 'monetary_fund', 'moolah', 'pelf', 'scratch', 'shekels', 'shinplaster', 'simoleons', 'subsidisation', 'subsidization', 'sugar', 'token_money', 'wampum']
+
+Synonyms of operation: ['operation', 'operation', 'operation', 'operation', 'operation', 'military_operation', 'operation', 'surgery', 'surgical_operation', 'surgical_procedure', 'surgical_process', 'operation', 'procedure', 'operation', 'functioning', 'performance', 'process', 'cognitive_process', 'mental_process', 'operation', 'cognitive_operation', 'mathematical_process', 'mathematical_operation', 'operation', 'operation']
+Hypernyms of operation: ['commission', 'idle', 'running']
+
+
+
+Rank 82 word pair (line,insurance) w/ cosine similarity = 0.018339228 (WS353 rank = 72)
+-----------------------------------------
+
+Synonyms of line: ['line', 'line', 'line', 'line', 'line', 'line', 'line', 'argumentation', 'logical_argument', 'argument', 'line_of_reasoning', 'line', 'cable', 'line', 'transmission_line', 'course', 'line', 'line', 'wrinkle', 'furrow', 'crease', 'crinkle', 'seam', 'line', 'pipeline', 'line', 'line', 'railway_line', 'rail_line', 'telephone_line', 'phone_line', 'telephone_circuit', 'subscriber_line', 'line', 'line', 'lineage', 'line', 'line_of_descent', 'descent', 'bloodline', 'blood_line', 'blood', 'pedigree', 'ancestry', 'origin', 'parentage', 'stemma', 'stock', 'line', 'occupation', 'business', 'job', 'line_of_work', 'line', 'line', 'channel', 'communication_channel', 'line', 'line', 'product_line', 'line_of_products', 'line_of_merchandise', 'business_line', 'line_of_business', 'line', 'agate_line', 'line', 'credit_line', 'line_of_credit', 'bank_line', 'line', 'personal_credit_line', 'personal_line_of_credit', 'tune', 'melody', 'air', 'strain', 'melodic_line', 'line', 'melodic_phrase', 'line', 'note', 'short_letter', 'line', 'billet', 'line', 'dividing_line', 'demarcation', 'contrast', 'production_line', 'assembly_line', 'line', 'line', 'run_along', 'line', 'trace', 'draw', 'line', 'describe', 'delineate', 'line', 'line', 'line']
+Hypernyms of line: ['chorus', 'chorus_line', 'diagonal', 'linemen', 'lineup', 'rank', 'rivet_line', 'row']
+
+Synonyms of insurance: ['insurance', 'policy', 'insurance_policy', 'insurance', 'indemnity', 'insurance']
+Hypernyms of insurance: ['assurance', 'automobile_insurance', 'business_interruption_insurance', 'car_insurance', 'coinsurance', 'fire_insurance', 'group_insurance', 'hazard_insurance', 'health_insurance', 'liability_insurance', 'life_assurance', 'life_insurance', 'malpractice_insurance', 'reinsurance', 'self-insurance', 'term_insurance']
+
+
+
+Rank 83 word pair (music,project) w/ cosine similarity = 0.008927969 (WS353 rank = 58)
+-----------------------------------------
+
+Synonyms of music: ['music', 'music', 'euphony', 'music', 'music', 'music', 'medicine']
+Hypernyms of music: ['Bach', 'Beethoven', 'Brahms', 'Chopin', 'Gilbert_and_Sullivan', 'Handel', 'Haydn', 'Mozart', 'Stravinsky', "Ta'ziyeh", 'Wagner', 'air', 'antiphony', 'ballet', 'chorus', 'composition', 'concerted_music', 'dance_music', 'genre', 'harmony', 'instrumental_music', 'line', 'melodic_line', 'melodic_phrase', 'melody', 'monody', 'monophonic_music', 'monophony', 'music_genre', 'musical_composition', 'musical_genre', 'musical_harmony', 'musical_style', 'opus', 'overture', 'part_music', 'piece', 'piece_of_music', 'pizzicato', 'polyphonic_music', 'polyphony', 'polytonalism', 'polytonality', 'popularism', 'prelude', 'refrain', 'section', 'serial_music', 'serialism', 'strain', 'subdivision', 'syncopation', 'tune', 'vocal', 'vocal_music']
+
+Synonyms of project: ['undertaking', 'project', 'task', 'labor', 'project', 'projection', 'project', 'stick_out', 'protrude', 'jut_out', 'jut', 'project', 'project', 'project', 'project', 'project', 'plan', 'project', 'contrive', 'design', 'project', 'propose', 'visualize', 'visualise', 'envision', 'project', 'fancy', 'see', 'figure', 'picture', 'image', 'project', 'cast', 'contrive', 'throw', 'project', 'send_off', 'project', 'externalize', 'externalise']
+Hypernyms of project: ['adventure', 'assignment', 'baby', 'breeze', "child's_play", 'cinch', 'dangerous_undertaking', 'duck_soup', 'endeavor', 'endeavour', 'endurance_contest', 'enterprise', 'escapade', 'labor_of_love', 'labour_of_love', 'large_order', 'marathon', 'no-brainer', 'picnic', 'piece_of_cake', 'proposition', 'pushover', 'risky_venture', 'snap', 'tall_order', 'venture', 'walkover']
+
+
+
+Rank 84 word pair (possibility,girl) w/ cosine similarity = -0.020236848 (WS353 rank = 78)
+-----------------------------------------
+
+Synonyms of possibility: ['possibility', 'possibility', 'possibleness', 'hypothesis', 'possibility', 'theory', 'possibility', 'possible_action', 'opening']
+Hypernyms of possibility: []
+
+Synonyms of girl: ['girl', 'miss', 'missy', 'young_lady', 'young_woman', 'fille', 'female_child', 'girl', 'little_girl', 'daughter', 'girl', 'girlfriend', 'girl', 'lady_friend', 'girl']
+Hypernyms of girl: ['Gibson_girl', 'May_queen', 'babe', 'baby', 'belle', 'bimbo', 'bird', 'chachka', 'chick', 'chit', 'colleen', 'dame', 'doll', 'flapper', 'gal', 'gamine', 'hoyden', 'jeune_fille', 'lass', 'lassie', 'maid', 'maiden', 'mill-girl', 'party_girl', 'peri', 'queen_of_the_May', 'ring_girl', 'romp', 'rosebud', 'sex_bomb', 'sex_kitten', 'sexpot', 'shop_girl', 'sister', 'skirt', 'soubrette', 'sweater_girl', 'tchotchke', 'tchotchkeleh', 'tomboy', 'tsatske', 'tshatshke', 'valley_girl', 'wench', 'working_girl', 'young_girl']
+
+
+
+Rank 85 word pair (cup,object) w/ cosine similarity = -0.017721381 (WS353 rank = 32)
+-----------------------------------------
+
+Synonyms of cup: ['cup', 'cup', 'cupful', 'cup', 'cup', 'cup', 'cup', 'cup', 'cup', 'loving_cup', 'cup', 'cup', 'cup', 'transfuse']
+Hypernyms of cup: ['Dixie_cup', 'beaker', 'chalice', 'coffee_cup', 'cylix', 'goblet', 'grace_cup', 'kylix', 'moustache_cup', 'mustache_cup', 'paper_cup', 'scyphus', 'teacup']
+
+Synonyms of object: ['object', 'physical_object', 'aim', 'object', 'objective', 'target', 'object', 'object', 'object', 'object', 'object']
+Hypernyms of object: ['catch', 'charm', 'commemorative', 'curio', 'curiosity', 'discard', 'draw', 'dry_land', 'earth', 'filler', 'film', 'finding', 'floater', 'fomite', 'formation', 'geological_formation', 'good_luck_charm', 'ground', 'ground', 'growth', 'hail', 'head', 'hoodoo', 'ice', 'je_ne_sais_quoi', 'keepsake', 'land', 'land', 'location', 'lot', 'makeweight', 'moon', 'neighbor', 'neighbour', 'oddity', 'oddment', 'paring', 'part', 'peculiarity', 'portion', 'prop', 'property', 'rarity', 'relic', 'remains', 'ribbon', 'shiner', 'small_beer', 'snake', 'soil', 'solid_ground', 'souvenir', 'stuff', 'terra_firma', 'thread', 'token', 'trifle', 'trivia', 'triviality', 'unit', 'vagabond', 'vehicle', 'wall', 'web', 'whole']
+
+
+

@@ -1,17 +1,10 @@
 # PhaseTransitionsInWordEmbeddings
-Ba project by Thor Larsen at Institute of Computer Science @ UCPH supervised by Daniel Hershcovich
+Bachelor project by Thor Larsen at Institute of Computer Science @ UCPH, supervised by Daniel Hershcovich
 
-McKinney-Bock and Bedrick (2019) and Hershcovich et al. (2019) found anecdotally that word embedding of CBoW with context window size 1 judge similarity better than those trained with larger windows and performance improves gradually until it recovers. This bachelor thesis aims to research why this is happening, and what is changing in this phase transition. We reproduce Skip-gram and CBoW models with similar parameters on different context windows sizes and evaluate on the WS353 dataset. Furthermore, we look into relations between the most similar word pairs found by the word embedding and come up with hypothesis that semantically relations as sister terms can explain why model with narrow context windows perform better. We test our hypothesis on the SimLex dataset.
+Data and related scripts used in paper's results section can be found in the "data" folder. Our hypothesis is tested using a hyper-geometric significance test using SciPy.
 
-Models are created using Gensim's implementaion of the original Word2Vec model by Mikolov et.al., evaluated using Spearman's $\rho$ and our hypothesis is tested using a hyper-geometric significance test.
+Final models are created using Gensim's implementation of the original Word2Vec model by Mikolov et.al. and evaluated using Spearman's $\rho$. The scripts made to generate models and the model files are found in the folder "models". Models made with AWS SageMaker's BlazingText and their evaluation scores can also be found under "models", but cannot be generated without access to AWS SageMaker.
 
-# Tentative schedule:
-   • 6 april reading
-   • 6 may reproduce word2vec exp.
-   • 14 may write background: word2vec
-   • 20 may benchmark qualitative analysis
-   • 1 june: write background benchmarks
-   • 10 june testing characteristics hypotheses
-   • 1 july writing results
-   • 20 july first draft
-   • 14 august submission
+Final version of paper is also included.
+
+This GitHub is only for reference and storage. Comments and requests are not reviewed.
